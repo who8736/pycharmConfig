@@ -12,13 +12,12 @@
       <file name="/a.dummy" timestamp="1552625925933">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/python workspace/pycharmtest/pycharmtest.py" timestamp="1552626025955">
+      <file name="E:/python workspace/pycharmtest/pycharmtest.py" timestamp="1552638614200">
         <mark key="u" line="14" column="22" />
         <mark key="'" line="24" column="15" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="14" column="12" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="D:/workspace/python/test/test.py" timestamp="1552571190555">
         <mark key="[" line="14" column="32" />
@@ -36,9 +35,12 @@
         <text encoding="base64">ICAgIGRhdGEgPSBbMSwgMiwgMywgNF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmMgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHZlY3RvckEuaW5zZXJ0KCkK</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvciBpIGluIHZlY3RvckEuaW5zZXJ0KCkK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmMgPSBOb25lCg==</text>
       </register>
       <register name="-" type="4">
@@ -67,6 +69,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
