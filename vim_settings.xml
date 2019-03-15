@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Python控制台" timestamp="1552612580313">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1552612673594">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/workspace/python/test/test.py" timestamp="1552571190555">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="10" column="3" />
