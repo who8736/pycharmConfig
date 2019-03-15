@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python控制台" timestamp="1552612580313">
+      <file name="/Python控制台" timestamp="1552613790508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1552612673594">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/python workspace/pycharmtest/pycharmtest.py" timestamp="1552614435107">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
       </file>
       <file name="D:/workspace/python/test/test.py" timestamp="1552571190555">
         <mark key="[" line="14" column="32" />
