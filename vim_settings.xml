@@ -6,14 +6,19 @@
       <file name="/Python控制台" timestamp="1552613790508">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552612673594">
+      <file name="/Dummy.txt" timestamp="1552619180816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/python workspace/pycharmtest/pycharmtest.py" timestamp="1552614435107">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+      <file name="/a.dummy" timestamp="1552625925933">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/python workspace/pycharmtest/pycharmtest.py" timestamp="1552626025955">
+        <mark key="u" line="14" column="22" />
+        <mark key="'" line="24" column="15" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="14" column="12" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="D:/workspace/python/test/test.py" timestamp="1552571190555">
         <mark key="[" line="14" column="32" />
@@ -22,13 +27,22 @@
         <mark key="." line="10" column="3" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="13" column="22" filename="E:/python workspace/pycharmtest/pycharmtest.py" />
+      <jump line="24" column="15" filename="E:/python workspace/pycharmtest/pycharmtest.py" />
+    </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRhdGEgPSBbMSwgMiwgMywgNF0K</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmMgPSBOb25lCg==</text>
+      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBbMSwgMiwgMywgNF0K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmMgPSBOb25lCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>t</text>
       </register>
     </registers>
     <search>
