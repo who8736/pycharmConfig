@@ -12,12 +12,13 @@
       <file name="/a.dummy" timestamp="1552625925933">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/python workspace/pycharmtest/pycharmtest.py" timestamp="1552638614200">
+      <file name="E:/python workspace/pycharmtest/pycharmtest.py" timestamp="1553049003952">
         <mark key="u" line="14" column="22" />
         <mark key="'" line="24" column="15" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+        <mark key="." line="30" column="4" />
       </file>
       <file name="D:/workspace/python/test/test.py" timestamp="1552571190555">
         <mark key="[" line="14" column="32" />
@@ -35,16 +36,19 @@
         <text encoding="base64">ICAgIGRhdGEgPSBbMSwgMiwgMywgNF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHZlY3RvckEuaW5zZXJ0KCkK</text>
+        <text encoding="base64">ICAgIENsYXNzQSAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHZlY3RvckEuaW5zZXJ0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGZvciBpIGluIHZlY3RvckEuaW5zZXJ0KCkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmMgPSBOb25lCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
