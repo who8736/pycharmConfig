@@ -1,1 +1,6 @@
-<keymap version="1" name="Default 复制" parent="$default" />
+<keymap version="1" name="Default 复制" parent="$default">
+  <action id="ChangesView.AddUnversioned" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
+</keymap>
