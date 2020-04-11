@@ -188,12 +188,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586573615619">
-        <mark key="'" line="84" column="4" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="37" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="83" column="35" />
+      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586590283701">
+        <mark key="'" line="175" column="7" />
+        <mark key="[" line="691" column="32" />
+        <mark key="]" line="692" column="18" />
+        <mark key="." line="692" column="17" />
+        <mark key="^" line="692" column="18" />
       </file>
       <file name="D:/workspace/stockdatamanage/web/templates/valuation.html" timestamp="1585710980256">
         <mark key="[" line="31" column="0" />
@@ -316,21 +316,23 @@
       <jump line="650" column="20" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="351" column="24" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="84" column="4" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="242" column="26" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="175" column="7" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd4X3Rlc3QgbGVuOicsIGxlbih4X3Rlc3QpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYn16q7u9DywdDE4rrPveG5+ycpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>or</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd4X3Rlc3QgbGVuOicsIGxlbih4X3Rlc3QpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGYn16q7u9DywdDE4rrPveG5+ycpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
