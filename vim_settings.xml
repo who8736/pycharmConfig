@@ -188,6 +188,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
+      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586591497369">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="18" />
+      </file>
       <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586590283701">
         <mark key="'" line="175" column="7" />
         <mark key="[" line="691" column="32" />
@@ -322,11 +328,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYn16q7u9DywdDE4rrPveG5+ycpCg==</text>
+      <register name="&quot;" type="4">
+        <text>399300.SZ</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>399300.SZ</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
