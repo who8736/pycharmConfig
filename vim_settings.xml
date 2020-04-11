@@ -5,18 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>datamana</entry>
-        <entry>$</entry>
-        <entry encoding="base64">ID0=</entry>
-        <entry>,$</entry>
-        <entry>pushdata</entry>
-        <entry>valuation</entry>
-        <entry>calpfnew</entry>
-        <entry>ts</entry>
-        <entry>ohlc</entry>
-        <entry>pebuy</entry>
-        <entry>start</entry>
-        <entry>fixes</entry>
         <entry encoding="base64">YnRuLWxhcmdlIA==</entry>
         <entry encoding="base64">YnRuIA==</entry>
         <entry>cross</entry>
@@ -25,11 +13,20 @@
         <entry>x</entry>
         <entry>ma</entry>
         <entry>talib</entry>
+        <entry>close_p</entry>
+        <entry>high_p</entry>
+        <entry>low_p</entry>
+        <entry>df\[</entry>
+        <entry encoding="base64">IHZvbHVtZQ==</entry>
+        <entry>(high</entry>
+        <entry encoding="base64">IGxvdw==</entry>
+        <entry>(close</entry>
+        <entry>open_p</entry>
+        <entry encoding="base64">IGhpZ2g=</entry>
+        <entry encoding="base64">IGNsb3Nl</entry>
+        <entry>_ridge</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyQvLCQvZw==</entry>
-        <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
-        <entry encoding="base64">JzwsJz5zLyA9LycsL2c=</entry>
         <entry encoding="base64">JzwsJz5zLywkL1xdLC9n</entry>
         <entry>s/start/end/g</entry>
         <entry encoding="base64">JzwsJz5zL2J0bi1sYXJnZSAvLw==</entry>
@@ -38,6 +35,18 @@
         <entry>s/x/y/ggg</entry>
         <entry>s/x/y/g</entry>
         <entry>%s/talib/ta/gg</entry>
+        <entry>%s/close_p/df\.close/g</entry>
+        <entry>%s/high_p/df\.high/g</entry>
+        <entry>%s/low_p/df\.low/g</entry>
+        <entry encoding="base64">JzwsJz5zL2RmXFsvZGZhXFsvZw==</entry>
+        <entry>%s/ volume/ df.volume/g</entry>
+        <entry>%s/(high/(df.high/g</entry>
+        <entry>%s/ low/ df\.low/g</entry>
+        <entry>%s/(close/(df\.close/g</entry>
+        <entry>%s/open_p/df\.open/g</entry>
+        <entry>%s/ high/ df\.high/g</entry>
+        <entry>%s/ close/ df\.close/g</entry>
+        <entry encoding="base64">JzwsJz5zL19yaWRnZS9fbGFzc28vZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -189,12 +198,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586610101863">
-        <mark key="'" line="20" column="6" />
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="24" />
+      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586612044649">
+        <mark key="'" line="729" column="10" />
+        <mark key="[" line="723" column="18" />
+        <mark key="]" line="723" column="23" />
+        <mark key="^" line="723" column="23" />
+        <mark key="." line="723" column="22" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586604514375">
         <mark key="'" line="441" column="20" />
@@ -231,17 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="11" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="114" column="4" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="117" column="4" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="0" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="1024" column="6" filename="D:/workspace/stockdatamanage/sqlrw.py" />
-      <jump line="0" column="1" filename="D:/workspace/stockdatamanage/sqlrw.py" />
-      <jump line="22" column="20" filename="D:/workspace/stockdatamanage/sqlrw.py" />
-      <jump line="35" column="18" filename="D:/workspace/stockdatamanage/sqlrw.py" />
-      <jump line="38" column="10" filename="D:/workspace/stockdatamanage/sqlrw.py" />
-      <jump line="59" column="24" filename="D:/workspace/stockdatamanage/sqlrw.py" />
-      <jump line="70" column="24" filename="D:/workspace/stockdatamanage/sqlrw.py" />
       <jump line="168" column="13" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="15" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="232" column="12" filename="D:/workspace/stockdatamanage/test/mean_reversoin.py" />
@@ -331,61 +329,72 @@
       <jump line="566" column="3" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="564" column="4" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="19" column="6" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="85" column="29" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="146" column="6" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="567" column="0" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="199" column="37" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="396" column="4" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="524" column="4" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="539" column="48" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="237" column="34" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="327" column="4" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="705" column="29" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="729" column="10" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHlfcHJlZGljdGlvbnMgPSBtb2RlbC5wcmVkaWN0KHhfdGVzdCkKICAgIHIyID0gcjJfc2NvcmUoeV90ZXN0LCB5X3ByZWRpY3Rpb25zKQogICAgcHJpbnQoJ2ludGVyY2VwdDonLCBtb2RlbC5pbnRlcmNlcHRfKQogICAgcHJpbnQoJ2NvZWY6JywgbW9kZWwuY29lZl8pCiAgICBwcmludCgncjI6JywgcjIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Ridge</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MSBpZiA=</text>
+        <text>Ridge</text>
       </register>
       <register name="/" type="4">
-        <text>talib</text>
+        <text>_ridge</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHlfcHJlZGljdGlvbnMgPSBtb2RlbC5wcmVkaWN0KHhfdGVzdCkKICAgIHIyID0gcjJfc2NvcmUoeV90ZXN0LCB5X3ByZWRpY3Rpb25zKQogICAgcHJpbnQoJ2ludGVyY2VwdDonLCBtb2RlbC5pbnRlcmNlcHRfKQogICAgcHJpbnQoJ2NvZWY6JywgbW9kZWwuY29lZl8pCiAgICBwcmludCgncjI6JywgcjIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdyaWRnZSByZWdyZXNzaW9uOicpCiAgICBtb2RlbF9yaWRnZSA9IFJpZGdlKCkKICAgIG1vZGVsX3JpZGdlLmZpdCh4X3RyYWluLCB5X3RyYWluKQogICAgeV9wcmVkaWN0aW9uc19yaWRnZSA9IG1vZGVsX3JpZGdlLnByZWRpY3QoeF90ZXN0KQogICAgcjJfcmlkZ2UgPSByMl9zY29yZSh5X3Rlc3QsIHlfcHJlZGljdGlvbnNfcmlkZ2UpCiAgICBwcmludCgnaW50ZXJjZXB0OicsIG1vZGVsX3JpZGdlLmludGVyY2VwdF8pCiAgICBwcmludCgnY29lZjonLCBtb2RlbF9yaWRnZS5jb2VmXykKICAgIHByaW50KCdyMjonLCByMl9yaWRnZSkKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdkYXRhIHNoYXBlOicsIGRmLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVwZXJpb2Q9MTQsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgIHByaW50KCdkYXRhIHNoYXBlOicsIGRmLnNoYXBlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGsKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRzX2NvZGUgPSAnMzk5MzAwLlNaJwogICAgeF90cmFpbiwgeF90ZXN0LCB5X3RyYWluLCB5X3Rlc3QgPSBnZXRkYXRhKHRzX2NvZGUpCiAgICBwcmludCh4X3RyYWluLnNoYXBlKQogICAgcHJpbnQoeF90cmFpbikKICAgIHByaW50KHhfdGVzdC5zaGFwZSkKICAgIHByaW50KHlfdHJhaW4uc2hhcGUpCiAgICBwcmludCh5X3RyYWluKQogICAgcHJpbnQoeV90ZXN0LnNoYXBlKQogICAgbW9kZWwgPSBMaW5lYXJSZWdyZXNzaW9uKCkKICAgIG1vZGVsLmZpdCh4X3RyYWluLCB5X3RyYWluKQogICAgeV9wcmVkaWN0aW9ucyA9IG1vZGVsLnByZWRpY3QoeF90ZXN0KQogICAgcjIgPSByMl9zY29yZSh5X3Rlc3QsIHlfcHJlZGljdGlvbnMpCiAgICBwcmludCgnaW50ZXJjZXB0OicsIG1vZGVsLmludGVyY2VwdF8pCiAgICBwcmludCgnY29lZjonLCBtb2RlbC5jb2VmXykKICAgIHByaW50KCdyMjonLCByMikK</text>
+        <text encoding="base64">ICAgIGsKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRzX2NvZGUgPSAnMzk5MzAwLlNaJwogICAgeF90cmFpbiwgeF90ZXN0LCB5X3RyYWluLCB5X3Rlc3QgPSBnZXRkYXRhKHRzX2NvZGUpCiAgICBwcmludCh4X3RyYWluLnNoYXBlKQogICAgcHJpbnQoeF90cmFpbikKICAgIHByaW50KHhfdGVzdC5zaGFwZSkKICAgIHByaW50KHlfdHJhaW4uc2hhcGUpCiAgICBwcmludCh5X3RyYWluKQogICAgcHJpbnQoeV90ZXN0LnNoYXBlKQogICAgbW9kZWwgPSBMaW5lYXJSZWdyZXNzaW9uKCkKICAgIG1vZGVsLmZpdCh4X3RyYWluLCB5X3RyYWluKQogICAgeV9wcmVkaWN0aW9ucyA9IG1vZGVsLnByZWRpY3QoeF90ZXN0KQogICAgcjIgPSByMl9zY29yZSh5X3Rlc3QsIHlfcHJlZGljdGlvbnMpCiAgICBwcmludCgnaW50ZXJjZXB0OicsIG1vZGVsLmludGVyY2VwdF8pCiAgICBwcmludCgnY29lZjonLCBtb2RlbC5jb2VmXykKICAgIHByaW50KCdyMjonLCByMikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoZGYpCiAgICAjIHByaW50KCctJyAqIDgwKQogICAgIyBwcmludChkZi5pbG9jWzosIDA6M10udmFsdWVzKQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHIyID0gcjJfc2NvcmUoZGF0YSwgeV9wcmVkaWN0KQo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZGYpCiAgICAjIHByaW50KCctJyAqIDgwKQogICAgIyBwcmludChkZi5pbG9jWzosIDA6M10udmFsdWVzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHgsIHkgPSBzZXJpZXNfdG9fc3VwZXJ2aXNlZChkYXRhLCBuX2luPTMpCg==</text>
+        <text encoding="base64">ICAgIHIyID0gcjJfc2NvcmUoZGF0YSwgeV9wcmVkaWN0KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/talib/ta/gg</text>
+        <text encoding="base64">JzwsJz5zL19yaWRnZS9fbGFzc28vZw==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>talib</last-search>
+      <last-search>_ridge</last-search>
       <last-offset />
-      <last-pattern>talib</last-pattern>
-      <last-replace>ta</last-replace>
-      <last-substitute>talib</last-substitute>
+      <last-pattern>_ridge</last-pattern>
+      <last-replace>_lasso</last-replace>
+      <last-substitute>_ridge</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
