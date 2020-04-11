@@ -24,6 +24,7 @@
         <entry>cross</entry>
         <entry>1</entry>
         <entry>trans</entry>
+        <entry>x</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLCQvZw==</entry>
@@ -34,6 +35,8 @@
         <entry encoding="base64">JzwsJz5zL2J0bi1sYXJnZSAvLw==</entry>
         <entry encoding="base64">JzwsJz5zL2J0biAvLw==</entry>
         <entry>s/1/2/g</entry>
+        <entry>s/x/y/ggg</entry>
+        <entry>s/x/y/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -185,12 +188,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586573453460">
-        <mark key="'" line="351" column="24" />
-        <mark key="[" line="623" column="59" />
-        <mark key="]" line="623" column="60" />
-        <mark key="." line="623" column="60" />
-        <mark key="^" line="623" column="39" />
+      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586573615619">
+        <mark key="'" line="84" column="4" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="37" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="83" column="35" />
       </file>
       <file name="D:/workspace/stockdatamanage/web/templates/valuation.html" timestamp="1585710980256">
         <mark key="[" line="31" column="0" />
@@ -312,21 +315,22 @@
       <jump line="344" column="19" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="650" column="20" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="351" column="24" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="84" column="4" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>or</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KCd4X3Rlc3QgbGVuOicsIGxlbih4X3Rlc3QpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>or</text>
       </register>
       <register name="/" type="4">
-        <text>trans</text>
+        <text>x</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYnaW50ZXJjZXB0OntpbnRlcmNlcHR9JykK</text>
+        <text encoding="base64">ICAgIHByaW50KCd4X3Rlc3QgbGVuOicsIGxlbih4X3Rlc3QpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVsc2U6Cg==</text>
@@ -356,17 +360,17 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/1/2/g</text>
+        <text>s/x/y/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>trans</last-search>
+      <last-search>x</last-search>
       <last-offset />
-      <last-pattern>trans</last-pattern>
-      <last-replace>2</last-replace>
-      <last-substitute>1</last-substitute>
+      <last-pattern>x</last-pattern>
+      <last-replace>y</last-replace>
+      <last-substitute>x</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
