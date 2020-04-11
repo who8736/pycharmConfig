@@ -188,12 +188,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586605103255">
-        <mark key="'" line="35" column="10" />
-        <mark key="[" line="26" column="45" />
-        <mark key="]" line="26" column="46" />
-        <mark key="." line="26" column="46" />
-        <mark key="^" line="25" column="47" />
+      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586607125615">
+        <mark key="'" line="70" column="17" />
+        <mark key="[" line="76" column="19" />
+        <mark key="]" line="76" column="25" />
+        <mark key="^" line="76" column="25" />
+        <mark key="." line="76" column="24" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586604514375">
         <mark key="'" line="441" column="20" />
@@ -230,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="22" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="476" column="10" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="216" column="0" filename="D:/workspace/stockdatamanage/test/mean_reversoin.py" />
       <jump line="7" column="0" filename="D:/workspace/stockdatamanage/test/mean_reversoin.py" />
@@ -330,21 +329,22 @@
       <jump line="339" column="13" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="439" column="20" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="441" column="20" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="69" column="17" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRmWydtYTEwJ10gPSB0YS5TTUEoZGYuY2xvc2UsIHRpbWVwZXJpb2Q9MTApCg==</text>
+        <text encoding="base64">ICAgIHlfcHJlZGljdGlvbnMgPSBtb2RlbC5wcmVkaWN0KHhfdGVzdCkKICAgIHIyID0gcjJfc2NvcmUoeV90ZXN0LCB5X3ByZWRpY3Rpb25zKQogICAgcHJpbnQoJ2ludGVyY2VwdDonLCBtb2RlbC5pbnRlcmNlcHRfKQogICAgcHJpbnQoJ2NvZWY6JywgbW9kZWwuY29lZl8pCiAgICBwcmludCgncjI6JywgcjIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">MSBpZiA=</text>
       </register>
       <register name="/" type="4">
         <text>ma</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRmWydtYTEwJ10gPSB0YS5TTUEoZGYuY2xvc2UsIHRpbWVwZXJpb2Q9MTApCg==</text>
+        <text encoding="base64">ICAgIHlfcHJlZGljdGlvbnMgPSBtb2RlbC5wcmVkaWN0KHhfdGVzdCkKICAgIHIyID0gcjJfc2NvcmUoeV90ZXN0LCB5X3ByZWRpY3Rpb25zKQogICAgcHJpbnQoJ2ludGVyY2VwdDonLCBtb2RlbC5pbnRlcmNlcHRfKQogICAgcHJpbnQoJ2NvZWY6JywgbW9kZWwuY29lZl8pCiAgICBwcmludCgncjI6JywgcjIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KCdkYXRhIHNoYXBlOicsIGRmLnNoYXBlKQo=</text>
