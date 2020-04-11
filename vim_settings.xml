@@ -23,6 +23,7 @@
         <entry encoding="base64">YnRuIA==</entry>
         <entry>cross</entry>
         <entry>1</entry>
+        <entry>trans</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLCQvZw==</entry>
@@ -191,6 +192,13 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
+      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586572740618">
+        <mark key="'" line="650" column="20" />
+        <mark key="[" line="319" column="56" />
+        <mark key="]" line="319" column="57" />
+        <mark key="." line="319" column="56" />
+        <mark key="^" line="319" column="65" />
+      </file>
       <file name="D:/workspace/stockdatamanage/web/templates/valuation.html" timestamp="1585710980256">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="62" column="17" />
@@ -303,48 +311,55 @@
       <jump line="571" column="4" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="377" column="27" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="611" column="7" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
+      <jump line="76" column="43" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="18" column="19" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="501" column="20" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="0" column="0" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="674" column="4" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="344" column="19" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="650" column="20" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIF9saW5lYXIoZGF0YSwgcGxvdD1GYWxzZSwgdGl0bGU9Tm9uZSwgZmlsZW5hbWU9Tm9uZSk6CiAgICAiIiLP39DUu9i56c2o08O6r8r9o6y21NK71+nK/b7dvfjQ0M/f0NS72LnpCiAgICA6cGFyYW0gZGF0YToKICAgIDpwYXJhbSBwbG90OiDKx7fxz9TKvrvmzby94bn7CiAgICA6cGFyYW0gdGl0bGU6ILvmzbyx6szio6xwbG90zqpUcnVlyrGjrHRpdGxlzqqx2NGhz+4KICAgIDpwYXJhbSBmaWxlbmFtZTogsrvOqr/VyrGjrNfUtq+xo7TmzbzGrAogICAgOnJldHVybjoKICAgILjD1+nK/b7dvvnWtaOsvvm3vbLuo6xhZGa87LLiveG5+wogICAguMPX6cr9vt3Su73Xsu631rXEvvnWtaOsvvm3vbLuo6xhZGa87LLiveG5+wogICAgIiIiCiAgICBwYXNzCiAgICBjbnQgPSBsZW4oZGF0YSkKICAgIGlmIGNudCA8IDEwOgogICAgICAgIHJldHVybiBOb25lCiAgICB4ID0gbnAuYXJyYXkocmFuZ2UoMSwgY250ICsgMSkpCiAgICB4ID0geFs6LCBucC5uZXdheGlzXQoKICAgICMgxOK6zwogICAgcmVnciA9IGxpbmVhcl9tb2RlbC5MaW5lYXJSZWdyZXNzaW9uKCkKICAgIHJlZ3IuZml0KHgsIGRhdGEpCiAgICBpbnRlcmNlcHQgPSByZWdyLmludGVyY2VwdF8KICAgIGNvZWYgPSByZWdyLmNvZWZfWzBdCiAgICAjIHByaW50KGYnvdi+4Dp7aW50ZXJjZXB0fSwgz7XK/Tp7Y29lZn0nKQoKICAgICMgvMbL43IyCiAgICBZID0gW2ludGVyY2VwdCArIGkgKiBjb2VmIGZvciBpIGluIHhdCiAgICByMiA9IHIyX3Njb3JlKGRhdGEsIFkpCiAgICByZXR1cm4gZGljdChpbnRlcmNlcHQ9aW50ZXJjZXB0LCBjb2VmPWNvZWYsIHIyPXIyKQoKCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>trans</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIF9saW5lYXIoZGF0YSwgcGxvdD1GYWxzZSwgdGl0bGU9Tm9uZSwgZmlsZW5hbWU9Tm9uZSk6CiAgICAiIiLP39DUu9i56c2o08O6r8r9o6y21NK71+nK/b7dvfjQ0M/f0NS72LnpCiAgICA6cGFyYW0gZGF0YToKICAgIDpwYXJhbSBwbG90OiDKx7fxz9TKvrvmzby94bn7CiAgICA6cGFyYW0gdGl0bGU6ILvmzbyx6szio6xwbG90zqpUcnVlyrGjrHRpdGxlzqqx2NGhz+4KICAgIDpwYXJhbSBmaWxlbmFtZTogsrvOqr/VyrGjrNfUtq+xo7TmzbzGrAogICAgOnJldHVybjoKICAgILjD1+nK/b7dvvnWtaOsvvm3vbLuo6xhZGa87LLiveG5+wogICAguMPX6cr9vt3Su73Xsu631rXEvvnWtaOsvvm3vbLuo6xhZGa87LLiveG5+wogICAgIiIiCiAgICBwYXNzCiAgICBjbnQgPSBsZW4oZGF0YSkKICAgIGlmIGNudCA8IDEwOgogICAgICAgIHJldHVybiBOb25lCiAgICB4ID0gbnAuYXJyYXkocmFuZ2UoMSwgY250ICsgMSkpCiAgICB4ID0geFs6LCBucC5uZXdheGlzXQoKICAgICMgxOK6zwogICAgcmVnciA9IGxpbmVhcl9tb2RlbC5MaW5lYXJSZWdyZXNzaW9uKCkKICAgIHJlZ3IuZml0KHgsIGRhdGEpCiAgICBpbnRlcmNlcHQgPSByZWdyLmludGVyY2VwdF8KICAgIGNvZWYgPSByZWdyLmNvZWZfWzBdCiAgICAjIHByaW50KGYnvdi+4Dp7aW50ZXJjZXB0fSwgz7XK/Tp7Y29lZn0nKQoKICAgICMgvMbL43IyCiAgICBZID0gW2ludGVyY2VwdCArIGkgKiBjb2VmIGZvciBpIGluIHhdCiAgICByMiA9IHIyX3Njb3JlKGRhdGEsIFkpCiAgICByZXR1cm4gZGljdChpbnRlcmNlcHQ9aW50ZXJjZXB0LCBjb2VmPWNvZWYsIHIyPXIyKQoKCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYnaW50ZXJjZXB0OntpbnRlcmNlcHR9JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGZbKCkgJiAoZGYuZmxhZyAhPSAwKV0uaW5kZXgubWluKCk=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoZGYpCiAgICAjIHByaW50KCctJyAqIDgwKQogICAgIyBwcmludChkZi5pbG9jWzosIDA6M10udmFsdWVzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ICAgIHIyID0gcjJfc2NvcmUoZGF0YSwgeV9wcmVkaWN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgIGltcG9ydCBudW1weSBhcyBucAogICAgaW1wb3J0IG1hdHBsb3RsaWIubWxhYiBhcyBNTEEK</text>
+        <text encoding="base64">ICAgIHgsIHkgPSBzZXJpZXNfdG9fc3VwZXJ2aXNlZChkYXRhLCBuX2luPTMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCiAgICCw5sioyfnD96O6sb7OxM6qQ1NETrKp1vehuG1hX3N0dWRkobm1xNSttLTOxNXCo6zX8dGtCiAgICBDQwogICAgNC4wCiAgICBCWSAtIFNBCiAgICCw5sio0K3S6aOs16rU2MfruL3Jz9StzsSz9rSmwbS907ywsb7J+cP3oaMKICAgINStzsTBtL3To7podHRwczogLy8gYmxvZy5jc2RuLm5ldCAvIHUwMTM5MjA0MzQgLyBqYXZhIC8gYXJ0aWNsZSAvIGRldGFpbHMgLyA1MjUwNzE3Mw==</text>
+        <text encoding="base64">ZGZbKCkgJiAoZGYuZmxhZyAhPSAwKV0uaW5kZXgubWluKCk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJjdXQgPSA0Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgIGltcG9ydCBudW1weSBhcyBucAogICAgaW1wb3J0IG1hdHBsb3RsaWIubWxhYiBhcyBNTEEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGF4Mi54YXhpcy5zZXRfbWFqb3JfbG9jYXRvcihsb2NhdG9yKQo=</text>
+        <text encoding="base64">ICAgIKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCiAgICCw5sioyfnD96O6sb7OxM6qQ1NETrKp1vehuG1hX3N0dWRkobm1xNSttLTOxNXCo6zX8dGtCiAgICBDQwogICAgNC4wCiAgICBCWSAtIFNBCiAgICCw5sio0K3S6aOs16rU2MfruL3Jz9StzsSz9rSmwbS907ywsb7J+cP3oaMKICAgINStzsTBtL3To7podHRwczogLy8gYmxvZy5jc2RuLm5ldCAvIHUwMTM5MjA0MzQgLyBqYXZhIC8gYXJ0aWNsZSAvIGRldGFpbHMgLyA1MjUwNzE3Mw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRmMS5jbG9zZV9zaCA9PSBkZjEuY29sXQo=</text>
+        <text encoding="base64">ICAgICAgICBzdHJjdXQgPSA0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
@@ -353,9 +368,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>1</last-search>
+      <last-search>trans</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern>trans</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
