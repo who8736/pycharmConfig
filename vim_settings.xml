@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>dataman</entry>
         <entry>datamana</entry>
         <entry>$</entry>
         <entry encoding="base64">ID0=</entry>
@@ -25,6 +24,7 @@
         <entry>trans</entry>
         <entry>x</entry>
         <entry>ma</entry>
+        <entry>talib</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLCQvZw==</entry>
@@ -37,6 +37,7 @@
         <entry>s/1/2/g</entry>
         <entry>s/x/y/ggg</entry>
         <entry>s/x/y/g</entry>
+        <entry>%s/talib/ta/gg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -188,12 +189,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586607125615">
-        <mark key="'" line="70" column="17" />
-        <mark key="[" line="76" column="19" />
-        <mark key="]" line="76" column="25" />
-        <mark key="^" line="76" column="25" />
-        <mark key="." line="76" column="24" />
+      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586610101863">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="24" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586604514375">
         <mark key="'" line="441" column="20" />
@@ -230,9 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="476" column="10" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="216" column="0" filename="D:/workspace/stockdatamanage/test/mean_reversoin.py" />
-      <jump line="7" column="0" filename="D:/workspace/stockdatamanage/test/mean_reversoin.py" />
       <jump line="94" column="11" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="114" column="4" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="117" column="4" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
@@ -330,6 +328,9 @@
       <jump line="439" column="20" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="441" column="20" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="69" column="17" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="566" column="3" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="564" column="4" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="19" column="6" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,7 +342,7 @@
         <text encoding="base64">MSBpZiA=</text>
       </register>
       <register name="/" type="4">
-        <text>ma</text>
+        <text>talib</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHlfcHJlZGljdGlvbnMgPSBtb2RlbC5wcmVkaWN0KHhfdGVzdCkKICAgIHIyID0gcjJfc2NvcmUoeV90ZXN0LCB5X3ByZWRpY3Rpb25zKQogICAgcHJpbnQoJ2ludGVyY2VwdDonLCBtb2RlbC5pbnRlcmNlcHRfKQogICAgcHJpbnQoJ2NvZWY6JywgbW9kZWwuY29lZl8pCiAgICBwcmludCgncjI6JywgcjIpCg==</text>
@@ -374,17 +375,17 @@
         <text encoding="base64">ICAgIHgsIHkgPSBzZXJpZXNfdG9fc3VwZXJ2aXNlZChkYXRhLCBuX2luPTMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/x/y/g</text>
+        <text>%s/talib/ta/gg</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ma</last-search>
+      <last-search>talib</last-search>
       <last-offset />
-      <last-pattern>ma</last-pattern>
-      <last-replace>y</last-replace>
-      <last-substitute>x</last-substitute>
+      <last-pattern>talib</last-pattern>
+      <last-replace>ta</last-replace>
+      <last-substitute>talib</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
