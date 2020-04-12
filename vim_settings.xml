@@ -192,12 +192,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586670687860">
-        <mark key="'" line="758" column="19" />
-        <mark key="[" line="796" column="15" />
-        <mark key="]" line="796" column="23" />
-        <mark key="^" line="796" column="23" />
-        <mark key="." line="796" column="22" />
+      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586695488959">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="777" column="50" />
+        <mark key="]" line="777" column="63" />
+        <mark key="^" line="777" column="63" />
+        <mark key="." line="777" column="62" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586604514375">
         <mark key="'" line="441" column="20" />
@@ -322,48 +322,56 @@
       <jump line="9" column="32" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="728" column="21" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="758" column="19" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="26" column="13" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="106" column="49" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="800" column="8" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="784" column="8" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="777" column="12" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="776" column="0" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="782" column="12" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="66" column="0" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>classifier</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgU1ZDKGdhbW1hPSdhdXRvJykK</text>
       </register>
       <register name="-" type="4">
-        <text>classifier</text>
+        <text encoding="base64">Pj4gPiA=</text>
       </register>
       <register name="/" type="4">
         <text>model_main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vZGVsX21haW5fY2xhc3NpZmllcigpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdsaW5lYXJTVkMgc2NvcmU6JywgbW9kZWwuc2NvcmUoeF90ZXN0LCB5X3Rlc3QpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgICMgU1ZDKGdhbW1hPSdhdXRvJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGZbKCkgJiAoZGYuZmxhZyAhPSAwKV0uaW5kZXgubWluKCk=</text>
+        <text encoding="base64">ICAgICMgZnJvbSBza2xlYXJuLnN2bSBpbXBvcnQgU1ZDCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoJ3JpZGdlIHJlZ3Jlc3Npb246JykKICAgICMgbW9kZWxfcmlkZ2UgPSBSaWRnZSgpCiAgICAjIG1vZGVsX3JpZGdlLmZpdCh4X3RyYWluLCB5X3RyYWluKQogICAgIyB5X3ByZWRpY3Rpb25zX3JpZGdlID0gbW9kZWxfcmlkZ2UucHJlZGljdCh4X3Rlc3QpCiAgICAjIHIyX3JpZGdlID0gcjJfc2NvcmUoeV90ZXN0LCB5X3ByZWRpY3Rpb25zX3JpZGdlKQogICAgIyBwcmludCgnaW50ZXJjZXB0OicsIG1vZGVsX3JpZGdlLmludGVyY2VwdF8pCiAgICAjIHByaW50KCdjb2VmOicsIG1vZGVsX3JpZGdlLmNvZWZfKQogICAgIyBwcmludCgncjI6JywgcjJfcmlkZ2UpCiAgICAjCiAgICAjIHByaW50KCdsYXNzbyByZWdyZXNzaW9uOicpCiAgICAjIG1vZGVsX2xhc3NvID0gTGFzc28oKQogICAgIyBtb2RlbF9sYXNzby5maXQoeF90cmFpbiwgeV90cmFpbikKICAgICMgeV9wcmVkaWN0aW9uc19sYXNzbyA9IG1vZGVsX2xhc3NvLnByZWRpY3QoeF90ZXN0KQogICAgIyByMl9sYXNzbyA9IHIyX3Njb3JlKHlfdGVzdCwgeV9wcmVkaWN0aW9uc19sYXNzbykKICAgICMgcHJpbnQoJ2ludGVyY2VwdDonLCBtb2RlbF9sYXNzby5pbnRlcmNlcHRfKQogICAgIyBwcmludCgnY29lZjonLCBtb2RlbF9sYXNzby5jb2VmXykKICAgICMgcHJpbnQoJ3IyOicsIHIyX2xhc3NvKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgIGltcG9ydCBudW1weSBhcyBucAogICAgaW1wb3J0IG1hdHBsb3RsaWIubWxhYiBhcyBNTEEK</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCiAgICCw5sioyfnD96O6sb7OxM6qQ1NETrKp1vehuG1hX3N0dWRkobm1xNSttLTOxNXCo6zX8dGtCiAgICBDQwogICAgNC4wCiAgICBCWSAtIFNBCiAgICCw5sio0K3S6aOs16rU2MfruL3Jz9StzsSz9rSmwbS907ywsb7J+cP3oaMKICAgINStzsTBtL3To7podHRwczogLy8gYmxvZy5jc2RuLm5ldCAvIHUwMTM5MjA0MzQgLyBqYXZhIC8gYXJ0aWNsZSAvIGRldGFpbHMgLyA1MjUwNzE3Mw==</text>
+        <text encoding="base64">ZGZbKCkgJiAoZGYuZmxhZyAhPSAwKV0uaW5kZXgubWluKCk=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJjdXQgPSA0Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgIGltcG9ydCBudW1weSBhcyBucAogICAgaW1wb3J0IG1hdHBsb3RsaWIubWxhYiBhcyBNTEEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGF4Mi54YXhpcy5zZXRfbWFqb3JfbG9jYXRvcihsb2NhdG9yKQo=</text>
+        <text encoding="base64">ICAgIKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCiAgICCw5sioyfnD96O6sb7OxM6qQ1NETrKp1vehuG1hX3N0dWRkobm1xNSttLTOxNXCo6zX8dGtCiAgICBDQwogICAgNC4wCiAgICBCWSAtIFNBCiAgICCw5sio0K3S6aOs16rU2MfruL3Jz9StzsSz9rSmwbS907ywsb7J+cP3oaMKICAgINStzsTBtL3To7podHRwczogLy8gYmxvZy5jc2RuLm5ldCAvIHUwMTM5MjA0MzQgLyBqYXZhIC8gYXJ0aWNsZSAvIGRldGFpbHMgLyA1MjUwNzE3Mw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
