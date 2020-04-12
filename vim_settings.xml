@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">YnRuLWxhcmdlIA==</entry>
         <entry encoding="base64">YnRuIA==</entry>
         <entry>cross</entry>
         <entry>1</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">IGhpZ2g=</entry>
         <entry encoding="base64">IGNsb3Nl</entry>
         <entry>_ridge</entry>
+        <entry>check_X_y</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywkL1xdLC9n</entry>
@@ -198,12 +198,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586656123692">
-        <mark key="'" line="731" column="10" />
-        <mark key="[" line="44" column="34" />
-        <mark key="]" line="46" column="38" />
-        <mark key="^" line="46" column="38" />
-        <mark key="." line="46" column="37" />
+      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586657279743">
+        <mark key="'" line="54" column="11" />
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="54" column="37" />
+        <mark key="^" line="54" column="37" />
+        <mark key="." line="54" column="36" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586604514375">
         <mark key="'" line="441" column="20" />
@@ -240,9 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="13" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="15" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="232" column="12" filename="D:/workspace/stockdatamanage/test/mean_reversoin.py" />
       <jump line="486" column="5" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="839" column="0" filename="D:/workspace/stockdatamanage/download.py" />
       <jump line="159" column="16" filename="D:/workspace/stockdatamanage/datamanage.py" />
@@ -340,6 +337,9 @@
       <jump line="327" column="4" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="705" column="29" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="729" column="10" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="619" column="17" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="11" column="29" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="54" column="11" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -351,7 +351,7 @@
         <text>Ridge</text>
       </register>
       <register name="/" type="4">
-        <text>_ridge</text>
+        <text>check_X_y</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KCdyaWRnZSByZWdyZXNzaW9uOicpCiAgICBtb2RlbF9yaWRnZSA9IFJpZGdlKCkKICAgIG1vZGVsX3JpZGdlLmZpdCh4X3RyYWluLCB5X3RyYWluKQogICAgeV9wcmVkaWN0aW9uc19yaWRnZSA9IG1vZGVsX3JpZGdlLnByZWRpY3QoeF90ZXN0KQogICAgcjJfcmlkZ2UgPSByMl9zY29yZSh5X3Rlc3QsIHlfcHJlZGljdGlvbnNfcmlkZ2UpCiAgICBwcmludCgnaW50ZXJjZXB0OicsIG1vZGVsX3JpZGdlLmludGVyY2VwdF8pCiAgICBwcmludCgnY29lZjonLCBtb2RlbF9yaWRnZS5jb2VmXykKICAgIHByaW50KCdyMjonLCByMl9yaWRnZSkKCg==</text>
@@ -390,9 +390,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>_ridge</last-search>
+      <last-search>check_X_y</last-search>
       <last-offset />
-      <last-pattern>_ridge</last-pattern>
+      <last-pattern>check_X_y</last-pattern>
       <last-replace>_lasso</last-replace>
       <last-substitute>_ridge</last-substitute>
       <last-dir>1</last-dir>
