@@ -23,6 +23,7 @@
         <entry encoding="base64">YnRuIA==</entry>
         <entry>cross</entry>
         <entry>1</entry>
+        <entry>model_main</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLCQvZw==</entry>
@@ -191,12 +192,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586659638464">
-        <mark key="'" line="41" column="34" />
-        <mark key="[" line="56" column="25" />
-        <mark key="]" line="56" column="25" />
-        <mark key="^" line="55" column="18" />
-        <mark key="." line="56" column="25" />
+      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586661509449">
+        <mark key="'" line="9" column="32" />
+        <mark key="[" line="715" column="26" />
+        <mark key="]" line="715" column="27" />
+        <mark key="^" line="715" column="27" />
+        <mark key="." line="715" column="26" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586604514375">
         <mark key="'" line="441" column="20" />
@@ -317,48 +318,50 @@
       <jump line="571" column="4" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="377" column="27" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="611" column="7" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
+      <jump line="713" column="11" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="9" column="32" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>model_main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIF9saW5lYXIoZGF0YSwgcGxvdD1GYWxzZSwgdGl0bGU9Tm9uZSwgZmlsZW5hbWU9Tm9uZSk6CiAgICAiIiLP39DUu9i56c2o08O6r8r9o6y21NK71+nK/b7dvfjQ0M/f0NS72LnpCiAgICA6cGFyYW0gZGF0YToKICAgIDpwYXJhbSBwbG90OiDKx7fxz9TKvrvmzby94bn7CiAgICA6cGFyYW0gdGl0bGU6ILvmzbyx6szio6xwbG90zqpUcnVlyrGjrHRpdGxlzqqx2NGhz+4KICAgIDpwYXJhbSBmaWxlbmFtZTogsrvOqr/VyrGjrNfUtq+xo7TmzbzGrAogICAgOnJldHVybjoKICAgILjD1+nK/b7dvvnWtaOsvvm3vbLuo6xhZGa87LLiveG5+wogICAguMPX6cr9vt3Su73Xsu631rXEvvnWtaOsvvm3vbLuo6xhZGa87LLiveG5+wogICAgIiIiCiAgICBwYXNzCiAgICBjbnQgPSBsZW4oZGF0YSkKICAgIGlmIGNudCA8IDEwOgogICAgICAgIHJldHVybiBOb25lCiAgICB4ID0gbnAuYXJyYXkocmFuZ2UoMSwgY250ICsgMSkpCiAgICB4ID0geFs6LCBucC5uZXdheGlzXQoKICAgICMgxOK6zwogICAgcmVnciA9IGxpbmVhcl9tb2RlbC5MaW5lYXJSZWdyZXNzaW9uKCkKICAgIHJlZ3IuZml0KHgsIGRhdGEpCiAgICBpbnRlcmNlcHQgPSByZWdyLmludGVyY2VwdF8KICAgIGNvZWYgPSByZWdyLmNvZWZfWzBdCiAgICAjIHByaW50KGYnvdi+4Dp7aW50ZXJjZXB0fSwgz7XK/Tp7Y29lZn0nKQoKICAgICMgvMbL43IyCiAgICBZID0gW2ludGVyY2VwdCArIGkgKiBjb2VmIGZvciBpIGluIHhdCiAgICByMiA9IHIyX3Njb3JlKGRhdGEsIFkpCiAgICByZXR1cm4gZGljdChpbnRlcmNlcHQ9aW50ZXJjZXB0LCBjb2VmPWNvZWYsIHIyPXIyKQoKCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCd5X3Rlc3Q6XG4nLCB5X3Rlc3QpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGZbKCkgJiAoZGYuZmxhZyAhPSAwKV0uaW5kZXgubWluKCk=</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ZGZbKCkgJiAoZGYuZmxhZyAhPSAwKV0uaW5kZXgubWluKCk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgIGltcG9ydCBudW1weSBhcyBucAogICAgaW1wb3J0IG1hdHBsb3RsaWIubWxhYiBhcyBNTEEK</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCiAgICCw5sioyfnD96O6sb7OxM6qQ1NETrKp1vehuG1hX3N0dWRkobm1xNSttLTOxNXCo6zX8dGtCiAgICBDQwogICAgNC4wCiAgICBCWSAtIFNBCiAgICCw5sio0K3S6aOs16rU2MfruL3Jz9StzsSz9rSmwbS907ywsb7J+cP3oaMKICAgINStzsTBtL3To7podHRwczogLy8gYmxvZy5jc2RuLm5ldCAvIHUwMTM5MjA0MzQgLyBqYXZhIC8gYXJ0aWNsZSAvIGRldGFpbHMgLyA1MjUwNzE3Mw==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgIGltcG9ydCBudW1weSBhcyBucAogICAgaW1wb3J0IG1hdHBsb3RsaWIubWxhYiBhcyBNTEEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCiAgICCw5sioyfnD96O6sb7OxM6qQ1NETrKp1vehuG1hX3N0dWRkobm1xNSttLTOxNXCo6zX8dGtCiAgICBDQwogICAgNC4wCiAgICBCWSAtIFNBCiAgICCw5sio0K3S6aOs16rU2MfruL3Jz9StzsSz9rSmwbS907ywsb7J+cP3oaMKICAgINStzsTBtL3To7podHRwczogLy8gYmxvZy5jc2RuLm5ldCAvIHUwMTM5MjA0MzQgLyBqYXZhIC8gYXJ0aWNsZSAvIGRldGFpbHMgLyA1MjUwNzE3Mw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJjdXQgPSA0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGF4Mi54YXhpcy5zZXRfbWFqb3JfbG9jYXRvcihsb2NhdG9yKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdHJjdXQgPSA0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGF4Mi54YXhpcy5zZXRfbWFqb3JfbG9jYXRvcihsb2NhdG9yKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRmMS5jbG9zZV9zaCA9PSBkZjEuY29sXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
@@ -367,9 +370,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>1</last-search>
+      <last-search>model_main</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern>model_main</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
