@@ -118,8 +118,10 @@
       <file name="/start_script.py" timestamp="1586447359154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586676412357">
+      <file name="/Dummy.txt" timestamp="1586697849075">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="customization.xml" timestamp="1585732584038">
         <mark key="[" line="0" column="0" />
@@ -334,11 +336,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgU1ZDKGdhbW1hPSdhdXRvJykK</text>
+      <register name="&quot;" type="4">
+        <text>跌</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pj4gPiA=</text>
+        <text>跌</text>
       </register>
       <register name="/" type="4">
         <text>model_main</text>
