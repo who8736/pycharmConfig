@@ -21,13 +21,6 @@
       <path value="VCS 操作" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ChooseRunConfiguration" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="工具栏运行操作" />
-      <path value="运行/调试" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Git.Pull" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
