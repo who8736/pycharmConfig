@@ -192,12 +192,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586661509449">
+      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586663554553">
         <mark key="'" line="9" column="32" />
-        <mark key="[" line="715" column="26" />
-        <mark key="]" line="715" column="27" />
-        <mark key="^" line="715" column="27" />
-        <mark key="." line="715" column="26" />
+        <mark key="[" line="795" column="14" />
+        <mark key="]" line="795" column="27" />
+        <mark key="^" line="795" column="27" />
+        <mark key="." line="795" column="26" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586604514375">
         <mark key="'" line="441" column="20" />
@@ -324,17 +324,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>model_main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd5X3Rlc3Q6XG4nLCB5X3Rlc3QpCg==</text>
+        <text encoding="base64">ZGVmIG1vZGVsX21haW5fbGluZWFyKCk6CiAgICB0c19jb2RlID0gJzM5OTMwMC5TWicKICAgIHhfdHJhaW4sIHhfdGVzdCwgeV90cmFpbiwgeV90ZXN0ID0gZ2V0ZGF0YSh0c19jb2RlKQogICAgIyByZXR1cm4KICAgICMgcHJpbnQoeF90cmFpbi5zaGFwZSkKICAgICMgcHJpbnQoeF90cmFpbikKICAgICMgcHJpbnQoeF90ZXN0LnNoYXBlKQogICAgIyBwcmludCh5X3RyYWluLnNoYXBlKQogICAgIyBwcmludCh5X3RyYWluKQogICAgIyBwcmludCh5X3Rlc3Quc2hhcGUpCgogICAgIyDP39DUu9i56QogICAgIyBtb2RlbCA9IExpbmVhclJlZ3Jlc3Npb24oKQogICAgIyDP39DU1qez1s/ywb+7+iBsaW5lYXJTVkMKICAgIG1vZGVsID0gTGluZWFyU1ZDKEM9MC4wMSkKCiAgICBtb2RlbC5maXQoeF90cmFpbiwgeV90cmFpbikKICAgIHlfcHJlZGljdGlvbnMgPSBtb2RlbC5wcmVkaWN0KHhfdGVzdCkKICAgICMgcjIgPSByMl9zY29yZSh5X3Rlc3QsIHlfcHJlZGljdGlvbnMpCiAgICBwcmludCgnaW50ZXJjZXB0OicsIG1vZGVsLmludGVyY2VwdF8pCiAgICBwcmludCgnY29lZjonLCBtb2RlbC5jb2VmXykKICAgIHByaW50KCd5X3Rlc3Q6XG4nLCB5X3Rlc3QpCiAgICBwcmludCgneV9wcmVkaWN0aW9uczpcbicsIHlfcHJlZGljdGlvbnMpCiAgICAjIHByaW50KCdyMjonLCByMikKCiAgICAjIHByaW50KCdyaWRnZSByZWdyZXNzaW9uOicpCiAgICAjIG1vZGVsX3JpZGdlID0gUmlkZ2UoKQogICAgIyBtb2RlbF9yaWRnZS5maXQoeF90cmFpbiwgeV90cmFpbikKICAgICMgeV9wcmVkaWN0aW9uc19yaWRnZSA9IG1vZGVsX3JpZGdlLnByZWRpY3QoeF90ZXN0KQogICAgIyByMl9yaWRnZSA9IHIyX3Njb3JlKHlfdGVzdCwgeV9wcmVkaWN0aW9uc19yaWRnZSkKICAgICMgcHJpbnQoJ2ludGVyY2VwdDonLCBtb2RlbF9yaWRnZS5pbnRlcmNlcHRfKQogICAgIyBwcmludCgnY29lZjonLCBtb2RlbF9yaWRnZS5jb2VmXykKICAgICMgcHJpbnQoJ3IyOicsIHIyX3JpZGdlKQogICAgIwogICAgIyBwcmludCgnbGFzc28gcmVncmVzc2lvbjonKQogICAgIyBtb2RlbF9sYXNzbyA9IExhc3NvKCkKICAgICMgbW9kZWxfbGFzc28uZml0KHhfdHJhaW4sIHlfdHJhaW4pCiAgICAjIHlfcHJlZGljdGlvbnNfbGFzc28gPSBtb2RlbF9sYXNzby5wcmVkaWN0KHhfdGVzdCkKICAgICMgcjJfbGFzc28gPSByMl9zY29yZSh5X3Rlc3QsIHlfcHJlZGljdGlvbnNfbGFzc28pCiAgICAjIHByaW50KCdpbnRlcmNlcHQ6JywgbW9kZWxfbGFzc28uaW50ZXJjZXB0XykKICAgICMgcHJpbnQoJ2NvZWY6JywgbW9kZWxfbGFzc28uY29lZl8pCiAgICAjIHByaW50KCdyMjonLCByMl9sYXNzbykKCgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50Cg==</text>
