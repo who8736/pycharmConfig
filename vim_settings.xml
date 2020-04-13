@@ -118,7 +118,7 @@
       <file name="/start_script.py" timestamp="1586447359154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586697849075">
+      <file name="/Dummy.txt" timestamp="1586777513753">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -194,12 +194,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586774774383">
-        <mark key="'" line="111" column="16" />
-        <mark key="[" line="69" column="18" />
-        <mark key="]" line="70" column="4" />
-        <mark key="^" line="70" column="4" />
-        <mark key="." line="70" column="3" />
+      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586780050248">
+        <mark key="'" line="84" column="38" />
+        <mark key="[" line="803" column="57" />
+        <mark key="]" line="803" column="59" />
+        <mark key="^" line="803" column="59" />
+        <mark key="." line="803" column="58" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586604514375">
         <mark key="'" line="441" column="20" />
@@ -335,21 +335,22 @@
       <jump line="66" column="0" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="107" column="16" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="142" column="0" filename="D:/workspace/python/stockdatamanage/test/scaling_test.py" />
+      <jump line="84" column="38" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>跌</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>跌</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>model_main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdsaW5lYXJTVkMgc2NvcmU6JywgbW9kZWwuc2NvcmUoeF90ZXN0LCB5X3Rlc3QpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCc9JyAqIDgwKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgU1ZDKGdhbW1hPSdhdXRvJykK</text>
