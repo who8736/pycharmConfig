@@ -126,7 +126,7 @@
       <file name="customization.xml" timestamp="1585732584038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1586393228518">
+      <file name="/Python Console" timestamp="1586775575741">
         <mark key="'" line="0" column="16" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
@@ -208,18 +208,19 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="691" column="18" />
       </file>
-      <file name="D:/workspace/stockdatamanage/web/templates/valuation.html" timestamp="1585710980256">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="62" column="17" />
-        <mark key="." line="19" column="63" />
-        <mark key="^" line="19" column="63" />
-      </file>
       <file name="D:/workspace/stockdatamanage/web/templates/base.html" timestamp="1585797463539">
         <mark key="'" line="66" column="24" />
         <mark key="[" line="12" column="24" />
         <mark key="]" line="14" column="11" />
         <mark key="." line="14" column="11" />
         <mark key="^" line="14" column="11" />
+      </file>
+      <file name="D:/workspace/python/stockdatamanage/test/scaling_test.py" timestamp="1586775667345">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="171" column="16" />
+        <mark key="]" line="172" column="14" />
+        <mark key="^" line="172" column="14" />
+        <mark key="." line="172" column="13" />
       </file>
       <file name="D:/workspace/stockdatamanage/mytest.py" timestamp="1585902869220">
         <mark key="'" line="693" column="20" />
@@ -333,6 +334,7 @@
       <jump line="782" column="12" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="66" column="0" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="107" column="16" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="142" column="0" filename="D:/workspace/python/stockdatamanage/test/scaling_test.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
