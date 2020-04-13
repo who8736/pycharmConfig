@@ -194,12 +194,8 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586695488959">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="777" column="50" />
-        <mark key="]" line="777" column="63" />
-        <mark key="^" line="777" column="63" />
-        <mark key="." line="777" column="62" />
+      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586774028778">
+        <mark key="'" line="107" column="16" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586604514375">
         <mark key="'" line="441" column="20" />
@@ -332,6 +328,7 @@
       <jump line="776" column="0" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="782" column="12" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="66" column="0" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="107" column="16" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
