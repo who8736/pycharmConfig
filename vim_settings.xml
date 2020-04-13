@@ -24,6 +24,7 @@
         <entry>cross</entry>
         <entry>1</entry>
         <entry>make</entry>
+        <entry>prepro</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLCQvZw==</entry>
@@ -189,12 +190,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/stockdatamanage/test/index_technical_indicators.py" timestamp="1586748562477">
-        <mark key="'" line="794" column="29" />
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="18" column="31" />
-        <mark key="^" line="18" column="31" />
-        <mark key="." line="18" column="30" />
+      <file name="D:/workspace/stockdatamanage/test/index_technical_indicators.py" timestamp="1586764680111">
+        <mark key="'" line="32" column="8" />
+        <mark key="[" line="801" column="28" />
+        <mark key="]" line="801" column="42" />
+        <mark key="^" line="801" column="42" />
+        <mark key="." line="801" column="41" />
       </file>
       <file name="D:/workspace/stockdatamanage/web/templates/valuation.html" timestamp="1585710980256">
         <mark key="[" line="31" column="0" />
@@ -313,18 +314,20 @@
       <jump line="789" column="14" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="16" column="17" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="793" column="29" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="798" column="13" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="32" column="8" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIF9saW5lYXIoZGF0YSwgcGxvdD1GYWxzZSwgdGl0bGU9Tm9uZSwgZmlsZW5hbWU9Tm9uZSk6CiAgICAiIiLP39DUu9i56c2o08O6r8r9o6y21NK71+nK/b7dvfjQ0M/f0NS72LnpCiAgICA6cGFyYW0gZGF0YToKICAgIDpwYXJhbSBwbG90OiDKx7fxz9TKvrvmzby94bn7CiAgICA6cGFyYW0gdGl0bGU6ILvmzbyx6szio6xwbG90zqpUcnVlyrGjrHRpdGxlzqqx2NGhz+4KICAgIDpwYXJhbSBmaWxlbmFtZTogsrvOqr/VyrGjrNfUtq+xo7TmzbzGrAogICAgOnJldHVybjoKICAgILjD1+nK/b7dvvnWtaOsvvm3vbLuo6xhZGa87LLiveG5+wogICAguMPX6cr9vt3Su73Xsu631rXEvvnWtaOsvvm3vbLuo6xhZGa87LLiveG5+wogICAgIiIiCiAgICBwYXNzCiAgICBjbnQgPSBsZW4oZGF0YSkKICAgIGlmIGNudCA8IDEwOgogICAgICAgIHJldHVybiBOb25lCiAgICB4ID0gbnAuYXJyYXkocmFuZ2UoMSwgY250ICsgMSkpCiAgICB4ID0geFs6LCBucC5uZXdheGlzXQoKICAgICMgxOK6zwogICAgcmVnciA9IGxpbmVhcl9tb2RlbC5MaW5lYXJSZWdyZXNzaW9uKCkKICAgIHJlZ3IuZml0KHgsIGRhdGEpCiAgICBpbnRlcmNlcHQgPSByZWdyLmludGVyY2VwdF8KICAgIGNvZWYgPSByZWdyLmNvZWZfWzBdCiAgICAjIHByaW50KGYnvdi+4Dp7aW50ZXJjZXB0fSwgz7XK/Tp7Y29lZn0nKQoKICAgICMgvMbL43IyCiAgICBZID0gW2ludGVyY2VwdCArIGkgKiBjb2VmIGZvciBpIGluIHhdCiAgICByMiA9IHIyX3Njb3JlKGRhdGEsIFkpCiAgICByZXR1cm4gZGljdChpbnRlcmNlcHQ9aW50ZXJjZXB0LCBjb2VmPWNvZWYsIHIyPXIyKQoKCg==</text>
+      <register name="&quot;" type="4">
+        <text>prepro</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>prepro</text>
       </register>
       <register name="/" type="4">
-        <text>make</text>
+        <text>prepro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVmIF9saW5lYXIoZGF0YSwgcGxvdD1GYWxzZSwgdGl0bGU9Tm9uZSwgZmlsZW5hbWU9Tm9uZSk6CiAgICAiIiLP39DUu9i56c2o08O6r8r9o6y21NK71+nK/b7dvfjQ0M/f0NS72LnpCiAgICA6cGFyYW0gZGF0YToKICAgIDpwYXJhbSBwbG90OiDKx7fxz9TKvrvmzby94bn7CiAgICA6cGFyYW0gdGl0bGU6ILvmzbyx6szio6xwbG90zqpUcnVlyrGjrHRpdGxlzqqx2NGhz+4KICAgIDpwYXJhbSBmaWxlbmFtZTogsrvOqr/VyrGjrNfUtq+xo7TmzbzGrAogICAgOnJldHVybjoKICAgILjD1+nK/b7dvvnWtaOsvvm3vbLuo6xhZGa87LLiveG5+wogICAguMPX6cr9vt3Su73Xsu631rXEvvnWtaOsvvm3vbLuo6xhZGa87LLiveG5+wogICAgIiIiCiAgICBwYXNzCiAgICBjbnQgPSBsZW4oZGF0YSkKICAgIGlmIGNudCA8IDEwOgogICAgICAgIHJldHVybiBOb25lCiAgICB4ID0gbnAuYXJyYXkocmFuZ2UoMSwgY250ICsgMSkpCiAgICB4ID0geFs6LCBucC5uZXdheGlzXQoKICAgICMgxOK6zwogICAgcmVnciA9IGxpbmVhcl9tb2RlbC5MaW5lYXJSZWdyZXNzaW9uKCkKICAgIHJlZ3IuZml0KHgsIGRhdGEpCiAgICBpbnRlcmNlcHQgPSByZWdyLmludGVyY2VwdF8KICAgIGNvZWYgPSByZWdyLmNvZWZfWzBdCiAgICAjIHByaW50KGYnvdi+4Dp7aW50ZXJjZXB0fSwgz7XK/Tp7Y29lZn0nKQoKICAgICMgvMbL43IyCiAgICBZID0gW2ludGVyY2VwdCArIGkgKiBjb2VmIGZvciBpIGluIHhdCiAgICByMiA9IHIyX3Njb3JlKGRhdGEsIFkpCiAgICByZXR1cm4gZGljdChpbnRlcmNlcHQ9aW50ZXJjZXB0LCBjb2VmPWNvZWYsIHIyPXIyKQoKCg==</text>
@@ -363,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>make</last-search>
+      <last-search>prepro</last-search>
       <last-offset />
-      <last-pattern>make</last-pattern>
+      <last-pattern>prepro</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
