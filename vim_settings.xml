@@ -125,13 +125,6 @@
       <file name="customization.xml" timestamp="1585732584038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1586762511957">
-        <mark key="'" line="0" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
       <file name="D:/workspace/stockdatamanage/web/templates/test.html" timestamp="1585809614268">
         <mark key="[" line="17" column="71" />
         <mark key="]" line="17" column="71" />
@@ -190,8 +183,8 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/stockdatamanage/test/index_technical_indicators.py" timestamp="1586766001996">
-        <mark key="'" line="32" column="8" />
+      <file name="D:/workspace/stockdatamanage/test/index_technical_indicators.py" timestamp="1586826901396">
+        <mark key="'" line="82" column="9" />
         <mark key="[" line="818" column="28" />
         <mark key="]" line="818" column="28" />
         <mark key="^" line="786" column="10" />
@@ -316,6 +309,7 @@
       <jump line="793" column="29" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="798" column="13" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="32" column="8" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="82" column="9" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
