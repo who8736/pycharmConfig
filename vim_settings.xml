@@ -119,7 +119,7 @@
       <file name="/start_script.py" timestamp="1586421243122">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586769269199">
+      <file name="/Dummy.txt" timestamp="1586827173808">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="customization.xml" timestamp="1585732584038">
@@ -183,12 +183,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/stockdatamanage/test/index_technical_indicators.py" timestamp="1586826901396">
-        <mark key="'" line="82" column="9" />
-        <mark key="[" line="818" column="28" />
-        <mark key="]" line="818" column="28" />
-        <mark key="^" line="786" column="10" />
-        <mark key="." line="818" column="28" />
+      <file name="D:/workspace/stockdatamanage/test/index_technical_indicators.py" timestamp="1586828854564">
+        <mark key="'" line="811" column="12" />
+        <mark key="[" line="63" column="11" />
+        <mark key="]" line="63" column="16" />
+        <mark key="^" line="63" column="16" />
+        <mark key="." line="63" column="15" />
       </file>
       <file name="D:/workspace/stockdatamanage/web/templates/valuation.html" timestamp="1585710980256">
         <mark key="[" line="31" column="0" />
@@ -310,21 +310,24 @@
       <jump line="798" column="13" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="32" column="8" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="82" column="9" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="752" column="26" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="801" column="3" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="811" column="12" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>before</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>before</text>
       </register>
       <register name="/" type="4">
         <text>prepro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgICAgIG1vZGVsX21haW5fY2xhc3NpZmllcihDPWMpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdiZWZvcmUgZHJvcG5hOicsIGRmLnNoYXBlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgeV9wcmVkaWN0aW9ucyA9IG1vZGVsLnByZWRpY3QoeF90ZXN0KQo=</text>
