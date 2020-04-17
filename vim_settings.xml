@@ -24,6 +24,7 @@
         <entry>cross</entry>
         <entry>1</entry>
         <entry>model_main</entry>
+        <entry encoding="base64">XDxlbmNvZGVfdXRmOFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLCQvZw==</entry>
@@ -155,18 +156,18 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="D:/workspace/stockdatamanage/web/views.py" timestamp="1585730241444">
-        <mark key="'" line="115" column="17" />
-        <mark key="[" line="114" column="32" />
-        <mark key="]" line="115" column="25" />
-        <mark key="^" line="115" column="25" />
-        <mark key="." line="115" column="25" />
-      </file>
       <file name="D:/workspace/stockdatamanage/download.py" timestamp="1585884478189">
         <mark key="[" line="1095" column="41" />
         <mark key="]" line="1095" column="46" />
         <mark key="." line="1095" column="46" />
         <mark key="^" line="1095" column="46" />
+      </file>
+      <file name="D:/workspace/python/stockdatamanage/web/views.py" timestamp="1587126165587">
+        <mark key="'" line="12" column="32" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
+        <mark key="^" line="188" column="15" />
       </file>
       <file name="D:/workspace/pandastest/cleandata.py" timestamp="1586334308722">
         <mark key="'" line="57" column="4" />
@@ -237,10 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="24" column="5" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="453" column="4" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="456" column="6" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="569" column="8" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="570" column="6" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="65" column="18" filename="D:/workspace/stockdatamanage/config.py" />
@@ -337,48 +334,52 @@
       <jump line="84" column="38" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="209" column="15" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="810" column="26" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="164" column="33" filename="D:/workspace/python/stockdatamanage/web/views.py" />
+      <jump line="188" column="0" filename="D:/workspace/python/stockdatamanage/web/views.py" />
+      <jump line="167" column="13" filename="D:/workspace/python/stockdatamanage/web/views.py" />
+      <jump line="12" column="32" filename="D:/workspace/python/stockdatamanage/web/views.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBlbmNvZGVfdXRmOChodG1sKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>model_main</text>
+        <text encoding="base64">XDxlbmNvZGVfdXRmOFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbiA9IGNvbmZ1c2lvbl9tYXRyaXgoeV90ZXN0LCBwcmVkaWN0aW9ucykK</text>
+        <text encoding="base64">ICAgIHJldHVybiBlbmNvZGVfdXRmOChodG1sKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBlbmNvZGVfdXRmOChodG1sKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgU1ZDKGdhbW1hPSdhdXRvJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZnJvbSBza2xlYXJuLnN2bSBpbXBvcnQgU1ZDCg==</text>
+        <text encoding="base64">ICAgICMgU1ZDKGdhbW1hPSdhdXRvJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoJ3JpZGdlIHJlZ3Jlc3Npb246JykKICAgICMgbW9kZWxfcmlkZ2UgPSBSaWRnZSgpCiAgICAjIG1vZGVsX3JpZGdlLmZpdCh4X3RyYWluLCB5X3RyYWluKQogICAgIyB5X3ByZWRpY3Rpb25zX3JpZGdlID0gbW9kZWxfcmlkZ2UucHJlZGljdCh4X3Rlc3QpCiAgICAjIHIyX3JpZGdlID0gcjJfc2NvcmUoeV90ZXN0LCB5X3ByZWRpY3Rpb25zX3JpZGdlKQogICAgIyBwcmludCgnaW50ZXJjZXB0OicsIG1vZGVsX3JpZGdlLmludGVyY2VwdF8pCiAgICAjIHByaW50KCdjb2VmOicsIG1vZGVsX3JpZGdlLmNvZWZfKQogICAgIyBwcmludCgncjI6JywgcjJfcmlkZ2UpCiAgICAjCiAgICAjIHByaW50KCdsYXNzbyByZWdyZXNzaW9uOicpCiAgICAjIG1vZGVsX2xhc3NvID0gTGFzc28oKQogICAgIyBtb2RlbF9sYXNzby5maXQoeF90cmFpbiwgeV90cmFpbikKICAgICMgeV9wcmVkaWN0aW9uc19sYXNzbyA9IG1vZGVsX2xhc3NvLnByZWRpY3QoeF90ZXN0KQogICAgIyByMl9sYXNzbyA9IHIyX3Njb3JlKHlfdGVzdCwgeV9wcmVkaWN0aW9uc19sYXNzbykKICAgICMgcHJpbnQoJ2ludGVyY2VwdDonLCBtb2RlbF9sYXNzby5pbnRlcmNlcHRfKQogICAgIyBwcmludCgnY29lZjonLCBtb2RlbF9sYXNzby5jb2VmXykKICAgICMgcHJpbnQoJ3IyOicsIHIyX2xhc3NvKQo=</text>
+        <text encoding="base64">ICAgICMgZnJvbSBza2xlYXJuLnN2bSBpbXBvcnQgU1ZDCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoJ3JpZGdlIHJlZ3Jlc3Npb246JykKICAgICMgbW9kZWxfcmlkZ2UgPSBSaWRnZSgpCiAgICAjIG1vZGVsX3JpZGdlLmZpdCh4X3RyYWluLCB5X3RyYWluKQogICAgIyB5X3ByZWRpY3Rpb25zX3JpZGdlID0gbW9kZWxfcmlkZ2UucHJlZGljdCh4X3Rlc3QpCiAgICAjIHIyX3JpZGdlID0gcjJfc2NvcmUoeV90ZXN0LCB5X3ByZWRpY3Rpb25zX3JpZGdlKQogICAgIyBwcmludCgnaW50ZXJjZXB0OicsIG1vZGVsX3JpZGdlLmludGVyY2VwdF8pCiAgICAjIHByaW50KCdjb2VmOicsIG1vZGVsX3JpZGdlLmNvZWZfKQogICAgIyBwcmludCgncjI6JywgcjJfcmlkZ2UpCiAgICAjCiAgICAjIHByaW50KCdsYXNzbyByZWdyZXNzaW9uOicpCiAgICAjIG1vZGVsX2xhc3NvID0gTGFzc28oKQogICAgIyBtb2RlbF9sYXNzby5maXQoeF90cmFpbiwgeV90cmFpbikKICAgICMgeV9wcmVkaWN0aW9uc19sYXNzbyA9IG1vZGVsX2xhc3NvLnByZWRpY3QoeF90ZXN0KQogICAgIyByMl9sYXNzbyA9IHIyX3Njb3JlKHlfdGVzdCwgeV9wcmVkaWN0aW9uc19sYXNzbykKICAgICMgcHJpbnQoJ2ludGVyY2VwdDonLCBtb2RlbF9sYXNzby5pbnRlcmNlcHRfKQogICAgIyBwcmludCgnY29lZjonLCBtb2RlbF9sYXNzby5jb2VmXykKICAgICMgcHJpbnQoJ3IyOicsIHIyX2xhc3NvKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGZbKCkgJiAoZGYuZmxhZyAhPSAwKV0uaW5kZXgubWluKCk=</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ZGZbKCkgJiAoZGYuZmxhZyAhPSAwKV0uaW5kZXgubWluKCk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgIGltcG9ydCBudW1weSBhcyBucAogICAgaW1wb3J0IG1hdHBsb3RsaWIubWxhYiBhcyBNTEEK</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCiAgICCw5sioyfnD96O6sb7OxM6qQ1NETrKp1vehuG1hX3N0dWRkobm1xNSttLTOxNXCo6zX8dGtCiAgICBDQwogICAgNC4wCiAgICBCWSAtIFNBCiAgICCw5sio0K3S6aOs16rU2MfruL3Jz9StzsSz9rSmwbS907ywsb7J+cP3oaMKICAgINStzsTBtL3To7podHRwczogLy8gYmxvZy5jc2RuLm5ldCAvIHUwMTM5MjA0MzQgLyBqYXZhIC8gYXJ0aWNsZSAvIGRldGFpbHMgLyA1MjUwNzE3Mw==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgIGltcG9ydCBudW1weSBhcyBucAogICAgaW1wb3J0IG1hdHBsb3RsaWIubWxhYiBhcyBNTEEK</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
@@ -387,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>model_main</last-search>
+      <last-search encoding="base64">XDxlbmNvZGVfdXRmOFw+</last-search>
       <last-offset />
-      <last-pattern>model_main</last-pattern>
+      <last-pattern encoding="base64">XDxlbmNvZGVfdXRmOFw+</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
