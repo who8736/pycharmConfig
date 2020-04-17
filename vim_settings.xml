@@ -118,7 +118,7 @@
       <file name="/start_script.py" timestamp="1586447359154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586787560253">
+      <file name="/Dummy.txt" timestamp="1587052167866">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -194,12 +194,12 @@
         <mark key="." line="837" column="0" />
         <mark key="^" line="735" column="30" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1586781043300">
-        <mark key="'" line="209" column="15" />
-        <mark key="[" line="762" column="60" />
-        <mark key="]" line="762" column="61" />
-        <mark key="^" line="802" column="59" />
-        <mark key="." line="762" column="61" />
+      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1587120571881">
+        <mark key="'" line="812" column="26" />
+        <mark key="[" line="810" column="29" />
+        <mark key="]" line="810" column="34" />
+        <mark key="^" line="810" column="34" />
+        <mark key="." line="810" column="33" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586604514375">
         <mark key="'" line="441" column="20" />
@@ -237,7 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="437" column="20" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="1" column="0" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="24" column="5" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="453" column="4" filename="D:/workspace/stockdatamanage/mytest.py" />
@@ -337,21 +336,22 @@
       <jump line="142" column="0" filename="D:/workspace/python/stockdatamanage/test/scaling_test.py" />
       <jump line="84" column="38" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="209" column="15" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="810" column="26" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>model_main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCc9JyAqIDgwKQo=</text>
+        <text encoding="base64">ICAgIGNvbiA9IGNvbmZ1c2lvbl9tYXRyaXgoeV90ZXN0LCBwcmVkaWN0aW9ucykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
