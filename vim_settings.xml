@@ -119,14 +119,6 @@
       <file name="/start_script.py" timestamp="1586447359154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587052167866">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="customization.xml" timestamp="1585732584038">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1587122210560">
         <mark key="'" line="0" column="16" />
         <mark key="[" line="0" column="0" />
@@ -134,87 +126,8 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="D:/workspace/stockdatamanage/web/templates/test.html" timestamp="1585809614268">
-        <mark key="[" line="17" column="71" />
-        <mark key="]" line="17" column="71" />
-        <mark key="^" line="17" column="76" />
-        <mark key="." line="17" column="71" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1586421925174">
-        <mark key="'" line="611" column="7" />
-        <mark key="[" line="662" column="25" />
-        <mark key="]" line="611" column="8" />
-        <mark key="^" line="611" column="8" />
-        <mark key="." line="611" column="7" />
-      </file>
       <file name="D:/workspace/stockdatamanage/test/indexanalyze.py" timestamp="1586221163787">
         <mark key="[" line="2" column="25" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/test/stockvsindex.py" timestamp="1586248006549">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/download.py" timestamp="1585884478189">
-        <mark key="[" line="1095" column="41" />
-        <mark key="]" line="1095" column="46" />
-        <mark key="." line="1095" column="46" />
-        <mark key="^" line="1095" column="46" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/web/views.py" timestamp="1587126165587">
-        <mark key="'" line="12" column="32" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
-        <mark key="^" line="188" column="15" />
-      </file>
-      <file name="D:/workspace/pandastest/cleandata.py" timestamp="1586334308722">
-        <mark key="'" line="57" column="4" />
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="57" column="32" />
-        <mark key="^" line="57" column="37" />
-        <mark key="." line="57" column="32" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/web/templates/index.html" timestamp="1585794758623">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="6" column="36" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/plot.py" timestamp="1585901159032">
-        <mark key="'" line="536" column="16" />
-        <mark key="[" line="243" column="21" />
-        <mark key="]" line="243" column="21" />
-        <mark key="." line="243" column="21" />
-        <mark key="^" line="243" column="21" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/sqlrw.py" timestamp="1585732478694">
-        <mark key="[" line="837" column="0" />
-        <mark key="]" line="837" column="17" />
-        <mark key="." line="837" column="0" />
-        <mark key="^" line="735" column="30" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1587120571881">
-        <mark key="'" line="812" column="26" />
-        <mark key="[" line="810" column="29" />
-        <mark key="]" line="810" column="34" />
-        <mark key="^" line="810" column="34" />
-        <mark key="." line="810" column="33" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1586604514375">
-        <mark key="'" line="441" column="20" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="691" column="18" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/web/templates/base.html" timestamp="1585797463539">
-        <mark key="'" line="66" column="24" />
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="11" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/scaling_test.py" timestamp="1586775667345">
         <mark key="'" line="142" column="0" />
@@ -230,11 +143,56 @@
         <mark key="." line="108" column="66" />
         <mark key="^" line="108" column="66" />
       </file>
-      <file name="D:/workspace/stockdatamanage/web/templates/test2.html" timestamp="1585809561727">
-        <mark key="[" line="19" column="52" />
-        <mark key="]" line="19" column="55" />
-        <mark key="^" line="19" column="51" />
-        <mark key="." line="19" column="52" />
+      <file name="/Dummy.txt" timestamp="1587176005072">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/stockdatamanage/web/templates/test.html" timestamp="1585809614268">
+        <mark key="[" line="17" column="71" />
+        <mark key="]" line="17" column="71" />
+        <mark key="^" line="17" column="76" />
+        <mark key="." line="17" column="71" />
+      </file>
+      <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1586421925174">
+        <mark key="'" line="611" column="7" />
+        <mark key="[" line="662" column="25" />
+        <mark key="]" line="611" column="8" />
+        <mark key="^" line="611" column="8" />
+        <mark key="." line="611" column="7" />
+      </file>
+      <file name="D:/workspace/stockdatamanage/test/stockvsindex.py" timestamp="1586248006549">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+      </file>
+      <file name="D:/workspace/stockdatamanage/download.py" timestamp="1585884478189">
+        <mark key="[" line="1095" column="41" />
+        <mark key="]" line="1095" column="46" />
+        <mark key="." line="1095" column="46" />
+        <mark key="^" line="1095" column="46" />
+      </file>
+      <file name="D:/workspace/pandastest/cleandata.py" timestamp="1586334308722">
+        <mark key="'" line="57" column="4" />
+        <mark key="[" line="57" column="32" />
+        <mark key="]" line="57" column="32" />
+        <mark key="^" line="57" column="37" />
+        <mark key="." line="57" column="32" />
+      </file>
+      <file name="D:/workspace/stockdatamanage/plot.py" timestamp="1585901159032">
+        <mark key="'" line="536" column="16" />
+        <mark key="[" line="243" column="21" />
+        <mark key="]" line="243" column="21" />
+        <mark key="." line="243" column="21" />
+        <mark key="^" line="243" column="21" />
+      </file>
+      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1587120571881">
+        <mark key="'" line="812" column="26" />
+        <mark key="[" line="810" column="29" />
+        <mark key="]" line="810" column="34" />
+        <mark key="^" line="810" column="34" />
+        <mark key="." line="810" column="33" />
       </file>
     </filemarks>
     <jumps>
