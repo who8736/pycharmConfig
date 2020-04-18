@@ -129,6 +129,10 @@
       <file name="D:/workspace/stockdatamanage/test/indexanalyze.py" timestamp="1586221163787">
         <mark key="[" line="2" column="25" />
       </file>
+      <file name="D:/workspace/python/stockdatamanage/run.sh" timestamp="1587216739309">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="21" />
+      </file>
       <file name="D:/workspace/python/stockdatamanage/test/scaling_test.py" timestamp="1586775667345">
         <mark key="'" line="142" column="0" />
         <mark key="[" line="171" column="16" />
@@ -136,23 +140,14 @@
         <mark key="^" line="172" column="14" />
         <mark key="." line="172" column="13" />
       </file>
-      <file name="D:/workspace/stockdatamanage/mytest.py" timestamp="1585902869220">
-        <mark key="'" line="693" column="20" />
-        <mark key="[" line="108" column="63" />
-        <mark key="]" line="108" column="66" />
-        <mark key="." line="108" column="66" />
-        <mark key="^" line="108" column="66" />
+      <file name="D:/workspace/python/stockdatamanage/startstockmanage" timestamp="1587216407936">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="114" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587180994686">
+      <file name="/Dummy.txt" timestamp="1587217143952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/web/templates/test.html" timestamp="1585809614268">
-        <mark key="[" line="17" column="71" />
-        <mark key="]" line="17" column="71" />
-        <mark key="^" line="17" column="76" />
-        <mark key="." line="17" column="71" />
       </file>
       <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1586421925174">
         <mark key="'" line="611" column="7" />
@@ -167,12 +162,6 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="D:/workspace/stockdatamanage/download.py" timestamp="1585884478189">
-        <mark key="[" line="1095" column="41" />
-        <mark key="]" line="1095" column="46" />
-        <mark key="." line="1095" column="46" />
-        <mark key="^" line="1095" column="46" />
-      </file>
       <file name="D:/workspace/pandastest/cleandata.py" timestamp="1586334308722">
         <mark key="'" line="57" column="4" />
         <mark key="[" line="57" column="32" />
@@ -180,12 +169,10 @@
         <mark key="^" line="57" column="37" />
         <mark key="." line="57" column="32" />
       </file>
-      <file name="D:/workspace/stockdatamanage/plot.py" timestamp="1585901159032">
-        <mark key="'" line="536" column="16" />
-        <mark key="[" line="243" column="21" />
-        <mark key="]" line="243" column="21" />
-        <mark key="." line="243" column="21" />
-        <mark key="^" line="243" column="21" />
+      <file name="D:/workspace/python/stockdatamanage/rundownmisc.sh" timestamp="1587216747364">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1587120571881">
         <mark key="'" line="812" column="26" />
@@ -193,6 +180,12 @@
         <mark key="]" line="810" column="34" />
         <mark key="^" line="810" column="34" />
         <mark key="." line="810" column="33" />
+      </file>
+      <file name="D:/workspace/python/stockdatamanage/startdownmisc" timestamp="1587217095814">
+        <mark key="[" line="1" column="79" />
+        <mark key="]" line="1" column="86" />
+        <mark key="." line="1" column="86" />
+        <mark key="^" line="1" column="82" />
       </file>
     </filemarks>
     <jumps>
@@ -301,43 +294,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBlbmNvZGVfdXRmOChodG1sKQo=</text>
+        <text>分类器试验</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmNvZGVfdXRmOFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBlbmNvZGVfdXRmOChodG1sKQo=</text>
+        <text encoding="base64">IyEgL2Jpbi9iYXNoCnB5dGhvbjMgZGF0YW1hbmFnZS5weQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBlbmNvZGVfdXRmOChodG1sKQo=</text>
+        <text>分类器试验</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBlbmNvZGVfdXRmOChodG1sKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgU1ZDKGdhbW1hPSdhdXRvJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZnJvbSBza2xlYXJuLnN2bSBpbXBvcnQgU1ZDCg==</text>
+        <text encoding="base64">ICAgICMgU1ZDKGdhbW1hPSdhdXRvJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoJ3JpZGdlIHJlZ3Jlc3Npb246JykKICAgICMgbW9kZWxfcmlkZ2UgPSBSaWRnZSgpCiAgICAjIG1vZGVsX3JpZGdlLmZpdCh4X3RyYWluLCB5X3RyYWluKQogICAgIyB5X3ByZWRpY3Rpb25zX3JpZGdlID0gbW9kZWxfcmlkZ2UucHJlZGljdCh4X3Rlc3QpCiAgICAjIHIyX3JpZGdlID0gcjJfc2NvcmUoeV90ZXN0LCB5X3ByZWRpY3Rpb25zX3JpZGdlKQogICAgIyBwcmludCgnaW50ZXJjZXB0OicsIG1vZGVsX3JpZGdlLmludGVyY2VwdF8pCiAgICAjIHByaW50KCdjb2VmOicsIG1vZGVsX3JpZGdlLmNvZWZfKQogICAgIyBwcmludCgncjI6JywgcjJfcmlkZ2UpCiAgICAjCiAgICAjIHByaW50KCdsYXNzbyByZWdyZXNzaW9uOicpCiAgICAjIG1vZGVsX2xhc3NvID0gTGFzc28oKQogICAgIyBtb2RlbF9sYXNzby5maXQoeF90cmFpbiwgeV90cmFpbikKICAgICMgeV9wcmVkaWN0aW9uc19sYXNzbyA9IG1vZGVsX2xhc3NvLnByZWRpY3QoeF90ZXN0KQogICAgIyByMl9sYXNzbyA9IHIyX3Njb3JlKHlfdGVzdCwgeV9wcmVkaWN0aW9uc19sYXNzbykKICAgICMgcHJpbnQoJ2ludGVyY2VwdDonLCBtb2RlbF9sYXNzby5pbnRlcmNlcHRfKQogICAgIyBwcmludCgnY29lZjonLCBtb2RlbF9sYXNzby5jb2VmXykKICAgICMgcHJpbnQoJ3IyOicsIHIyX2xhc3NvKQo=</text>
+        <text encoding="base64">ICAgICMgZnJvbSBza2xlYXJuLnN2bSBpbXBvcnQgU1ZDCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoJ3JpZGdlIHJlZ3Jlc3Npb246JykKICAgICMgbW9kZWxfcmlkZ2UgPSBSaWRnZSgpCiAgICAjIG1vZGVsX3JpZGdlLmZpdCh4X3RyYWluLCB5X3RyYWluKQogICAgIyB5X3ByZWRpY3Rpb25zX3JpZGdlID0gbW9kZWxfcmlkZ2UucHJlZGljdCh4X3Rlc3QpCiAgICAjIHIyX3JpZGdlID0gcjJfc2NvcmUoeV90ZXN0LCB5X3ByZWRpY3Rpb25zX3JpZGdlKQogICAgIyBwcmludCgnaW50ZXJjZXB0OicsIG1vZGVsX3JpZGdlLmludGVyY2VwdF8pCiAgICAjIHByaW50KCdjb2VmOicsIG1vZGVsX3JpZGdlLmNvZWZfKQogICAgIyBwcmludCgncjI6JywgcjJfcmlkZ2UpCiAgICAjCiAgICAjIHByaW50KCdsYXNzbyByZWdyZXNzaW9uOicpCiAgICAjIG1vZGVsX2xhc3NvID0gTGFzc28oKQogICAgIyBtb2RlbF9sYXNzby5maXQoeF90cmFpbiwgeV90cmFpbikKICAgICMgeV9wcmVkaWN0aW9uc19sYXNzbyA9IG1vZGVsX2xhc3NvLnByZWRpY3QoeF90ZXN0KQogICAgIyByMl9sYXNzbyA9IHIyX3Njb3JlKHlfdGVzdCwgeV9wcmVkaWN0aW9uc19sYXNzbykKICAgICMgcHJpbnQoJ2ludGVyY2VwdDonLCBtb2RlbF9sYXNzby5pbnRlcmNlcHRfKQogICAgIyBwcmludCgnY29lZjonLCBtb2RlbF9sYXNzby5jb2VmXykKICAgICMgcHJpbnQoJ3IyOicsIHIyX2xhc3NvKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGZbKCkgJiAoZGYuZmxhZyAhPSAwKV0uaW5kZXgubWluKCk=</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ZGZbKCkgJiAoZGYuZmxhZyAhPSAwKV0uaW5kZXgubWluKCk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgIGltcG9ydCBudW1weSBhcyBucAogICAgaW1wb3J0IG1hdHBsb3RsaWIubWxhYiBhcyBNTEEK</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
