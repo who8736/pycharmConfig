@@ -163,7 +163,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="21" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/sklearn_examples_plot_anomaly_comparison.py" timestamp="1587268636156">
+      <file name="D:/workspace/python/stockdatamanage/test/sklearn_examples_plot_anomaly_comparison.py" timestamp="1587276706281">
         <mark key="[" line="79" column="45" />
         <mark key="]" line="80" column="24" />
         <mark key="^" line="80" column="24" />
@@ -176,12 +176,12 @@
         <mark key="^" line="810" column="34" />
         <mark key="." line="810" column="33" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587268110308">
+      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587277062615">
         <mark key="'" line="19" column="49" />
-        <mark key="[" line="688" column="33" />
-        <mark key="]" line="689" column="4" />
-        <mark key="^" line="689" column="4" />
-        <mark key="." line="689" column="3" />
+        <mark key="[" line="690" column="14" />
+        <mark key="]" line="690" column="15" />
+        <mark key="^" line="690" column="15" />
+        <mark key="." line="690" column="15" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/scaling_test.py" timestamp="1586775667345">
         <mark key="'" line="142" column="0" />
@@ -318,16 +318,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gTG9jYWxPdXRsaWVyRmFjdG9yKCkK</text>
+        <text encoding="base64">ICAgIHByaW50KCd5X3ByZWRpY3Q6XG4nLCB5X3ByZWRpY3QpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRhdGEgPSBucC5vbmVzKDEwKQogICAgZGF0YSA9IG5wLmFwcGVuZChkYXRhLCAxMDAwKQo=</text>
