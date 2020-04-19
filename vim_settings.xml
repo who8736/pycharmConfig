@@ -169,12 +169,12 @@
         <mark key="^" line="810" column="34" />
         <mark key="." line="810" column="33" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587306435486">
-        <mark key="'" line="20" column="29" />
-        <mark key="[" line="732" column="19" />
-        <mark key="]" line="735" column="8" />
-        <mark key="^" line="735" column="8" />
-        <mark key="." line="735" column="7" />
+      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587308483509">
+        <mark key="'" line="580" column="16" />
+        <mark key="[" line="730" column="25" />
+        <mark key="]" line="730" column="27" />
+        <mark key="^" line="730" column="27" />
+        <mark key="." line="730" column="26" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/scaling_test.py" timestamp="1586775667345">
         <mark key="'" line="142" column="0" />
@@ -206,8 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="11" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="114" column="4" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="117" column="4" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="0" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="1024" column="6" filename="D:/workspace/stockdatamanage/sqlrw.py" />
@@ -306,15 +304,17 @@
       <jump line="19" column="49" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="725" column="13" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="20" column="29" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="468" column="20" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="580" column="16" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdyZXN1bHQ6XG4nLCByZXN1bHQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
