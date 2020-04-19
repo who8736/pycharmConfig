@@ -169,12 +169,12 @@
         <mark key="^" line="810" column="34" />
         <mark key="." line="810" column="33" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587305005647">
-        <mark key="'" line="19" column="49" />
-        <mark key="[" line="746" column="34" />
-        <mark key="]" line="748" column="27" />
-        <mark key="^" line="748" column="27" />
-        <mark key="." line="748" column="26" />
+      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587306435486">
+        <mark key="'" line="20" column="29" />
+        <mark key="[" line="732" column="19" />
+        <mark key="]" line="735" column="8" />
+        <mark key="^" line="735" column="8" />
+        <mark key="." line="735" column="7" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/scaling_test.py" timestamp="1586775667345">
         <mark key="'" line="142" column="0" />
@@ -206,8 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="0" filename="D:/workspace/stockdatamanage/test/mean_reversoin.py" />
-      <jump line="7" column="0" filename="D:/workspace/stockdatamanage/test/mean_reversoin.py" />
       <jump line="94" column="11" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="114" column="4" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="117" column="4" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
@@ -306,21 +304,23 @@
       <jump line="718" column="4" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="765" column="22" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="19" column="49" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="725" column="13" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="20" column="29" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>，上下2倍标准差为通道</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdyZXN1bHQ6XG4nLCByZXN1bHQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
       </register>
-      <register name="0" type="4">
-        <text>，上下2倍标准差为通道</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50KCdyZXN1bHQ6XG4nLCByZXN1bHQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRhdGEgPSBucC5vbmVzKDEwKQogICAgZGF0YSA9IG5wLmFwcGVuZChkYXRhLCAxMDAwKQo=</text>
