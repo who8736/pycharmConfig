@@ -169,12 +169,12 @@
         <mark key="^" line="810" column="34" />
         <mark key="." line="810" column="33" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587297383313">
+      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587298915833">
         <mark key="'" line="19" column="49" />
-        <mark key="[" line="690" column="14" />
-        <mark key="]" line="690" column="16" />
-        <mark key="^" line="690" column="16" />
-        <mark key="." line="690" column="15" />
+        <mark key="[" line="746" column="23" />
+        <mark key="]" line="746" column="34" />
+        <mark key="^" line="746" column="24" />
+        <mark key="." line="746" column="23" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/scaling_test.py" timestamp="1586775667345">
         <mark key="'" line="142" column="0" />
@@ -311,16 +311,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>，上下2倍标准差为通道</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd5X3ByZWRpY3Q6XG4nLCB5X3ByZWRpY3QpCg==</text>
+      <register name="0" type="4">
+        <text>，上下2倍标准差为通道</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRhdGEgPSBucC5vbmVzKDEwKQogICAgZGF0YSA9IG5wLmFwcGVuZChkYXRhLCAxMDAwKQo=</text>
