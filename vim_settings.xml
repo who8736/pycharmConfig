@@ -172,12 +172,12 @@
         <mark key="^" line="810" column="34" />
         <mark key="." line="810" column="33" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587390172160">
+      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587394238321">
         <mark key="'" line="749" column="6" />
-        <mark key="[" line="754" column="33" />
-        <mark key="]" line="756" column="25" />
-        <mark key="." line="756" column="24" />
-        <mark key="^" line="756" column="25" />
+        <mark key="[" line="840" column="14" />
+        <mark key="]" line="840" column="14" />
+        <mark key="." line="840" column="14" />
+        <mark key="^" line="840" column="13" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/scaling_test.py" timestamp="1586775667345">
         <mark key="'" line="142" column="0" />
@@ -313,11 +313,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>票</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>票</text>
       </register>
       <register name="/" type="4">
         <text>math</text>
