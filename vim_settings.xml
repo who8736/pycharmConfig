@@ -125,15 +125,17 @@
       <file name="customization.xml" timestamp="1585732584038">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1587348932064">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/workspace/stockdatamanage/web/templates/test.html" timestamp="1585809614268">
         <mark key="[" line="17" column="71" />
         <mark key="]" line="17" column="71" />
         <mark key="^" line="17" column="76" />
         <mark key="." line="17" column="71" />
       </file>
-      <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1586747891635">
-        <mark key="'" line="267" column="0" />
-        <mark key="[" line="17" column="25" />
+      <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1587349468524">
+        <mark key="[" line="737" column="0" />
       </file>
       <file name="D:/workspace/stockdatamanage/test/indexanalyze.py" timestamp="1586221163787">
         <mark key="[" line="2" column="25" />
@@ -143,13 +145,6 @@
         <mark key="]" line="4" column="23" />
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/web/views.py" timestamp="1585730241444">
-        <mark key="'" line="115" column="17" />
-        <mark key="[" line="114" column="32" />
-        <mark key="]" line="115" column="25" />
-        <mark key="^" line="115" column="25" />
-        <mark key="." line="115" column="25" />
       </file>
       <file name="D:/workspace/stockdatamanage/download.py" timestamp="1585884478189">
         <mark key="[" line="1095" column="41" />
@@ -184,11 +179,7 @@
         <mark key="^" line="735" column="30" />
       </file>
       <file name="D:/workspace/stockdatamanage/test/index_technical_indicators.py" timestamp="1586828854564">
-        <mark key="'" line="811" column="12" />
-        <mark key="[" line="63" column="11" />
-        <mark key="]" line="63" column="16" />
-        <mark key="^" line="63" column="16" />
-        <mark key="." line="63" column="15" />
+        <mark key="'" line="816" column="12" />
       </file>
       <file name="D:/workspace/stockdatamanage/web/templates/valuation.html" timestamp="1585710980256">
         <mark key="[" line="31" column="0" />
