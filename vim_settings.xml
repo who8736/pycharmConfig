@@ -172,12 +172,12 @@
         <mark key="^" line="810" column="34" />
         <mark key="." line="810" column="33" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587387756812">
-        <mark key="'" line="4" column="30" />
-        <mark key="[" line="812" column="20" />
-        <mark key="]" line="812" column="21" />
-        <mark key="." line="812" column="21" />
-        <mark key="^" line="813" column="23" />
+      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587388558586">
+        <mark key="'" line="21" column="47" />
+        <mark key="[" line="820" column="4" />
+        <mark key="]" line="820" column="9" />
+        <mark key="." line="820" column="8" />
+        <mark key="^" line="820" column="9" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/scaling_test.py" timestamp="1586775667345">
         <mark key="'" line="142" column="0" />
@@ -209,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="486" column="5" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="839" column="0" filename="D:/workspace/stockdatamanage/download.py" />
       <jump line="159" column="16" filename="D:/workspace/stockdatamanage/datamanage.py" />
       <jump line="499" column="22" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="609" column="13" filename="D:/workspace/stockdatamanage/mytest.py" />
@@ -309,6 +307,8 @@
       <jump line="5" column="0" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="767" column="18" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="4" column="30" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="740" column="16" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="21" column="47" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
