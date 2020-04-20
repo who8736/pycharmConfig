@@ -172,12 +172,12 @@
         <mark key="^" line="810" column="34" />
         <mark key="." line="810" column="33" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587388558586">
-        <mark key="'" line="21" column="47" />
-        <mark key="[" line="820" column="4" />
-        <mark key="]" line="820" column="9" />
-        <mark key="." line="820" column="8" />
-        <mark key="^" line="820" column="9" />
+      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587390172160">
+        <mark key="'" line="749" column="6" />
+        <mark key="[" line="754" column="33" />
+        <mark key="]" line="756" column="25" />
+        <mark key="." line="756" column="24" />
+        <mark key="^" line="756" column="25" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/scaling_test.py" timestamp="1586775667345">
         <mark key="'" line="142" column="0" />
@@ -209,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="16" filename="D:/workspace/stockdatamanage/datamanage.py" />
       <jump line="499" column="22" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="609" column="13" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="856" column="26" filename="D:/workspace/stockdatamanage/download.py" />
@@ -309,15 +308,16 @@
       <jump line="4" column="30" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="740" column="16" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="21" column="47" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="749" column="6" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>'000333.SZ'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'000333.SZ'</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>math</text>
@@ -326,31 +326,31 @@
         <text encoding="base64">ICAgIHByaW50KGYnu7nUrb751rU6e2V4cChtdTEpOi4yZn0sICcsCiAgICAgICAgICBmJ7XN1rU6e2V4cChtdTEpIC0gMiAqIGV4cChzaWdtYTEpOi4yZn0sICcKICAgICAgICAgIGYnuN/WtTp7ZXhwKG11MSkgKyAyICogZXhwKHNpZ21hMSk6LjJmfScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG11X3NvciA9IGV4cChtdTEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgbiwgYmlucywgcGF0Y2hlcyA9IGF4Lmhpc3QoZGF0YSwgY3VtdWxhdGl2ZT1UcnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgYXgxLnBsb3QoZGF0YSwga2luZD0na2RlJykK</text>
+        <text encoding="base64">ICAgIG11X3NvciA9IGV4cChtdTEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text>非定期数据更新脚本</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBucC5vbmVzKDEwKQogICAgZGF0YSA9IG5wLmFwcGVuZChkYXRhLCAxMDAwKQo=</text>
+        <text encoding="base64">ICAgICMgYXgxLnBsb3QoZGF0YSwga2luZD0na2RlJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmZpdF9wcmVkaWN0Cg==</text>
+        <text>非定期数据更新脚本</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgvau1pbHkwb/Ksbzk0PLB0Nequ7vOqrzgtr3Rp8+wyv2+3dDywdAKICAgICMgZGF0YSA9IGxpc3QocmFuZ2UoMTAwKSkKICAgICMgZGYgPSBzZXJpZXNfdG9fc3VwZXJ2aXNlZChkYXRhLCBuX2luPTMpCiAgICAjIHgsIHk9IHNlcmllc190b19zdXBlcnZpc2VkKGRhdGEsIG5faW49MykKICAgICMgcHJpbnQoeCkKICAgICMgcHJpbnQoJy0nICogODApCiAgICAjIHByaW50KHkpCgo=</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBucC5vbmVzKDEwKQogICAgZGF0YSA9IG5wLmFwcGVuZChkYXRhLCAxMDAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIG1vZGVsLmZpdF9wcmVkaWN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgvau1pdfUseTBv8qxvOTQ8sHQ16q7u86qM9fUseTBv7zgtr3Rp8+w0PLB0Lrzz9/Q1LvYuekKICAgIHRzX2NvZGUgPSAnMDAwNjUxLlNaJwogICAgc3RhcnREYXRlID0gJzIwMDkwMTAxJwogICAgZW5kRGF0ZSA9ICcyMDE5MTIzMScKICAgIHNxbCA9IChmJ3NlbGVjdCBkdF9uZXRwcm9maXRfeW95IGluYyBmcm9tIGZpbmFfaW5kaWNhdG9yJwogICAgICAgICAgIGYnIHdoZXJlIHRzX2NvZGU9Int0c19jb2RlfSIgYW5kIGVuZF9kYXRlPj0ie3N0YXJ0RGF0ZX0iJwogICAgICAgICAgIGYnIGFuZCBlbmRfZGF0ZTw9IntlbmREYXRlfSInKQogICAgZGYgPSBwZC5yZWFkX3NxbChzcWwsIGVuZ2luZSkKICAgIGRmLmRyb3BuYShpbnBsYWNlPVRydWUpCiAgICByZXN1bHRzID0gX2xpbmVhcl90cmFucyhkZi5pbmMudmFsdWVzKQogICAgcHJpbnQoZifXqru70PLB0MTius+94bn7JykKICAgIHByaW50KGYnaW50ZXJjZXB0OntyZXN1bHRzWyJpbnRlcmNlcHQiXX0nKQogICAgcHJpbnQoZidjb2VmOntyZXN1bHRzWyJjb2VmIl19JykKICAgIHByaW50KGYncjI6e3Jlc3VsdHNbInIyIl19JykKICAgIHByaW50KCctJyAqIDgwKQoKICAgIHJlc3VsdHMgPSBfbGluZWFyKGRmLmluYy52YWx1ZXMpCiAgICBwcmludChmJ7fH16q7u9DywdDE4rrPveG5+ycpCiAgICBwcmludChmJ2ludGVyY2VwdDp7cmVzdWx0c1siaW50ZXJjZXB0Il19JykKICAgIHByaW50KGYnY29lZjp7cmVzdWx0c1siY29lZiJdfScpCiAgICBwcmludChmJ3IyOntyZXN1bHRzWyJyMiJdfScpCg==</text>
+        <text encoding="base64">ICAgICMgvau1pbHkwb/Ksbzk0PLB0Nequ7vOqrzgtr3Rp8+wyv2+3dDywdAKICAgICMgZGF0YSA9IGxpc3QocmFuZ2UoMTAwKSkKICAgICMgZGYgPSBzZXJpZXNfdG9fc3VwZXJ2aXNlZChkYXRhLCBuX2luPTMpCiAgICAjIHgsIHk9IHNlcmllc190b19zdXBlcnZpc2VkKGRhdGEsIG5faW49MykKICAgICMgcHJpbnQoeCkKICAgICMgcHJpbnQoJy0nICogODApCiAgICAjIHByaW50KHkpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
