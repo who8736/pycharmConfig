@@ -124,6 +124,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1587378553802">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1586421925174">
         <mark key="'" line="611" column="7" />
         <mark key="[" line="662" column="25" />
@@ -169,12 +172,10 @@
         <mark key="^" line="810" column="34" />
         <mark key="." line="810" column="33" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587308483509">
-        <mark key="'" line="580" column="16" />
-        <mark key="[" line="730" column="25" />
-        <mark key="]" line="730" column="27" />
-        <mark key="^" line="730" column="27" />
-        <mark key="." line="730" column="26" />
+      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587378774271">
+        <mark key="[" line="746" column="32" />
+        <mark key="]" line="746" column="32" />
+        <mark key="." line="746" column="32" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/scaling_test.py" timestamp="1586775667345">
         <mark key="'" line="142" column="0" />
@@ -311,10 +312,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>, 1</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>, 1</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
