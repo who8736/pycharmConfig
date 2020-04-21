@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>updateIndex</entry>
-        <entry>dataman</entry>
-        <entry>datamana</entry>
-        <entry>$</entry>
-        <entry encoding="base64">ID0=</entry>
         <entry>,$</entry>
         <entry>pushdata</entry>
         <entry>valuation</entry>
@@ -23,8 +18,13 @@
         <entry encoding="base64">YnRuIA==</entry>
         <entry>cross</entry>
         <entry>1</entry>
-        <entry>make</entry>
-        <entry>prepro</entry>
+        <entry>model_main</entry>
+        <entry encoding="base64">XDxlbmNvZGVfdXRmOFw+</entry>
+        <entry>inc_adf_linea</entry>
+        <entry>inc_adf_linear</entry>
+        <entry>reshape</entry>
+        <entry>gridspec</entry>
+        <entry>math</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLCQvZw==</entry>
@@ -116,27 +116,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1586421243122">
+      <file name="/start_script.py" timestamp="1586447359154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587367931529">
+      <file name="/Dummy.txt" timestamp="1587394244652">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1587378553802">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="customization.xml" timestamp="1585732584038">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/web/templates/test.html" timestamp="1585809614268">
-        <mark key="[" line="17" column="71" />
-        <mark key="]" line="17" column="71" />
-        <mark key="^" line="17" column="76" />
-        <mark key="." line="17" column="71" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1587354034587">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="756" column="6" />
-        <mark key="]" line="756" column="7" />
-        <mark key="." line="756" column="6" />
-        <mark key="^" line="756" column="7" />
+      <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1586421925174">
+        <mark key="'" line="611" column="7" />
+        <mark key="[" line="662" column="25" />
+        <mark key="]" line="611" column="8" />
+        <mark key="^" line="611" column="8" />
+        <mark key="." line="611" column="7" />
       </file>
       <file name="D:/workspace/stockdatamanage/test/indexanalyze.py" timestamp="1586221163787">
         <mark key="[" line="2" column="25" />
@@ -147,12 +143,6 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="D:/workspace/stockdatamanage/download.py" timestamp="1585884478189">
-        <mark key="[" line="1095" column="41" />
-        <mark key="]" line="1095" column="46" />
-        <mark key="." line="1095" column="46" />
-        <mark key="^" line="1095" column="46" />
-      </file>
       <file name="D:/workspace/pandastest/cleandata.py" timestamp="1586334308722">
         <mark key="'" line="57" column="4" />
         <mark key="[" line="57" column="32" />
@@ -160,93 +150,65 @@
         <mark key="^" line="57" column="37" />
         <mark key="." line="57" column="32" />
       </file>
-      <file name="D:/workspace/stockdatamanage/web/templates/index.html" timestamp="1585794758623">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="6" column="36" />
+      <file name="D:/workspace/python/stockdatamanage/rundownmisc.sh" timestamp="1587216747364">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
-      <file name="D:/workspace/stockdatamanage/plot.py" timestamp="1585901159032">
-        <mark key="'" line="536" column="16" />
-        <mark key="[" line="243" column="21" />
-        <mark key="]" line="243" column="21" />
-        <mark key="." line="243" column="21" />
-        <mark key="^" line="243" column="21" />
+      <file name="D:/workspace/python/stockdatamanage/run.sh" timestamp="1587216739309">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="21" />
       </file>
-      <file name="D:/workspace/stockdatamanage/sqlrw.py" timestamp="1585732478694">
-        <mark key="[" line="837" column="0" />
-        <mark key="]" line="837" column="17" />
-        <mark key="." line="837" column="0" />
-        <mark key="^" line="735" column="30" />
+      <file name="D:/workspace/python/stockdatamanage/test/sklearn_examples_plot_anomaly_comparison.py" timestamp="1587294921769">
+        <mark key="[" line="79" column="45" />
+        <mark key="]" line="80" column="24" />
+        <mark key="^" line="80" column="24" />
+        <mark key="." line="80" column="23" />
       </file>
-      <file name="D:/workspace/stockdatamanage/test/index_technical_indicators.py" timestamp="1586828854564">
-        <mark key="'" line="816" column="12" />
+      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1587264320713">
+        <mark key="'" line="765" column="22" />
+        <mark key="[" line="810" column="29" />
+        <mark key="]" line="810" column="34" />
+        <mark key="^" line="810" column="34" />
+        <mark key="." line="810" column="33" />
       </file>
-      <file name="D:/workspace/stockdatamanage/check.py" timestamp="1587458608128">
-        <mark key="'" line="92" column="13" />
-        <mark key="[" line="77" column="40" />
-        <mark key="]" line="77" column="49" />
-        <mark key="^" line="77" column="49" />
-        <mark key="." line="77" column="48" />
+      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587394238321">
+        <mark key="'" line="749" column="6" />
+        <mark key="[" line="840" column="14" />
+        <mark key="]" line="840" column="14" />
+        <mark key="." line="840" column="14" />
+        <mark key="^" line="840" column="13" />
       </file>
-      <file name="D:/workspace/stockdatamanage/web/templates/valuation.html" timestamp="1585710980256">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="62" column="17" />
-        <mark key="." line="19" column="63" />
-        <mark key="^" line="19" column="63" />
+      <file name="D:/workspace/python/stockdatamanage/test/scaling_test.py" timestamp="1586775667345">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="171" column="16" />
+        <mark key="]" line="172" column="14" />
+        <mark key="^" line="172" column="14" />
+        <mark key="." line="172" column="13" />
       </file>
-      <file name="D:/workspace/stockdatamanage/web/templates/base.html" timestamp="1585797463539">
-        <mark key="'" line="66" column="24" />
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="11" />
+      <file name="D:/workspace/python/stockdatamanage/runweb.py" timestamp="1587258099649">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="D:/workspace/stockdatamanage/mytest.py" timestamp="1585902869220">
-        <mark key="'" line="693" column="20" />
-        <mark key="[" line="108" column="63" />
-        <mark key="]" line="108" column="66" />
-        <mark key="." line="108" column="66" />
-        <mark key="^" line="108" column="66" />
+      <file name="D:/workspace/python/stockdatamanage/startdownmisc" timestamp="1587217095814">
+        <mark key="[" line="1" column="79" />
+        <mark key="]" line="1" column="86" />
+        <mark key="." line="1" column="86" />
+        <mark key="^" line="1" column="82" />
       </file>
-      <file name="D:/workspace/stockdatamanage/web/templates/test2.html" timestamp="1585809561727">
-        <mark key="[" line="19" column="52" />
-        <mark key="]" line="19" column="55" />
-        <mark key="^" line="19" column="51" />
-        <mark key="." line="19" column="52" />
+      <file name="D:/workspace/python/stockdatamanage/sqlrw.py" timestamp="1587259041981">
+        <mark key="[" line="1519" column="27" />
+        <mark key="]" line="1519" column="27" />
+        <mark key="." line="1519" column="27" />
+        <mark key="^" line="1519" column="21" />
+      </file>
+      <file name="D:/workspace/python/stockdatamanage/startstockmanage" timestamp="1587216407936">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="114" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="456" column="6" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="569" column="8" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="570" column="6" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="65" column="18" filename="D:/workspace/stockdatamanage/config.py" />
-      <jump line="21" column="9" filename="D:/workspace/stockdatamanage/config.py" />
-      <jump line="22" column="11" filename="D:/workspace/stockdatamanage/config.py" />
-      <jump line="370" column="26" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="587" column="0" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="586" column="29" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="34" column="22" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="476" column="10" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="216" column="0" filename="D:/workspace/stockdatamanage/test/mean_reversoin.py" />
-      <jump line="7" column="0" filename="D:/workspace/stockdatamanage/test/mean_reversoin.py" />
-      <jump line="94" column="11" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="114" column="4" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="117" column="4" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="0" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="1024" column="6" filename="D:/workspace/stockdatamanage/sqlrw.py" />
-      <jump line="0" column="1" filename="D:/workspace/stockdatamanage/sqlrw.py" />
-      <jump line="22" column="20" filename="D:/workspace/stockdatamanage/sqlrw.py" />
-      <jump line="35" column="18" filename="D:/workspace/stockdatamanage/sqlrw.py" />
-      <jump line="38" column="10" filename="D:/workspace/stockdatamanage/sqlrw.py" />
-      <jump line="59" column="24" filename="D:/workspace/stockdatamanage/sqlrw.py" />
-      <jump line="70" column="24" filename="D:/workspace/stockdatamanage/sqlrw.py" />
-      <jump line="168" column="13" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="15" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="232" column="12" filename="D:/workspace/stockdatamanage/test/mean_reversoin.py" />
-      <jump line="486" column="5" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="839" column="0" filename="D:/workspace/stockdatamanage/download.py" />
-      <jump line="159" column="16" filename="D:/workspace/stockdatamanage/datamanage.py" />
       <jump line="499" column="22" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="609" column="13" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="856" column="26" filename="D:/workspace/stockdatamanage/download.py" />
@@ -297,68 +259,98 @@
       <jump line="571" column="4" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="377" column="27" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="611" column="7" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="267" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="29" column="4" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="789" column="14" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="16" column="17" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="793" column="29" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="798" column="13" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="32" column="8" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="82" column="9" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="752" column="26" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="801" column="3" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="811" column="12" filename="D:/workspace/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="750" column="22" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="56" column="18" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="751" column="51" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="42" column="25" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="753" column="12" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="8" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="74" column="16" filename="D:/workspace/stockdatamanage/check.py" />
-      <jump line="5" column="30" filename="D:/workspace/stockdatamanage/check.py" />
-      <jump line="84" column="13" filename="D:/workspace/stockdatamanage/check.py" />
+      <jump line="713" column="11" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="9" column="32" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="728" column="21" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="758" column="19" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="26" column="13" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="106" column="49" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="800" column="8" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="784" column="8" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="777" column="12" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="776" column="0" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="782" column="12" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="66" column="0" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="107" column="16" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="142" column="0" filename="D:/workspace/python/stockdatamanage/test/scaling_test.py" />
+      <jump line="84" column="38" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="209" column="15" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="810" column="26" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="164" column="33" filename="D:/workspace/python/stockdatamanage/web/views.py" />
+      <jump line="188" column="0" filename="D:/workspace/python/stockdatamanage/web/views.py" />
+      <jump line="167" column="13" filename="D:/workspace/python/stockdatamanage/web/views.py" />
+      <jump line="12" column="32" filename="D:/workspace/python/stockdatamanage/web/views.py" />
+      <jump line="651" column="3" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="700" column="4" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="269" column="0" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="24" column="0" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="683" column="12" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="686" column="30" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="691" column="15" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="718" column="4" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="765" column="22" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
+      <jump line="19" column="49" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="725" column="13" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="20" column="29" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="468" column="20" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="580" column="16" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="735" column="18" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="222" column="9" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="751" column="21" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="752" column="24" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="10" column="30" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="174" column="9" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="320" column="9" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="434" column="11" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="765" column="6" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="5" column="0" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="767" column="18" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="4" column="30" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="740" column="16" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="21" column="47" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="749" column="6" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>票</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>票</text>
       </register>
       <register name="/" type="4">
-        <text>prepro</text>
+        <text>math</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQobGVuKGRmKSwgbGVuKHBiZGYpLCBsZW4obm9wYmRmKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGYnu7nUrb751rU6e2V4cChtdTEpOi4yZn0sICcsCiAgICAgICAgICBmJ7XN1rU6e2V4cChtdTEpIC0gMiAqIGV4cChzaWdtYTEpOi4yZn0sICcKICAgICAgICAgIGYnuN/WtTp7ZXhwKG11MSkgKyAyICogZXhwKHNpZ21hMSk6LjJmfScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmcm9tIHNxbHJ3Cg==</text>
+        <text encoding="base64">ICAgICMgbiwgYmlucywgcGF0Y2hlcyA9IGF4Lmhpc3QoZGF0YSwgY3VtdWxhdGl2ZT1UcnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgYXgxID0gYXgudHdpbngoKQo=</text>
+        <text encoding="base64">ICAgIG11X3NvciA9IGV4cChtdTEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHkgPSBtbGFiLm5vcm1wZGYoYmlucywgbXUsIHNpZ21hKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGF4ID0gcGx0LnN1YnBsb3QoKQogICAgYXguaGlzdCgpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgYXgxLnBsb3QoZGF0YSwga2luZD0na2RlJykK</text>
+      </register>
+      <register name="6" type="2">
+        <text>非定期数据更新脚本</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgeV9wcmVkaWN0aW9ucyA9IG1vZGVsLnByZWRpY3QoeF90ZXN0KQo=</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBucC5vbmVzKDEwKQogICAgZGF0YSA9IG5wLmFwcGVuZChkYXRhLCAxMDAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGZbKCkgJiAoZGYuZmxhZyAhPSAwKV0uaW5kZXgubWluKCk=</text>
+        <text encoding="base64">ICAgIG1vZGVsLmZpdF9wcmVkaWN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ICAgICMgvau1pbHkwb/Ksbzk0PLB0Nequ7vOqrzgtr3Rp8+wyv2+3dDywdAKICAgICMgZGF0YSA9IGxpc3QocmFuZ2UoMTAwKSkKICAgICMgZGYgPSBzZXJpZXNfdG9fc3VwZXJ2aXNlZChkYXRhLCBuX2luPTMpCiAgICAjIHgsIHk9IHNlcmllc190b19zdXBlcnZpc2VkKGRhdGEsIG5faW49MykKICAgICMgcHJpbnQoeCkKICAgICMgcHJpbnQoJy0nICogODApCiAgICAjIHByaW50KHkpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
@@ -367,9 +359,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>prepro</last-search>
+      <last-search>math</last-search>
       <last-offset />
-      <last-pattern>prepro</last-pattern>
+      <last-pattern>math</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
