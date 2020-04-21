@@ -203,6 +203,12 @@
         <mark key="." line="1519" column="27" />
         <mark key="^" line="1519" column="21" />
       </file>
+      <file name="D:/workspace/python/stockdatamanage/check.py" timestamp="1587471008722">
+        <mark key="[" line="109" column="22" />
+        <mark key="]" line="109" column="29" />
+        <mark key="^" line="109" column="29" />
+        <mark key="." line="109" column="28" />
+      </file>
       <file name="D:/workspace/python/stockdatamanage/startstockmanage" timestamp="1587216407936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="114" />
@@ -314,10 +320,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>票</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>票</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>math</text>
