@@ -125,9 +125,6 @@
       <file name="customization.xml" timestamp="1585732584038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1587348932064">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/workspace/stockdatamanage/web/templates/test.html" timestamp="1585809614268">
         <mark key="[" line="17" column="71" />
         <mark key="]" line="17" column="71" />
@@ -185,6 +182,13 @@
       <file name="D:/workspace/stockdatamanage/test/index_technical_indicators.py" timestamp="1586828854564">
         <mark key="'" line="816" column="12" />
       </file>
+      <file name="D:/workspace/stockdatamanage/check.py" timestamp="1587456135490">
+        <mark key="'" line="85" column="13" />
+        <mark key="[" line="85" column="15" />
+        <mark key="]" line="86" column="16" />
+        <mark key="^" line="86" column="16" />
+        <mark key="." line="86" column="15" />
+      </file>
       <file name="D:/workspace/stockdatamanage/web/templates/valuation.html" timestamp="1585710980256">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="62" column="17" />
@@ -213,9 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="24" column="5" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="453" column="4" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="456" column="6" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="569" column="8" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="570" column="6" filename="D:/workspace/stockdatamanage/mytest.py" />
@@ -313,48 +314,51 @@
       <jump line="42" column="25" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="753" column="12" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="8" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
+      <jump line="74" column="16" filename="D:/workspace/stockdatamanage/check.py" />
+      <jump line="5" column="30" filename="D:/workspace/stockdatamanage/check.py" />
+      <jump line="84" column="13" filename="D:/workspace/stockdatamanage/check.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgYXgxID0gYXgudHdpbngoKQo=</text>
+        <text encoding="base64">IyBmcm9tIHNxbHJ3Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, cumulative=True</text>
+        <text>ts_code</text>
       </register>
       <register name="/" type="4">
         <text>prepro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG4sIGJpbnMsIHBhdGNoZXMgPSBheC5oaXN0KGRhdGEsIGN1bXVsYXRpdmU9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICIiIgogICAgsLTDv8jV1rix6rrNwPvI87Htt9ax8LzGy+NUVE3A+8jzo6wKICAgIMG91d+y7tLss6y5/TAuMDAwMDHKsbHtyr7Q6Lj80MKyxs7xvL6xqAogICAgwPvI87Ht06bIodfuuvPSu7y+o6zX7rrz0ru8vsnPxOrNrMbao6zJz8TqxOrEqbzGy+O1w7W9cHJvZml0c190dG0KICAgIDpyZXR1cm46CiAgICDO3sD7yPOx7SC3tbvYMQogICAgzt7Dv8jV1rix6iC3tbvYMgogICAgwPvI87Htyv2+3bK7yKsgt7W72DMKICAgIMO/yNXWuLHq0+vA+8jzse2y7tLsvc+08yC3tbvYNAogICAgzt6y7tLsILe1u9gwCiAgICAiIiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgYXgxID0gYXgudHdpbngoKQo=</text>
+        <text encoding="base64">IyBmcm9tIHNxbHJ3Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHkgPSBtbGFiLm5vcm1wZGYoYmlucywgbXUsIHNpZ21hKQo=</text>
+        <text encoding="base64">ICAgICMgYXgxID0gYXgudHdpbngoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF4ID0gcGx0LnN1YnBsb3QoKQogICAgYXguaGlzdCgpCg==</text>
+        <text encoding="base64">ICAgIHkgPSBtbGFiLm5vcm1wZGYoYmlucywgbXUsIHNpZ21hKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF4ID0gcGx0LnN1YnBsb3QoKQogICAgYXguaGlzdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgeV9wcmVkaWN0aW9ucyA9IG1vZGVsLnByZWRpY3QoeF90ZXN0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGZbKCkgJiAoZGYuZmxhZyAhPSAwKV0uaW5kZXgubWluKCk=</text>
+        <text encoding="base64">ICAgICMgeV9wcmVkaWN0aW9ucyA9IG1vZGVsLnByZWRpY3QoeF90ZXN0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ZGZbKCkgJiAoZGYuZmxhZyAhPSAwKV0uaW5kZXgubWluKCk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgIGltcG9ydCBudW1weSBhcyBucAogICAgaW1wb3J0IG1hdHBsb3RsaWIubWxhYiBhcyBNTEEK</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIKGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqoaqhqqGqCiAgICCw5sioyfnD96O6sb7OxM6qQ1NETrKp1vehuG1hX3N0dWRkobm1xNSttLTOxNXCo6zX8dGtCiAgICBDQwogICAgNC4wCiAgICBCWSAtIFNBCiAgICCw5sio0K3S6aOs16rU2MfruL3Jz9StzsSz9rSmwbS907ywsb7J+cP3oaMKICAgINStzsTBtL3To7podHRwczogLy8gYmxvZy5jc2RuLm5ldCAvIHUwMTM5MjA0MzQgLyBqYXZhIC8gYXJ0aWNsZSAvIGRldGFpbHMgLyA1MjUwNzE3Mw==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKICAgIGltcG9ydCBudW1weSBhcyBucAogICAgaW1wb3J0IG1hdHBsb3RsaWIubWxhYiBhcyBNTEEK</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
