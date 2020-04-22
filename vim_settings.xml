@@ -119,13 +119,10 @@
       <file name="/start_script.py" timestamp="1586447359154">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587394244652">
+      <file name="/Dummy.txt" timestamp="1587521340603">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1587513881584">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1586421925174">
         <mark key="'" line="611" column="7" />
@@ -179,11 +176,11 @@
         <mark key="." line="840" column="14" />
         <mark key="^" line="840" column="13" />
       </file>
-      <file name="D:/workspace/stockdatamanage/check.py" timestamp="1587520748434">
-        <mark key="[" line="46" column="35" />
-        <mark key="]" line="46" column="35" />
-        <mark key="." line="46" column="34" />
-        <mark key="^" line="46" column="34" />
+      <file name="D:/workspace/stockdatamanage/check.py" timestamp="1587521021719">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="47" column="51" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/scaling_test.py" timestamp="1586775667345">
         <mark key="'" line="142" column="0" />
@@ -319,11 +316,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRmLmRyb3BfZHUK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pd.concat([df, df1])</text>
       </register>
       <register name="/" type="4">
         <text>math</text>
@@ -332,31 +329,31 @@
         <text encoding="base64">ICAgIHByaW50KGYnu7nUrb751rU6e2V4cChtdTEpOi4yZn0sICcsCiAgICAgICAgICBmJ7XN1rU6e2V4cChtdTEpIC0gMiAqIGV4cChzaWdtYTEpOi4yZn0sICcKICAgICAgICAgIGYnuN/WtTp7ZXhwKG11MSkgKyAyICogZXhwKHNpZ21hMSk6LjJmfScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRmLmRyb3BfZHUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgbiwgYmlucywgcGF0Y2hlcyA9IGF4Lmhpc3QoZGF0YSwgY3VtdWxhdGl2ZT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG11X3NvciA9IGV4cChtdTEpCg==</text>
+        <text encoding="base64">ICAgICMgbiwgYmlucywgcGF0Y2hlcyA9IGF4Lmhpc3QoZGF0YSwgY3VtdWxhdGl2ZT1UcnVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG11X3NvciA9IGV4cChtdTEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgYXgxLnBsb3QoZGF0YSwga2luZD0na2RlJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>非定期数据更新脚本</text>
+        <text encoding="base64">ICAgICMgYXgxLnBsb3QoZGF0YSwga2luZD0na2RlJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBucC5vbmVzKDEwKQogICAgZGF0YSA9IG5wLmFwcGVuZChkYXRhLCAxMDAwKQo=</text>
+        <text>非定期数据更新脚本</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmZpdF9wcmVkaWN0Cg==</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBucC5vbmVzKDEwKQogICAgZGF0YSA9IG5wLmFwcGVuZChkYXRhLCAxMDAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgvau1pbHkwb/Ksbzk0PLB0Nequ7vOqrzgtr3Rp8+wyv2+3dDywdAKICAgICMgZGF0YSA9IGxpc3QocmFuZ2UoMTAwKSkKICAgICMgZGYgPSBzZXJpZXNfdG9fc3VwZXJ2aXNlZChkYXRhLCBuX2luPTMpCiAgICAjIHgsIHk9IHNlcmllc190b19zdXBlcnZpc2VkKGRhdGEsIG5faW49MykKICAgICMgcHJpbnQoeCkKICAgICMgcHJpbnQoJy0nICogODApCiAgICAjIHByaW50KHkpCgo=</text>
+        <text encoding="base64">ICAgIG1vZGVsLmZpdF9wcmVkaWN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
