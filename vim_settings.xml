@@ -124,12 +124,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1586421925174">
-        <mark key="'" line="611" column="7" />
-        <mark key="[" line="662" column="25" />
-        <mark key="]" line="611" column="8" />
-        <mark key="^" line="611" column="8" />
-        <mark key="." line="611" column="7" />
+      <file name="/Python Console" timestamp="1587539389403">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1587540225443">
+        <mark key="'" line="85" column="22" />
+        <mark key="[" line="887" column="16" />
+        <mark key="]" line="840" column="14" />
+        <mark key="." line="840" column="13" />
+        <mark key="^" line="840" column="14" />
       </file>
       <file name="D:/workspace/stockdatamanage/test/stockvsindex.py" timestamp="1586248006549">
         <mark key="[" line="4" column="16" />
@@ -213,9 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="499" column="22" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="609" column="13" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="856" column="26" filename="D:/workspace/stockdatamanage/download.py" />
       <jump line="344" column="37" filename="D:/workspace/stockdatamanage/classifyanalyse.py" />
       <jump line="526" column="0" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="253" column="18" filename="D:/workspace/stockdatamanage/datatrans.py" />
@@ -313,15 +315,18 @@
       <jump line="740" column="16" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="21" column="47" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="749" column="6" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
+      <jump line="807" column="37" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
+      <jump line="822" column="13" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
+      <jump line="85" column="22" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRmLmRyb3BfZHUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pd.concat([df, df1])</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>math</text>
@@ -330,31 +335,31 @@
         <text encoding="base64">ICAgIHByaW50KGYnu7nUrb751rU6e2V4cChtdTEpOi4yZn0sICcsCiAgICAgICAgICBmJ7XN1rU6e2V4cChtdTEpIC0gMiAqIGV4cChzaWdtYTEpOi4yZn0sICcKICAgICAgICAgIGYnuN/WtTp7ZXhwKG11MSkgKyAyICogZXhwKHNpZ21hMSk6LjJmfScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRmLmRyb3BfZHUK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgbiwgYmlucywgcGF0Y2hlcyA9IGF4Lmhpc3QoZGF0YSwgY3VtdWxhdGl2ZT1UcnVlKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG11X3NvciA9IGV4cChtdTEpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRhdGExID0gZGF0YVtkYXRhID49IGxvdyAmIGRhdGEgPD0gaGlnaF0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cTEgPSBkYXRhLnF1YW50aWxlKC4yNSkKcTMgPSBkYXRhLnF1YW50aWxlKC43NSkKZGlmZiA9IHEzIC0gcTEKbG93ID0gcTEgLSBkaWZmICogMS41CmhpZ2ggPSBxMyArIGRpZmYgKiAxLjUKZGF0YTEgPSBkYXRhW2RhdGEgPj0gbG93ICYgZGF0YSA8PSBoaWdoXQpkYXRhMSA9IGRhdGFbKGRhdGEgPj0gbG93KSAmIChkYXRhIDw9IGhpZ2gpXQptZWFuID0gbnAubWVhbihkYXRhMSkKc3RkID0gbnAuc3RkKGRhdGExKQpkb3duID0gbWVhbiAtIHN0ZAp1cCA9IG1lYW4gKyBzdGQ=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRmLmRyb3BfZHUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgYXgxLnBsb3QoZGF0YSwga2luZD0na2RlJykK</text>
+        <text encoding="base64">ICAgICMgbiwgYmlucywgcGF0Y2hlcyA9IGF4Lmhpc3QoZGF0YSwgY3VtdWxhdGl2ZT1UcnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text>非定期数据更新脚本</text>
+        <text encoding="base64">ICAgIG11X3NvciA9IGV4cChtdTEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBucC5vbmVzKDEwKQogICAgZGF0YSA9IG5wLmFwcGVuZChkYXRhLCAxMDAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vZGVsLmZpdF9wcmVkaWN0Cg==</text>
+        <text encoding="base64">ICAgICMgYXgxLnBsb3QoZGF0YSwga2luZD0na2RlJykK</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
