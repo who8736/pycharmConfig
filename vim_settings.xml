@@ -124,11 +124,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1587609132263">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1587540225443">
         <mark key="'" line="85" column="22" />
         <mark key="[" line="887" column="16" />
@@ -141,13 +136,6 @@
         <mark key="]" line="246" column="43" />
         <mark key="." line="246" column="42" />
         <mark key="^" line="246" column="43" />
-      </file>
-      <file name="D:/workspace/pandastest/cleandata.py" timestamp="1586334308722">
-        <mark key="'" line="57" column="4" />
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="57" column="32" />
-        <mark key="^" line="57" column="37" />
-        <mark key="." line="57" column="32" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/rundownmisc.sh" timestamp="1587216747364">
         <mark key="[" line="1" column="8" />
@@ -164,6 +152,7 @@
         <mark key="^" line="80" column="24" />
         <mark key="." line="80" column="23" />
       </file>
+      <file name="D:/workspace/stockdatamanage/sqlrw.py" timestamp="1587610254981" />
       <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1587264320713">
         <mark key="'" line="765" column="22" />
         <mark key="[" line="810" column="29" />
