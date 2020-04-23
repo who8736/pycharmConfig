@@ -124,7 +124,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1587539389403">
+      <file name="/Python Console" timestamp="1587609132263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -136,11 +136,11 @@
         <mark key="." line="840" column="13" />
         <mark key="^" line="840" column="14" />
       </file>
-      <file name="D:/workspace/stockdatamanage/test/stockvsindex.py" timestamp="1586248006549">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
+      <file name="D:/workspace/stockdatamanage/download.py" timestamp="1587608900172">
+        <mark key="[" line="246" column="26" />
+        <mark key="]" line="246" column="43" />
+        <mark key="." line="246" column="42" />
+        <mark key="^" line="246" column="43" />
       </file>
       <file name="D:/workspace/pandastest/cleandata.py" timestamp="1586334308722">
         <mark key="'" line="57" column="4" />
@@ -212,14 +212,15 @@
         <mark key="^" line="1" column="82" />
       </file>
       <file name="D:/workspace/stockdatamanage/datamanage.py" timestamp="1587523455897" />
+      <file name="D:/workspace/stockdatamanage/test/mytest.py" timestamp="1587608694591">
+        <mark key="'" line="614" column="0" />
+      </file>
       <file name="D:/workspace/python/stockdatamanage/startstockmanage" timestamp="1587216407936">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="114" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="37" filename="D:/workspace/stockdatamanage/classifyanalyse.py" />
-      <jump line="526" column="0" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="253" column="18" filename="D:/workspace/stockdatamanage/datatrans.py" />
       <jump line="22" column="18" filename="D:/workspace/stockdatamanage/pushdata.py" />
       <jump line="504" column="0" filename="D:/workspace/stockdatamanage/mytest.py" />
@@ -318,15 +319,17 @@
       <jump line="807" column="37" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="822" column="13" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="85" column="22" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
+      <jump line="796" column="28" filename="D:/workspace/stockdatamanage/test/mytest.py" />
+      <jump line="614" column="0" filename="D:/workspace/stockdatamanage/test/mytest.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>period</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>period</text>
       </register>
       <register name="/" type="4">
         <text>math</text>
