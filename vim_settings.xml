@@ -124,6 +124,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/workspace/python/stockdatamanage/downloadmisc.py" timestamp="1587646061173">
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="22" />
+      </file>
       <file name="/Python Console" timestamp="1587478526638">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,12 +139,6 @@
         <mark key="]" line="611" column="8" />
         <mark key="^" line="611" column="8" />
         <mark key="." line="611" column="7" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/test/stockvsindex.py" timestamp="1586248006549">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="23" />
       </file>
       <file name="D:/workspace/pandastest/cleandata.py" timestamp="1586334308722">
         <mark key="'" line="57" column="4" />
@@ -337,16 +337,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>disclosure_date</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>disclosure_date</text>
       </register>
       <register name="/" type="4">
         <text>math</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgw7/Wp7nJxrHX7rrzuPzQwry+sajI1cba0+vDv8jV1rix6tbQtcTX7rrzyNXG2rzGy+O1xM/6ytvK1cjryse38bTm1Nqy7tLsCiAgICAjIMjn09Cy7tLs1PLLtcP30Oi4/NDCvL6xqAo=</text>
+        <text encoding="base64">ICAgIFsnZGlzY2xvc3VyZV9kYXRlJywgNjAsIDUwXSwK</text>
       </register>
       <register name="1" type="2">
         <text>异常检测试验</text>
