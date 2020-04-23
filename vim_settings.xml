@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>,$</entry>
         <entry>pushdata</entry>
         <entry>valuation</entry>
         <entry>calpfnew</entry>
@@ -25,6 +24,7 @@
         <entry>reshape</entry>
         <entry>gridspec</entry>
         <entry>math</entry>
+        <entry>del_</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLCQvZw==</entry>
@@ -116,46 +116,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.py" timestamp="1587612520330">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/run.sh" timestamp="1587216739309">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="21" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/sqlrw.py" timestamp="1587612353722">
-        <mark key="'" line="549" column="0" />
-        <mark key="[" line="538" column="0" />
-        <mark key="]" line="539" column="19" />
-        <mark key="." line="538" column="0" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587394238321">
-        <mark key="'" line="749" column="6" />
-        <mark key="[" line="840" column="14" />
-        <mark key="]" line="840" column="14" />
-        <mark key="." line="840" column="14" />
-        <mark key="^" line="840" column="13" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/sqlrw.py" timestamp="1587259041981">
-        <mark key="[" line="1519" column="27" />
-        <mark key="]" line="1519" column="27" />
-        <mark key="." line="1519" column="27" />
-        <mark key="^" line="1519" column="21" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/datatrans.py" timestamp="1587613432218">
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="12" />
-        <mark key="^" line="238" column="37" />
-        <mark key="." line="239" column="12" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/startstockmanage" timestamp="1587216407936">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="114" />
-      </file>
       <file name="/Dummy.txt" timestamp="1587613730279">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1587612520330">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1587540225443">
         <mark key="'" line="85" column="22" />
@@ -164,16 +131,26 @@
         <mark key="." line="840" column="13" />
         <mark key="^" line="840" column="14" />
       </file>
-      <file name="D:/workspace/stockdatamanage/download.py" timestamp="1587608900172">
-        <mark key="[" line="246" column="26" />
-        <mark key="]" line="246" column="43" />
-        <mark key="." line="246" column="42" />
+      <file name="D:/workspace/stockdatamanage/download.py" timestamp="1587627456067">
+        <mark key="[" line="406" column="0" />
+        <mark key="]" line="406" column="0" />
         <mark key="^" line="246" column="43" />
+        <mark key="." line="406" column="0" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/rundownmisc.sh" timestamp="1587216747364">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="8" />
         <mark key="." line="1" column="8" />
+      </file>
+      <file name="D:/workspace/python/stockdatamanage/run.sh" timestamp="1587216739309">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="21" />
+      </file>
+      <file name="D:/workspace/stockdatamanage/sqlrw.py" timestamp="1587627852219">
+        <mark key="[" line="497" column="4" />
+        <mark key="]" line="497" column="11" />
+        <mark key="^" line="497" column="11" />
+        <mark key="." line="497" column="10" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/sklearn_examples_plot_anomaly_comparison.py" timestamp="1587294921769">
         <mark key="[" line="79" column="45" />
@@ -191,6 +168,13 @@
       <file name="D:/workspace/stockdatamanage/test/index_technical_indicators.py" timestamp="1586828854564">
         <mark key="'" line="816" column="12" />
       </file>
+      <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587394238321">
+        <mark key="'" line="749" column="6" />
+        <mark key="[" line="840" column="14" />
+        <mark key="]" line="840" column="14" />
+        <mark key="." line="840" column="14" />
+        <mark key="^" line="840" column="13" />
+      </file>
       <file name="D:/workspace/stockdatamanage/check.py" timestamp="1587522319535">
         <mark key="[" line="38" column="30" />
         <mark key="]" line="48" column="0" />
@@ -202,26 +186,33 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="D:/workspace/python/stockdatamanage/sqlrw.py" timestamp="1587259041981">
+        <mark key="[" line="1519" column="27" />
+        <mark key="]" line="1519" column="27" />
+        <mark key="." line="1519" column="27" />
+        <mark key="^" line="1519" column="21" />
+      </file>
+      <file name="D:/workspace/stockdatamanage/datatrans.py" timestamp="1587613432218">
+        <mark key="[" line="239" column="0" />
+        <mark key="]" line="239" column="12" />
+        <mark key="^" line="238" column="37" />
+        <mark key="." line="239" column="12" />
+      </file>
       <file name="D:/workspace/python/stockdatamanage/startdownmisc" timestamp="1587217095814">
         <mark key="[" line="1" column="79" />
         <mark key="]" line="1" column="86" />
         <mark key="." line="1" column="86" />
         <mark key="^" line="1" column="82" />
       </file>
-      <file name="D:/workspace/stockdatamanage/datamanage.py" timestamp="1587523455897" />
       <file name="D:/workspace/stockdatamanage/test/mytest.py" timestamp="1587608694591">
         <mark key="'" line="614" column="0" />
       </file>
+      <file name="D:/workspace/python/stockdatamanage/startstockmanage" timestamp="1587216407936">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="114" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="18" filename="D:/workspace/stockdatamanage/pushdata.py" />
-      <jump line="504" column="0" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="348" column="27" filename="D:/workspace/stockdatamanage/dataanalyse.py" />
-      <jump line="541" column="10" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="117" column="0" filename="D:/workspace/stockdatamanage/datamanage.py" />
-      <jump line="686" column="16" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="694" column="21" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="206" column="19" filename="D:/workspace/stockdatamanage/plot.py" />
       <jump line="21" column="23" filename="D:/workspace/stockdatamanage/plot.py" />
       <jump line="692" column="12" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="57" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
@@ -314,48 +305,56 @@
       <jump line="796" column="28" filename="D:/workspace/stockdatamanage/test/mytest.py" />
       <jump line="614" column="0" filename="D:/workspace/stockdatamanage/test/mytest.py" />
       <jump line="549" column="0" filename="D:/workspace/stockdatamanage/sqlrw.py" />
+      <jump line="50" column="17" filename="D:/workspace/stockdatamanage/sqlrw.py" />
+      <jump line="109" column="0" filename="D:/workspace/stockdatamanage/sqlrw.py" />
+      <jump line="192" column="0" filename="D:/workspace/stockdatamanage/sqlrw.py" />
+      <jump line="290" column="0" filename="D:/workspace/stockdatamanage/sqlrw.py" />
+      <jump line="298" column="0" filename="D:/workspace/stockdatamanage/sqlrw.py" />
+      <jump line="491" column="0" filename="D:/workspace/stockdatamanage/sqlrw.py" />
+      <jump line="748" column="0" filename="D:/workspace/stockdatamanage/sqlrw.py" />
+      <jump line="909" column="4" filename="D:/workspace/stockdatamanage/sqlrw.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>{'ts_code': '000001.SZ', 'ann_date': '20200421', 'end_date': '20200331', 'eps': 0.4, 'dt_eps': 0.4, 'total_revenue_ps': 1.9543, 'revenue_ps': 1.9543, 'capital_rese_ps': 4.1645, 'surplus_rese_ps': 0.5555, 'undist_profit_ps': 6.2375, 'extra_item': 42000000.0, 'profit_dedt': 8506000000.0, 'gross_margin': None, 'current_ratio': None, 'quick_ratio': None, 'cash_ratio': None, 'invturn_days': None, 'arturn_days': None, 'inv_turn': None, 'ar_turn': None, 'ca_turn': None, 'fa_turn': None, 'assets_turn': 0.0094, 'op_income': 7555000000.0, 'valuechange_income': 3363000000.0, 'interst_income': None, 'daa': None, 'ebit': None, 'ebitda': None, 'fcff': None, 'fcfe': None, 'current_exint': None, 'noncurrent_exint': None, 'interestdebt': None, 'netdebt': None, 'tangible_asset': None, 'working_capital': None, 'networking_capital': None, 'invest_capital': None, 'retained_earnings': 131825000000.0, 'diluted2_eps': 0.4405, 'bps': 14.5528, 'ocfps': 0.93, 'retainedps': 6.793, 'cfps': -0.0628, 'ebit_ps': None, 'fcff_ps': None, 'fcfe_ps': None, 'netprofit_margin': 22.5386, 'grossprofit_margin': None, 'cogs_of_sales': None, 'expense_of_sales': None, 'profit_to_gr': 22.5386, 'saleexp_to_gr': None, 'adminexp_of_gr': 27.9439, 'finaexp_of_gr': None, 'impai_ttm': None, 'gc_of_gr': None, 'op_of_gr': 28.9986, 'ebit_of_gr': None, 'roe': 2.5695, 'roe_waa': 2.77, 'roe_dt': 2.5569, 'roa': None, 'npta': 0.2118, 'roic': None, 'roe_yearly': 10.278, 'roa2_yearly': None, 'roe_avg': 2.76, 'opincome_of_ebt': 68.9451, 'investincome_of_ebt': 30.6899, 'n_op_profit_of_ebt': -0.365, 'tax_to_ebt': 21.9931, 'dtprofit_to_profit': 99.5087, 'salescash_to_or': None, 'ocf_to_or': 0.4743, 'ocf_to_opincome': 2.3811, 'capitalized_to_da': None, 'debt_to_assets': 91.4731, 'assets_to_eqt': 11.7276, 'dp_assets_to_eqt': 12.1312, 'ca_to_assets': None, 'nca_to_assets': None, 'tbassets_to_totalassets': None, 'int_to_talcap': None, 'eqt_to_talcapital': None, 'currentdebt_to_debt': None, 'longdeb_to_debt': None, 'ocf_to_shortdebt': None, 'debt_to_eqt': 10.7277, 'eqt_to_debt': 0.0932, 'eqt_to_interestdebt': None, 'tangibleasset_to_debt': None, 'tangasset_to_intdebt': None, 'tangibleasset_to_netdebt': None, 'ocf_to_debt': 0.0048, 'ocf_to_interestdebt': None, 'ocf_to_netdebt': None, 'ebit_to_interest': None, 'longdebt_to_workingcapital': Non</text>
+        <text encoding="base64">ICAgIGxpbWl0OiDIodfuvfzG2sr9tcTK/b7dCg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>str 股票代码  e.g: ['600519.SH', '002518.SZ']</text>
       </register>
       <register name="/" type="4">
-        <text>math</text>
+        <text>del_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KGYnu7nUrb751rU6e2V4cChtdTEpOi4yZn0sICcsCiAgICAgICAgICBmJ7XN1rU6e2V4cChtdTEpIC0gMiAqIGV4cChzaWdtYTEpOi4yZn0sICcKICAgICAgICAgIGYnuN/WtTp7ZXhwKG11MSkgKyAyICogZXhwKHNpZ21hMSk6LjJmfScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text>{'ts_code': '000001.SZ', 'ann_date': '20200421', 'end_date': '20200331', 'eps': 0.4, 'dt_eps': 0.4, 'total_revenue_ps': 1.9543, 'revenue_ps': 1.9543, 'capital_rese_ps': 4.1645, 'surplus_rese_ps': 0.5555, 'undist_profit_ps': 6.2375, 'extra_item': 42000000.0, 'profit_dedt': 8506000000.0, 'gross_margin': None, 'current_ratio': None, 'quick_ratio': None, 'cash_ratio': None, 'invturn_days': None, 'arturn_days': None, 'inv_turn': None, 'ar_turn': None, 'ca_turn': None, 'fa_turn': None, 'assets_turn': 0.0094, 'op_income': 7555000000.0, 'valuechange_income': 3363000000.0, 'interst_income': None, 'daa': None, 'ebit': None, 'ebitda': None, 'fcff': None, 'fcfe': None, 'current_exint': None, 'noncurrent_exint': None, 'interestdebt': None, 'netdebt': None, 'tangible_asset': None, 'working_capital': None, 'networking_capital': None, 'invest_capital': None, 'retained_earnings': 131825000000.0, 'diluted2_eps': 0.4405, 'bps': 14.5528, 'ocfps': 0.93, 'retainedps': 6.793, 'cfps': -0.0628, 'ebit_ps': None, 'fcff_ps': None, 'fcfe_ps': None, 'netprofit_margin': 22.5386, 'grossprofit_margin': None, 'cogs_of_sales': None, 'expense_of_sales': None, 'profit_to_gr': 22.5386, 'saleexp_to_gr': None, 'adminexp_of_gr': 27.9439, 'finaexp_of_gr': None, 'impai_ttm': None, 'gc_of_gr': None, 'op_of_gr': 28.9986, 'ebit_of_gr': None, 'roe': 2.5695, 'roe_waa': 2.77, 'roe_dt': 2.5569, 'roa': None, 'npta': 0.2118, 'roic': None, 'roe_yearly': 10.278, 'roa2_yearly': None, 'roe_avg': 2.76, 'opincome_of_ebt': 68.9451, 'investincome_of_ebt': 30.6899, 'n_op_profit_of_ebt': -0.365, 'tax_to_ebt': 21.9931, 'dtprofit_to_profit': 99.5087, 'salescash_to_or': None, 'ocf_to_or': 0.4743, 'ocf_to_opincome': 2.3811, 'capitalized_to_da': None, 'debt_to_assets': 91.4731, 'assets_to_eqt': 11.7276, 'dp_assets_to_eqt': 12.1312, 'ca_to_assets': None, 'nca_to_assets': None, 'tbassets_to_totalassets': None, 'int_to_talcap': None, 'eqt_to_talcapital': None, 'currentdebt_to_debt': None, 'longdeb_to_debt': None, 'ocf_to_shortdebt': None, 'debt_to_eqt': 10.7277, 'eqt_to_debt': 0.0932, 'eqt_to_interestdebt': None, 'tangibleasset_to_debt': None, 'tangasset_to_intdebt': None, 'tangibleasset_to_netdebt': None, 'ocf_to_debt': 0.0048, 'ocf_to_interestdebt': None, 'ocf_to_netdebt': None, 'ebit_to_interest': None, 'longdebt_to_workingcapital': Non</text>
+        <text encoding="base64">ICAgIGxpbWl0OiDIodfuvfzG2sr9tcTK/b7dCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGRhdGEuZW1wdHk6CiAgICAgICAgcmV0dXJuIFRydWUK</text>
+        <text encoding="base64">ICAgIHN0b2NrTGlzdDogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBkZWYgdXBkYXRlTGlydW4oKToKIyAgICAgc3RhcnRRdWFydGVyID0gZ2V0TGlydW5VcGRhdGVTdGFydFF1YXJ0ZXIoKQojICAgICBlbmRRdWFydGVyID0gZ2V0TGlydW5VcGRhdGVFbmRRdWFydGVyKCkKIwojICAgICBkYXRlcyA9IGRhdGF0cmFucy5RdWFydGVyTGlzdChzdGFydFF1YXJ0ZXIsIGVuZFF1YXJ0ZXIpCiMgICAgIGZvciBkYXRlIGluIGRhdGVzOgojICAgICAgICAgIyAgICAgICAgIHByaW50IGRhdGUKIyAgICAgICAgIGxvZ2dpbmcuZGVidWcoJ3VwZGF0ZUxpcnVuOiAlcycsIGRhdGUpCiMgICAgICAgICB0cnk6CiMgICAgICAgICAgICAgZGYgPSBkb3dubG9hZExpcnVuKGRhdGUpCiMgICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKIyAgICAgICAgICAgICBjb250aW51ZQojICAgICAgICAgaWYgZGYgaXMgTm9uZToKIyAgICAgICAgICAgICBjb250aW51ZQojICMgICAgICAgICBwcmludCBsZW4oZGYpCiMgICAgICAgICAjILbByKHS0bTmtKK1xMD7yPPK/b7do6y008/C1NjK/b7d1tDJvrP9uMOyv7fWo6y21M60tOa0orXEwPvI89C0yOvK/b7dv+IKIyAgICAgICAgIGxpcnVuQ3VyID0gcmVhZExpcnVuRm9yRGF0ZShkYXRlKQojICAgICAgICAgZGYgPSBkZlt+ZGYudHNfY29kZS5pc2luKGxpcnVuQ3VyLnRzX2NvZGUpXQojICAgICAgICAgZGYgPSBkZltkZi5wcm9maXRzLm5vdG51bGwoKV0KIyAjICAgICAgICAgcHJpbnQgZGYKIwojICAgICAgICAgIyC21M60tOa0orXEwPvI89C0yOvK/b7dv+KjrLKi1tjQwrzGy+NUVE3A+8jzCiMgICAgICAgICBpZiBub3QgZGYuZW1wdHk6CiMgICAgICAgICAgICAgd3JpdGVMaXJ1bihkZikKIyAgICAgICAgICAgICBjYWxBbGxUVE1MaXJ1bihkYXRlKQoKCiMg0snLxs7e08O6r8r9o6y0/cm+s/0KIyBkZWYgcmVhZEd1YmVuRnJvbURmKGRmLCBkYXRlKToKIyAgICAgIiIitNO5ybG+wdCx7dbQtsHIoda4tqjI1cbatcS5ybG+yv3WtQojICAgICAjINa4tqjI1cbazt65ybG+yv2+3cqxo6zRocih1q7HsNfuvfy1xLnJsb7K/b7dCiMgICAgICIiIgojICAgICBkID0gZGZbZGYuZGF0ZSA8PSBkYXRlXQojICAgICBpZiBkLmVtcHR5OgojICAgICAgICAgcmV0dXJuIE5vbmUKIyAgICAgZ3ViZW4gPSBkW2QuZGF0ZSA9PSBkWydkYXRlJ10ubWF4KCksICd0b3RhbHNoYXJlcyddCiMgIyAgICAgZ3ViZW4gPSBkLmlhdFswLCAzXQojICAgICByZXR1cm4gZ3ViZW4KCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGExID0gZGF0YVtkYXRhID49IGxvdyAmIGRhdGEgPD0gaGlnaF0K</text>
+        <text encoding="base64">ZGVmIGRlbF9yZWFkVFRNTGlydW5Gcm9tRGYoZGYsIGRhdGUpOgogICAgIiIitNNUVE3A+8jzwdCx7dbQtsHIoda4tqjI1cbatcRUVE3A+8jzyv3WtQogICAgIyDWuLaoyNXG2s7eVFRNwPvI88r9vt3KsaOs0aHIodaux7DX7r38tcRUVE3A+8jzyv2+3QogICAgIiIiCiAgICBkID0gZGZbZGYucmVwb3J0ZGF0ZSA8PSBkYXRlXQogICAgaWYgZC5lbXB0eToKICAgICAgICByZXR1cm4gTm9uZQogICAgZCA9IGRbZC5yZXBvcnRkYXRlID09IGRbJ3JlcG9ydGRhdGUnXS5tYXgoKV0KICAgIHR0bUxpcnVuID0gZFtkLmRhdGUgPT0gZFsnZGF0ZSddLm1heCgpLCAndHRtcHJvZml0cyddCiAgICAjICAgICB0dG1MaXJ1biA9IGQuaWF0WzAsIDNdCiAgICByZXR1cm4gdHRtTGlydW4KCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cTEgPSBkYXRhLnF1YW50aWxlKC4yNSkKcTMgPSBkYXRhLnF1YW50aWxlKC43NSkKZGlmZiA9IHEzIC0gcTEKbG93ID0gcTEgLSBkaWZmICogMS41CmhpZ2ggPSBxMyArIGRpZmYgKiAxLjUKZGF0YTEgPSBkYXRhW2RhdGEgPj0gbG93ICYgZGF0YSA8PSBoaWdoXQpkYXRhMSA9IGRhdGFbKGRhdGEgPj0gbG93KSAmIChkYXRhIDw9IGhpZ2gpXQptZWFuID0gbnAubWVhbihkYXRhMSkKc3RkID0gbnAuc3RkKGRhdGExKQpkb3duID0gbWVhbiAtIHN0ZAp1cCA9IG1lYW4gKyBzdGQ=</text>
+        <text encoding="base64">IyBkZWYgZGVsX3VwZGF0ZUtsaW5lRVhURGF0YSh0c19jb2RlLCBzdGFydERhdGU9Tm9uZSk6CiMgICAgICIiIgojICAgICAjILj80MJLbGluZbHtTWFya2V0VmFsdWWholRUTVBFtci4vbzTyv2+3QojICAgICBQYXJhbWV0ZXJzCiMgICAgIC0tLS0tLS0tCiMgICAgIHRzX2NvZGU6IHN0ciC5ycaxtPrC6yAgZS5nOjYwMDUxOQojICAgICBzdGFydERhdGU6IHN0ciC4/NDCxvDKvMjVxtogIGUuZzogMjAxNi0wMS0wMQojCiMgICAgIFJldHVybgojICAgICAtLS0tLS0tLQojICAgICAjIM7et7W72Na1CiMgICAgICIiIgojICAgICBpZiBzdGFydERhdGUgaXMgTm9uZToKIyAgICAgICAgIHN0YXJ0RGF0ZSA9IGdldFRUTVBFTGFzdFVwZGF0ZSh0c19jb2RlKSArIGR0LnRpbWVkZWx0YShkYXlzPTEpCiMgICAgICAgICBpZiBzdGFydERhdGUgPT0gZHQuZGF0ZXRpbWUudG9kYXkoKS5kYXRlKCk6CiMgICAgICAgICAgICAgcmV0dXJuCiMgICAgICMgc3RhcnREYXRlU3RyID0gc3RhcnREYXRlLnN0cmZ0aW1lKCclWS0lbS0lZCcpCiMgICAgIGxvZ2dpbmcuZGVidWcoCiMgICAgICAgICAndXBkYXRlS2xpbmVFWFREYXRhOiAlKHRzX2NvZGUpcywgZGF0ZTogJShzdGFydERhdGUpcycgJSBsb2NhbHMoKSkKIyAgICAgdHJ5OgojICAgICAgICAgIyB1cGRhdGVLbGluZU1hcmtldFZhbHVlKHRzX2NvZGUsIHN0YXJ0RGF0ZSkKIyAgICAgICAgICMgdXBkYXRlS2xpbmVUVE1MaXJ1bih0c19jb2RlLCBzdGFydERhdGUpCiMgICAgICAgICBlbmREYXRlID0gdXBkYXRlS2xpbmVUVE1QRSh0c19jb2RlLCBzdGFydERhdGUpCiMgICAgICAgICBzZXRLbGluZVRUTVBFTGFzdFVwZGF0ZSh0c19jb2RlLCBlbmREYXRlKQojICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiMgICAgICAgICBsb2dnaW5nLmVycm9yKCdmYWlsIHRvIHVwZGF0ZUtsaW5lRVhURGF0YTogJXMsWyVzXScsIHRzX2NvZGUsIGUpCgoKIyBkZWYgZ2V0VFRNUEVMYXN0VXBkYXRlKHRzX2NvZGUpOgojICAgICAiIiJUVE1QRdfuvfy4/NDCyNXG2qOsCiMgICAgIFBhcmFtZXRlcnMKIyAgICAgLS0tLS0tLS0KIyAgICAgdHNfY29kZTpzdHIgucnGsbT6wusgZS5nOjYwMDUxOQojCiMgICAgIFJldHVybgojICAgICAtLS0tLS0tLQojICAgICBkYXRldGltZaO6VFRNUEXX7r38uPzQwsjVxtoKIyAgICAgIiIiCiMgICAgIHNxbCA9ICgnc2VsZWN0IHR0bXBlIGZyb20gbGFzdHVwZGF0ZSB3aGVyZSB0c19jb2RlPSIlKHRzX2NvZGUpcyInCiMgICAgICAgICAgICAlIGxvY2FscygpKQojICAgICByZXR1cm4gX2dldExhc3RVcGRhdGUoc3FsKQoKCiMgZGVmIGdldExpcnVuVXBkYXRlU3RhcnRRdWFydGVyKCk6CiMgICAgICIiIrj5vt3A+8jzse3K/b7dxdC2z7G+tM7A+8jzse24/NDCtcTG8Mq8yNXG2gojICAgICDRocihwPvI87Ht1tDDv9anucnGsbXEssaxqNfutPPI1cbao6zH0s6q1NpzdG9ja2xpc3S5ycaxu/mxvtDFz6Kx7dbQtObU2rXEucnGsQojICAgICDU2dXSs/ayxrGoyNXG2tbQ1+7QobXEyv3Wtdf3zqqxvrTOwPvI87HtuPzQwrXExvDKvMjVxtoKIyAgICAgUGFyYW1ldGVycwojICAgICAtLS0tLS0tLQojCiMKIyAgICAgUmV0dXJuCiMgICAgIC0tLS0tLS0tCiMgICAgIHN0YXJ0UXVhcnRlcqO6WVlZWVEgxvDKvLj80MLI1cbaCiMgICAgICIiIgojICAgICBzcWwgPSAoJ3NlbGVjdCBtaW4obWF4ZGF0ZSkgZnJvbSAoU0VMRUNUIHRzX2NvZGUsIG1heChkYXRlKSBhcyBtYXhkYXRlICcKIyAgICAgICAgICAgICdGUk9NIHN0b2NrZGF0YS5saXJ1biBncm91cCBieSB0c19jb2RlICcKIyAgICAgICAgICAgICdoYXZpbmcgdHNfY29kZSBpbiAoc2VsZWN0IHRzX2NvZGUgZnJvbSBzdG9ja2xpc3QgV0hFUkUgJwojICAgICAgICAgICAgJ0xFRlQobmFtZSwgMSkgIT0gIioiKSkgYXMgdGVtcDsnKQojCiMgICAgIHJlc3VsdCA9IGVuZ2luZS5leGVjdXRlKHNxbCkKIyAgICAgbGFzdFF1YXJ0ZXIgPSByZXN1bHQuZmlyc3QoKVswXQojICAgICBzdGFydFF1YXJ0ZXIgPSBkYXRhdHJhbnMucXVhcnRlckFkZChsYXN0UXVhcnRlciwgMSkKIyAgICAgcmV0dXJuIHN0YXJ0UXVhcnRlcgoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRmLmRyb3BfZHUK</text>
+        <text encoding="base64">ZGVmIGRlbF9yZWFkU3RvY2tLbGluZURmKHRzX2NvZGUsIGRheXMpOgogICAgc3FsID0gKCdzZWxlY3QgZGF0ZSwgb3BlbiwgaGlnaCwgbG93LCBjbG9zZSwgdHRtcGUgJwogICAgICAgICAgICdmcm9tIGtsaW5lc3RvY2sgd2hlcmUgdHNfY29kZT0iJSh0c19jb2RlKXMiICcKICAgICAgICAgICAnb3JkZXIgYnkgZGF0ZSBkZXNjIGxpbWl0ICUoZGF5cylzOycgJSBsb2NhbHMoKSkKICAgIHJlc3VsdCA9IGVuZ2luZS5leGVjdXRlKHNxbCkuZmV0Y2hhbGwoKQogICAgc3RvY2tEYXRhcyA9IFtpIGZvciBpIGluIHJldmVyc2VkKHJlc3VsdCldCiAgICAjIGtsaW5lRGF0YXMgPSBbXQogICAgZGF0ZUxpc3QgPSBbXQogICAgb3Blbkxpc3QgPSBbXQogICAgY2xvc2VMaXN0ID0gW10KICAgIGhpZ2hMaXN0ID0gW10KICAgIGxvd0xpc3QgPSBbXQogICAgcGVMaXN0ID0gW10KICAgIGluZGV4ZXMgPSBsaXN0KHJhbmdlKGxlbihyZXN1bHQpKSkKICAgIGZvciBpIGluIGluZGV4ZXM6CiAgICAgICAgZGF0ZSwgX29wZW4sIGhpZ2gsIGxvdywgY2xvc2UsIHR0bXBlID0gc3RvY2tEYXRhc1tpXQogICAgICAgIGRhdGVMaXN0LmFwcGVuZChkYXRlLnN0cmZ0aW1lKCIlWS0lbS0lZCIpKQogICAgICAgICMgUXVhcnRlckxpc3QuYXBwZW5kKGRhdGUpCiAgICAgICAgb3Blbkxpc3QuYXBwZW5kKF9vcGVuKQogICAgICAgIGNsb3NlTGlzdC5hcHBlbmQoY2xvc2UpCiAgICAgICAgaGlnaExpc3QuYXBwZW5kKGhpZ2gpCiAgICAgICAgbG93TGlzdC5hcHBlbmQobG93KQogICAgICAgIHBlTGlzdC5hcHBlbmQodHRtcGUpCiAgICBrbGluZURmID0gcGQuRGF0YUZyYW1lKHsnZGF0ZSc6IGRhdGVMaXN0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ29wZW4nOiBvcGVuTGlzdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjbG9zZSc6IGNsb3NlTGlzdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdoaWdoJzogaGlnaExpc3QsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbG93JzogbG93TGlzdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwZSc6IHBlTGlzdH0pCiAgICByZXR1cm4ga2xpbmVEZgoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVmIGRlbF9yZWFkMTgwdHNfY29kZXNGcm9tU1FMKCk6CiAgICByZXN1bHQgPSBlbmdpbmUuZXhlY3V0ZSgnc2VsZWN0IHRzX2NvZGUgZnJvbSBjaGVuZ2ZlbjE4MCcpCiAgICByZXR1cm4gW2lbMF0gZm9yIGkgaW4gcmVzdWx0LmZldGNoYWxsKCldCgoKIyBkZWYgZ3ViZW5GaWxlVG9EZih0c19jb2RlKToKIyAgICAgZmlsZW5hbWUgPSBmaWxlbmFtZUd1YmVuKHRzX2NvZGUpCiMgICAgIHRyeToKIyAgICAgICAgIGd1YmVuRmlsZSA9IG9wZW4oZmlsZW5hbWUsICdyJykKIyAgICAgICAgIGd1YmVuID0gZ3ViZW5GaWxlLnJlYWQoKQojICAgICAgICAgZ3ViZW5GaWxlLmNsb3NlKCkKIyAgICAgZXhjZXB0IElPRXJyb3IgYXMgZToKIyAgICAgICAgIHByaW50KGUpCiMgICAgICAgICBwcmludCgoJ7bByKHX3LnJsb7OxLz+yqew3KO6ICVzJyAlIHRzX2NvZGUpKQojICAgICAgICAgcmV0dXJuIEZhbHNlCiMgICAgIHJldHVybiBkYXRhdHJhbnMuZ3ViZW5EYXRhVG9EZih0c19jb2RlLCBndWJlbikKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgbiwgYmlucywgcGF0Y2hlcyA9IGF4Lmhpc3QoZGF0YSwgY3VtdWxhdGl2ZT1UcnVlKQo=</text>
+        <text encoding="base64">IyBkZWYgZGVsX3JlYWRTdG9ja0xpc3REZihkYXRlPU5vbmUpOgojICAgICAiIiKy6dGv0tHJz8rQx9LJz8rQyNXG2tCh09q1yNPa1ri2qMjVxtq1xLnJxrHB0LHtLLe1u9hEYXRhRnJhbWW48cq9yv2+3QojICAgICDIscqhzqqy6dGvtbHHsMv509DS0cnPytC5ycaxCiMgICAgIDpwYXJhbSBkYXRlOiBpbnQsIFlZWVltbWRkLCA4zrvK/dfWtPqx7bXExOrUwsjVCiMgICAgIDpyZXR1cm46CiMgICAgICIiIgojICAgICBzdG9ja0xpc3QgPSByZWFkU3RvY2tMaXN0RnJvbVNRTChkYXRlKQojICAgICB0c19jb2RlcywgbmFtZXMgPSB6aXAoKnN0b2NrTGlzdCkKIyAgICAgc3RvY2tMaXN0RGYgPSBEYXRhRnJhbWUoeyd0c19jb2RlJzogdHNfY29kZXMsICduYW1lJzogbmFtZXN9KQojICAgICByZXR1cm4gc3RvY2tMaXN0RGYKCgpkZWYgZGVsX3VwZGF0ZUtsaW5lTWFya2V0VmFsdWUodHNfY29kZSwgc3RhcnREYXRlPU5vbmUsIGVuZERhdGU9Tm9uZSk6CiAgICBpZiBzdGFydERhdGUgaXMgTm9uZToKICAgICAgICByZXR1cm4KICAgIGd1YmVuRGYgPSByZWFkR3ViZW4odHNfY29kZSwgc3RhcnREYXRlKQogICAga2xpbmVUYWJsZW5hbWUgPSAna2xpbmVzdG9jaycKICAgIGd1YmVuQ291bnQgPSBndWJlbkRmWydkYXRlJ10uY291bnQoKQoKICAgIGZvciBpIGluIHJhbmdlKGd1YmVuQ291bnQpOgogICAgICAgIGd1YmVuU3RhcnREYXRlID0gZ3ViZW5EZlsnZGF0ZSddW2ldCiAgICAgICAgdHJ5OgogICAgICAgICAgICBndWJlbkVuZERhdGUgPSBndWJlbkRmWydkYXRlJ11baSArIDFdCiAgICAgICAgZXhjZXB0IEtleUVycm9yIGFzIGU6CiAgICAgICAgICAgIGd1YmVuRW5kRGF0ZSA9IE5vbmUKICAgICAgICAjICAgICAgICAgICAgIHByaW50IGUKICAgICAgICB0b3RhbFNoYXJlcyA9IGd1YmVuRGZbJ3RvdGFsc2hhcmVzJ11baV0KCiAgICAgICAgc3FsID0gKCd1cGRhdGUgJShrbGluZVRhYmxlbmFtZSlzICcKICAgICAgICAgICAgICAgJ3NldCB0b3RhbG1hcmtldHZhbHVlID0gY2xvc2UgKiAlKHRvdGFsU2hhcmVzKXMnCiAgICAgICAgICAgICAgICcgd2hlcmUgdHNfY29kZT0iJSh0c19jb2RlKXMiIGFuZCBkYXRlPj0iJShndWJlblN0YXJ0RGF0ZSlzIicKICAgICAgICAgICAgICAgJSBsb2NhbHMoKSkKICAgICAgICBpZiBlbmREYXRlOgogICAgICAgICAgICBzcWwgKz0gJyBhbmQgZGF0ZSA8ICIlcyInICUgZ3ViZW5FbmREYXRlCiAgICAgICAgZW5naW5lLmV4ZWN1dGUoc3FsKQoKCmRlZiBkZWxfdXBkYXRlS2xpbmVUVE1MaXJ1bih0c19jb2RlLCBzdGFydERhdGU9Tm9uZSk6CiAgICAiIiIKICAgILj80MJLbGluZbHtVFRNwPvI8wogICAgIiIiCiAgICBpZiBzdGFydERhdGUgaXMgTm9uZToKICAgICAgICByZXR1cm4KICAgIFRUTUxpcnVuRGYgPSByZWFkVFRNUHJvZml0cyh0c19jb2RlLCBzdGFydERhdGUpCiAgICBrbGluZVRhYmxlbmFtZSA9ICdrbGluZXN0b2NrJwogICAgVFRNTGlydW5Db3VudCA9IFRUTUxpcnVuRGZbJ2RhdGUnXS5jb3VudCgpCgogICAgZm9yIGkgaW4gcmFuZ2UoVFRNTGlydW5Db3VudCk6CiAgICAgICAgc3RhcnREYXRlID0gVFRNTGlydW5EZlsncmVwb3J0ZGF0ZSddW2ldCiAgICAgICAgdHJ5OgogICAgICAgICAgICBlbmREYXRlID0gVFRNTGlydW5EZlsncmVwb3J0ZGF0ZSddW2kgKyAxXQogICAgICAgIGV4Y2VwdCBLZXlFcnJvcjoKICAgICAgICAgICAgZW5kRGF0ZSA9IE5vbmUKICAgICAgICBUVE1MaXJ1biA9IFRUTUxpcnVuRGZbJ3R0bXByb2ZpdHMnXVtpXQoKICAgICAgICBzcWwgPSAoJ3VwZGF0ZSAlKGtsaW5lVGFibGVuYW1lKXMgc2V0IHR0bXByb2ZpdHMgPSAlKFRUTUxpcnVuKXMnCiAgICAgICAgICAgICAgICcgd2hlcmUgdHNfY29kZT0iJSh0c19jb2RlKXMiIGFuZCBkYXRlPj0iJShzdGFydERhdGUpcyInCiAgICAgICAgICAgICAgICUgbG9jYWxzKCkpCiAgICAgICAgaWYgZW5kRGF0ZToKICAgICAgICAgICAgc3FsICs9ICcgYW5kIGRhdGUgPCAiJXMiJyAlIGVuZERhdGUKICAgICAgICBlbmdpbmUuZXhlY3V0ZShzcWwpCgoKZGVmIGRlbF93cml0ZUxpcnVuKGRmKToKICAgIHRhYmxlbmFtZSA9ICdsaXJ1bicKICAgIHJldHVybiB3cml0ZVNRTChkZiwgdGFibGVuYW1lKQoKCmRlZiBkZWxfd3JpdGVHdWJlbih0c19jb2RlLCBkZik6CiAgICAiIiIgyLfIz87e08O688m+s/0KICAgICIiIgogICAgbG9nZ2luZy5kZWJ1Zygnc3RhcnQgd3JpdGVHdWJlbiAlcycgJSB0c19jb2RlKQogICAgdGltZWEgPSBkdC5kYXRldGltZS5ub3coKQogICAgZ3ViZW5MaXN0ID0gZGF0YXRyYW5zLmd1YmVuRGZUb0xpc3QoZGYpCiAgICBpZiBub3QgZ3ViZW5MaXN0OgogICAgICAgIHJldHVybiBGYWxzZQoKICAgIHRhYmxlTmFtZSA9ICdndWJlbicKICAgIGlmIG5vdCBpbml0c3FsLmV4aXN0VGFibGUodGFibGVOYW1lKToKICAgICAgICAjIGluaXRzcWwuY3JlYXRlR3ViZW5UYWJsZSh0c19jb2RlKQogICAgICAgIGluaXRzcWwuY3JlYXRlR3ViZW5UYWJsZSgpCgogICAgc2Vzc2lvbiA9IFNlc3Npb24oKQogICAgbWV0YWRhdGEgPSBNZXRhRGF0YShiaW5kPWVuZ2luZSkKICAgIG15dGFibGUgPSBUYWJsZSh0YWJsZU5hbWUsIG1ldGFkYXRhLCBhdXRvbG9hZD1UcnVlKQoKICAgIHNlc3Npb24uZXhlY3V0ZShteXRhYmxlLmluc2VydCgpLnByZWZpeF93aXRoKCdJR05PUkUnKSwgZ3ViZW5MaXN0KQogICAgc2Vzc2lvbi5jb21taXQoKQogICAgc2Vzc2lvbi5jbG9zZSgpCiAgICB0aW1lYiA9IGR0LmRhdGV0aW1lLm5vdygpCiAgICBsb2dnaW5nLmRlYnVnKCd3cml0ZUd1YmVuIHRzX2NvZGUgJXMgdG9vayAlcycgJQogICAgICAgICAgICAgICAgICAodHNfY29kZSwgKHRpbWViIC0gdGltZWEpKSkKICAgIHJldHVybiBUcnVlCgoKZGVmIGRlbF93cml0ZVN0b2NrTGlzdChzdG9ja0xpc3QpOgogICAgIyBjbGVhclN0b2NrTGlzdCgpCiAgICBzdG9ja0xpc3QudG9fc3FsKCdzdG9ja2xpc3QnLCBlbmdpbmUsIGlmX2V4aXN0cz0nYXBwZW5kJykKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG11X3NvciA9IGV4cChtdTEpCg==</text>
+        <text encoding="base64">ZGVmIGRlbF9yZWFkU3RvY2tMaXN0RnJvbUZpbGUoZmlsZW5hbWUpOgogICAgIiIiILTTzsS8/rbByKG5ycaxtPrC68HQse0sIM7EvP648cq9w7/Q0M6q0ru49rnJxrG0+sLrCiAgICBQYXJhbWV0ZXJzCiAgICAtLS0tLS0tLQogICAgZmlsZW5hbWU6IHN0ciC5ycaxtPrC687EvP7D+yAgZS5nOiAnLlx0ZXN0LnR4dCcKCiAgICBSZXR1cm4KICAgIC0tLS0tLS0tCiAgICB0c19jb2RlTGlzdDogbGlzdCC5ycaxtPrC6yAgZS5nOiBbJzYwMDUxOScsICcwMDAzMzMnXQogICAgIiIiCgogICAgc3RvY2tGaWxlID0gb3BlbihmaWxlbmFtZSwgJ3JiJykKICAgIHRzX2NvZGVMaXN0ID0gW2lbOjZdIGZvciBpIGluIHN0b2NrRmlsZS5yZWFkbGluZXMoKV0KICAgIHN0b2NrRmlsZS5jbG9zZSgpCiAgICByZXR1cm4gdHNfY29kZUxpc3QKCgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
@@ -364,9 +363,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>math</last-search>
+      <last-search>del_</last-search>
       <last-offset />
-      <last-pattern>math</last-pattern>
+      <last-pattern>del_</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
