@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pushdata</entry>
         <entry>valuation</entry>
         <entry>calpfnew</entry>
         <entry>ts</entry>
@@ -25,6 +24,7 @@
         <entry>gridspec</entry>
         <entry>math</entry>
         <entry>del_</entry>
+        <entry>Axes3D</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLCQvZw==</entry>
@@ -124,6 +124,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/workspace/python/stockdatamanage/plot.py" timestamp="1588303779190">
+        <mark key="'" line="21" column="33" />
+      </file>
       <file name="/Python Console" timestamp="1587478526638">
         <mark key="[" line="0" column="0" />
       </file>
@@ -218,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="23" filename="D:/workspace/stockdatamanage/plot.py" />
       <jump line="692" column="12" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="57" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
       <jump line="306" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
@@ -318,6 +320,7 @@
       <jump line="491" column="0" filename="D:/workspace/stockdatamanage/sqlrw.py" />
       <jump line="748" column="0" filename="D:/workspace/stockdatamanage/sqlrw.py" />
       <jump line="909" column="4" filename="D:/workspace/stockdatamanage/sqlrw.py" />
+      <jump line="21" column="33" filename="D:/workspace/python/stockdatamanage/plot.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,7 +332,7 @@
         <text>str 股票代码  e.g: ['600519.SH', '002518.SZ']</text>
       </register>
       <register name="/" type="4">
-        <text>del_</text>
+        <text>Axes3D</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KGYnu7nUrb751rU6e2V4cChtdTEpOi4yZn0sICcsCiAgICAgICAgICBmJ7XN1rU6e2V4cChtdTEpIC0gMiAqIGV4cChzaWdtYTEpOi4yZn0sICcKICAgICAgICAgIGYnuN/WtTp7ZXhwKG11MSkgKyAyICogZXhwKHNpZ21hMSk6LjJmfScpCg==</text>
@@ -368,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>del_</last-search>
+      <last-search>Axes3D</last-search>
       <last-offset />
-      <last-pattern>del_</last-pattern>
+      <last-pattern>Axes3D</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
