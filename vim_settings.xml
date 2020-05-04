@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>valuation</entry>
         <entry>calpfnew</entry>
         <entry>ts</entry>
         <entry>ohlc</entry>
@@ -25,6 +24,7 @@
         <entry>math</entry>
         <entry>del_</entry>
         <entry>Axes3D</entry>
+        <entry>adf_linear</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLCQvZw==</entry>
@@ -319,7 +319,7 @@
         <text>str 股票代码  e.g: ['600519.SH', '002518.SZ']</text>
       </register>
       <register name="/" type="4">
-        <text>Axes3D</text>
+        <text>adf_linear</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KGYnu7nUrb751rU6e2V4cChtdTEpOi4yZn0sICcsCiAgICAgICAgICBmJ7XN1rU6e2V4cChtdTEpIC0gMiAqIGV4cChzaWdtYTEpOi4yZn0sICcKICAgICAgICAgIGYnuN/WtTp7ZXhwKG11MSkgKyAyICogZXhwKHNpZ21hMSk6LjJmfScpCg==</text>
@@ -358,9 +358,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Axes3D</last-search>
+      <last-search>adf_linear</last-search>
       <last-offset />
-      <last-pattern>Axes3D</last-pattern>
+      <last-pattern>adf_linear</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
