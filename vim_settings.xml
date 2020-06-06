@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>calpfnew</entry>
         <entry>ts</entry>
         <entry>ohlc</entry>
         <entry>pebuy</entry>
@@ -25,6 +24,7 @@
         <entry>del_</entry>
         <entry>Axes3D</entry>
         <entry>adf_linear</entry>
+        <entry>SR</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyQvLCQvZw==</entry>
@@ -133,6 +133,12 @@
       <file name="/fragment.py" timestamp="1587612520330">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/workspace/python/shipingzhengli/shipingzhengli.py" timestamp="1591457852473">
+        <mark key="[" line="80" column="4" />
+        <mark key="]" line="80" column="4" />
+        <mark key="^" line="80" column="4" />
+        <mark key="." line="80" column="3" />
+      </file>
       <file name="D:/workspace/stockdatamanage/test/linear_regression.py" timestamp="1587540225443">
         <mark key="'" line="85" column="22" />
         <mark key="[" line="887" column="16" />
@@ -166,13 +172,6 @@
         <mark key="]" line="80" column="24" />
         <mark key="^" line="80" column="24" />
         <mark key="." line="80" column="23" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" timestamp="1587264320713">
-        <mark key="'" line="765" column="22" />
-        <mark key="[" line="810" column="29" />
-        <mark key="]" line="810" column="34" />
-        <mark key="^" line="810" column="34" />
-        <mark key="." line="810" column="33" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587394238321">
         <mark key="'" line="948" column="6" />
@@ -208,6 +207,13 @@
         <mark key="^" line="28" column="9" />
         <mark key="." line="28" column="8" />
       </file>
+      <file name="D:/workspace/python/shipingzhengli/fanhao.txt" timestamp="1591458049885">
+        <mark key="'" line="203" column="1" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="2" />
+        <mark key="^" line="203" column="2" />
+        <mark key="." line="203" column="1" />
+      </file>
       <file name="D:/workspace/python/stockdatamanage/datamanage.py" timestamp="1588642851611">
         <mark key="'" line="105" column="10" />
         <mark key="[" line="140" column="8" />
@@ -217,12 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="306" column="0" filename="D:/workspace/stockdatamanage/test/linear_regression.py" />
-      <jump line="24" column="4" filename="D:/workspace/stockdatamanage/test/mean_reversoin.py" />
-      <jump line="31" column="16" filename="D:/workspace/stockdatamanage/backtest.py" />
-      <jump line="44" column="64" filename="D:/workspace/stockdatamanage/backtest.py" />
-      <jump line="61" column="43" filename="D:/workspace/stockdatamanage/backtest.py" />
       <jump line="72" column="12" filename="D:/workspace/stockdatamanage/backtest.py" />
       <jump line="30" column="16" filename="D:/workspace/stockdatamanage/backtest.py" />
       <jump line="252" column="12" filename="D:/workspace/stockdatamanage/backtest.py" />
@@ -317,18 +317,24 @@
       <jump line="909" column="4" filename="D:/workspace/stockdatamanage/sqlrw.py" />
       <jump line="21" column="33" filename="D:/workspace/python/stockdatamanage/plot.py" />
       <jump line="105" column="10" filename="D:/workspace/python/stockdatamanage/datamanage.py" />
+      <jump line="129" column="2" filename="D:/workspace/python/shipingzhengli/fanhao.txt" />
+      <jump line="116" column="0" filename="D:/workspace/python/shipingzhengli/fanhao.txt" />
+      <jump line="49" column="2" filename="D:/workspace/python/shipingzhengli/fanhao.txt" />
+      <jump line="199" column="0" filename="D:/workspace/python/shipingzhengli/fanhao.txt" />
+      <jump line="168" column="2" filename="D:/workspace/python/shipingzhengli/fanhao.txt" />
+      <jump line="203" column="1" filename="D:/workspace/python/shipingzhengli/fanhao.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>HYList</text>
+        <text>sr</text>
       </register>
       <register name="-" type="4">
-        <text>HYList</text>
+        <text>sr</text>
       </register>
       <register name="/" type="4">
-        <text>adf_linear</text>
+        <text>SR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMguPzQwtDQ0rXB0LHtCiAgICB1cGRhdGVIWUxpc3QoKQoK</text>
@@ -367,9 +373,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>adf_linear</last-search>
+      <last-search>SR</last-search>
       <last-offset />
-      <last-pattern>adf_linear</last-pattern>
+      <last-pattern>SR</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
