@@ -119,7 +119,7 @@
       <file name="vim_settings.xml" timestamp="1587655104144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592571500489">
+      <file name="/Dummy.txt" timestamp="1592578604146">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -149,6 +149,9 @@
       <file name="/a.dummy" timestamp="1588642378091">
         <mark key="[" line="0" column="14" />
       </file>
+      <file name="D:/workspace/python/exam/.git/info/exclude" timestamp="1592578768716">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="D:/workspace/stockdatamanage/download.py" timestamp="1587627456067">
         <mark key="[" line="406" column="0" />
         <mark key="]" line="406" column="0" />
@@ -166,12 +169,6 @@
         <mark key="]" line="497" column="11" />
         <mark key="^" line="497" column="11" />
         <mark key="." line="497" column="10" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/test/sklearn_examples_plot_anomaly_comparison.py" timestamp="1587294921769">
-        <mark key="[" line="79" column="45" />
-        <mark key="]" line="80" column="24" />
-        <mark key="^" line="80" column="24" />
-        <mark key="." line="80" column="23" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/linear_regression.py" timestamp="1587394238321">
         <mark key="'" line="948" column="6" />
