@@ -179,12 +179,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="47" column="51" />
       </file>
-      <file name="D:/workspace/python/exam/exam.py" timestamp="1592637010651">
-        <mark key="'" line="75" column="13" />
-        <mark key="[" line="78" column="21" />
-        <mark key="]" line="83" column="39" />
-        <mark key="^" line="83" column="39" />
-        <mark key="." line="83" column="38" />
+      <file name="D:/workspace/python/exam/exam.py" timestamp="1592638649035">
+        <mark key="'" line="76" column="19" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="12" />
+        <mark key="." line="79" column="12" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/mytest.py" timestamp="1587478333540">
         <mark key="[" line="486" column="8" />
@@ -223,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="36" filename="D:/workspace/stockdatamanage/backtest.py" />
       <jump line="524" column="0" filename="D:/workspace/stockdatamanage/plot.py" />
       <jump line="112" column="29" filename="D:/workspace/stockdatamanage/web/views.py" />
       <jump line="115" column="17" filename="D:/workspace/stockdatamanage/web/views.py" />
@@ -323,48 +321,49 @@
       <jump line="14" column="0" filename="D:/workspace/python/exam/exam.py" />
       <jump line="30" column="23" filename="D:/workspace/python/exam/exam.py" />
       <jump line="74" column="13" filename="D:/workspace/python/exam/exam.py" />
+      <jump line="76" column="19" filename="D:/workspace/python/exam/exam.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>timestr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICBmb3IgY2VsbCBpbiBjZWxsX3JhbmdlOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>timestr</text>
+        <text encoding="base64">ID0gJyc=</text>
       </register>
       <register name="/" type="4">
         <text>SR</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGp1YW4gPSAn1tDWp73Xts6y4srUXG4nCg==</text>
+      <register name="0" type="4">
+        <text>答卷.xlsx</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd0aTonKQogICAgcHJpbnQodGlfbGlzdCkKICAgIHByaW50KCdhbnM6JykKICAgIHByaW50KGFuc19saXN0KQogICAgcHJpbnQoJ3NlbGVjdDonKQogICAgcHJpbnQoc2VsZWN0X2xpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICBmb3IgY2VsbCBpbiBjZWxsX3JhbmdlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNlbGxfcmFuZ2UgPSBzaGVldFsnQjInOidEMzEnXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4oc2VsZWN0W2ldKSk6CiAgICAgICAgICAgIGp1YW4gKz0gRkxBR1Nbal0gKyAnLicgKyBzdHIoc2VsZWN0W2ldW2pdKSArICdcbicK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGR1b3h1YW4gPSBnZW5feHVhbihzaGVldHNbMV0pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGR1b3h1YW4gPSBnZW5feHVhbihzaGVldHNbMV0pCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KCd0aTonKQogICAgcHJpbnQodGlfbGlzdCkKICAgIHByaW50KCdhbnM6JykKICAgIHByaW50KGFuc19saXN0KQogICAgcHJpbnQoJ3NlbGVjdDonKQogICAgcHJpbnQoc2VsZWN0X2xpc3QpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4oc2VsZWN0W2ldKSk6CiAgICAgICAgICAgIGp1YW4gKz0gRkxBR1Nbal0gKyAnLicgKyBzdHIoc2VsZWN0W2ldW2pdKSArICdcbicK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGR1b3h1YW4gPSBnZW5feHVhbihzaGVldHNbMV0pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGR1b3h1YW4gPSBnZW5feHVhbihzaGVldHNbMV0pCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RfbGlzdC5hcHBlbmQoW2lbMV0gZm9yIGkgaW4gZmxhZ19zZWxlY3RdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
