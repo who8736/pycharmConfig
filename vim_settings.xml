@@ -127,7 +127,7 @@
       <file name="D:/workspace/python/stockdatamanage/plot.py" timestamp="1588303779190">
         <mark key="'" line="21" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1592637204869">
+      <file name="/Python Console" timestamp="1592639683895">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -173,23 +173,25 @@
         <mark key="^" line="497" column="11" />
         <mark key="." line="497" column="10" />
       </file>
+      <file name="D:/workspace/python/exam/result.py" timestamp="1592640361314">
+        <mark key="'" line="31" column="33" />
+        <mark key="[" line="28" column="35" />
+        <mark key="]" line="29" column="28" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="27" />
+      </file>
       <file name="D:/workspace/stockdatamanage/check.py" timestamp="1587522319535">
         <mark key="[" line="38" column="30" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
         <mark key="^" line="47" column="51" />
       </file>
-      <file name="D:/workspace/python/exam/exam.py" timestamp="1592638649035">
+      <file name="D:/workspace/python/exam/exam.py" timestamp="1592639469164">
         <mark key="'" line="76" column="19" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="12" />
-        <mark key="." line="79" column="12" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/test/mytest.py" timestamp="1587478333540">
-        <mark key="[" line="486" column="8" />
-        <mark key="]" line="487" column="23" />
-        <mark key="^" line="487" column="23" />
-        <mark key="." line="487" column="22" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="108" column="48" />
+        <mark key="^" line="108" column="45" />
       </file>
       <file name="D:/workspace/stockdatamanage/datatrans.py" timestamp="1587613432218">
         <mark key="[" line="239" column="0" />
@@ -222,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="524" column="0" filename="D:/workspace/stockdatamanage/plot.py" />
       <jump line="112" column="29" filename="D:/workspace/stockdatamanage/web/views.py" />
       <jump line="115" column="17" filename="D:/workspace/stockdatamanage/web/views.py" />
       <jump line="0" column="15" filename="D:/workspace/stockdatamanage/web/templates/base.html" />
@@ -322,21 +323,22 @@
       <jump line="30" column="23" filename="D:/workspace/python/exam/exam.py" />
       <jump line="74" column="13" filename="D:/workspace/python/exam/exam.py" />
       <jump line="76" column="19" filename="D:/workspace/python/exam/exam.py" />
+      <jump line="30" column="33" filename="D:/workspace/python/exam/result.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICBmb3IgY2VsbCBpbiBjZWxsX3JhbmdlOgo=</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gJyc=</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>SR</text>
       </register>
-      <register name="0" type="4">
-        <text>答卷.xlsx</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQppbXBvcnQgcmUKaW1wb3J0IGRhdGV0aW1lIGFzIGR0CgppbXBvcnQgcGFuZGFzIGFzIHBkCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgb3BlbnB5eGwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCiAgICBmb3IgY2VsbCBpbiBjZWxsX3JhbmdlOgo=</text>
