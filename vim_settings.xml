@@ -176,12 +176,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="47" column="51" />
       </file>
-      <file name="D:/workspace/python/exam/exam.py" timestamp="1592623609784">
+      <file name="D:/workspace/python/exam/exam.py" timestamp="1592632084873">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="34" column="21" />
-        <mark key="^" line="38" column="47" />
-        <mark key="." line="34" column="21" />
+        <mark key="[" line="48" column="51" />
+        <mark key="]" line="55" column="17" />
+        <mark key="^" line="55" column="17" />
+        <mark key="." line="55" column="16" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/mytest.py" timestamp="1587478333540">
         <mark key="[" line="486" column="8" />
@@ -325,10 +325,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>SR</text>
