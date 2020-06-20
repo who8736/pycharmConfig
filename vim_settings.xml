@@ -176,12 +176,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="47" column="51" />
       </file>
-      <file name="D:/workspace/python/exam/exam.py" timestamp="1592632084873">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="48" column="51" />
-        <mark key="]" line="55" column="17" />
-        <mark key="^" line="55" column="17" />
-        <mark key="." line="55" column="16" />
+      <file name="D:/workspace/python/exam/exam.py" timestamp="1592632406023">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="59" column="27" />
+        <mark key="]" line="59" column="25" />
+        <mark key="." line="59" column="24" />
+        <mark key="^" line="59" column="25" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/mytest.py" timestamp="1587478333540">
         <mark key="[" line="486" column="8" />
@@ -325,44 +325,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>gen_xuan(sheets[0])</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>SR</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCA9IFtpIGZvciBpIGluIF9yb3dbMjpdIGlmIGlzaW5zdGFuY2UoaSwgc3RyKV0K</text>
+      <register name="0" type="4">
+        <text>gen_xuan(sheets[0])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWQgPSAxCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZWN0ZWQgPSAwCg==</text>
+        <text encoding="base64">ICAgIGRmID0gc2hlZXRzWzBdCiAgICBkdW94dWFuID0gc2hlZXRzWzFdCiAgICBwYW5kdWFuID0gc2hlZXRzWzJdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RkxBR1MgPSAnQUJDREVGR0hJSktMTU5PUCcK</text>
+        <text encoding="base64">c2hlZXRzID0gcGQucmVhZF9leGNlbCgnytTM4i54bHN4Jywgc2hlZXRfbmFtZT1bMCwgMSwgMl0pCmRmID0gc2hlZXRzWzBdCmR1b3h1YW4gPSBzaGVldHNbMV0KcGFuZHVhbiA9IHNoZWV0c1syXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgc2VsZWN0ID0gW2kgZm9yIGkgaW4gX3Jvd1syOl0gaWYgaXNpbnN0YW5jZShpLCBzdHIpXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQocm93LnRvX2xpc3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWQgPSAxCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZWN0ZWQgPSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgX3JvdyA9IG5wLnJhbmRvbS5jaG9pY2UoX3JvdywgVElDT1VOVCkK</text>
+        <text encoding="base64">RkxBR1MgPSAnQUJDREVGR0hJSktMTU5PUCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBmb3IgdGkgaW4gZGFueHVhbi5pdGVycm93cygpOgojICAgICBwcmludCh0aSkK</text>
+        <text encoding="base64">ICAgICMgc2VsZWN0ID0gW2kgZm9yIGkgaW4gX3Jvd1syOl0gaWYgaXNpbnN0YW5jZShpLCBzdHIpXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBkYW54dWFuX2xpc3QgPSBucC5yYW5kICMgcHJpbnQoZGFueHVhbl9saXN0KQo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQocm93LnRvX2xpc3QoKSkK</text>
       </register>
-      <register name="8" type="4">
-        <text>m.choice(danxuan.values.tolist(), TICOUNT)
-# danxuan_list = danxuan.iterrows()</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgX3JvdyA9IG5wLnJhbmRvbS5jaG9pY2UoX3JvdywgVElDT1VOVCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZm9yIGkgaW4gcm93LnRvX2xpc3QoKToKICAgICMgICAgIGlmIGlzaW5zdGFuY2UoaSwgc3RyKToKICAgICMgICAgICAgICBwcmludChpKQoKIyBmb3Igc2hlZXQgaW4gc2hlZXRzOgojICAgICBmb3IgaXRlbSBpbiBzaGVldC5pdGVycm93cygpOgojICAgICAgICAgcHJpbnQoaXRlbSkKIwo=</text>
+        <text encoding="base64">IyBmb3IgdGkgaW4gZGFueHVhbi5pdGVycm93cygpOgojICAgICBwcmludCh0aSkK</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
