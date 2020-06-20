@@ -127,7 +127,7 @@
       <file name="D:/workspace/python/stockdatamanage/plot.py" timestamp="1588303779190">
         <mark key="'" line="21" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1592639683895">
+      <file name="/Python Console" timestamp="1592659019800">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -173,12 +173,12 @@
         <mark key="^" line="497" column="11" />
         <mark key="." line="497" column="10" />
       </file>
-      <file name="D:/workspace/python/exam/result.py" timestamp="1592656499324">
-        <mark key="'" line="32" column="33" />
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-        <mark key="." line="22" column="35" />
+      <file name="D:/workspace/python/exam/result.py" timestamp="1592659136743">
+        <mark key="'" line="35" column="33" />
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="27" />
+        <mark key="^" line="37" column="28" />
       </file>
       <file name="D:/workspace/stockdatamanage/check.py" timestamp="1587522319535">
         <mark key="[" line="38" column="30" />
@@ -186,12 +186,10 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="47" column="51" />
       </file>
-      <file name="D:/workspace/python/exam/exam.py" timestamp="1592639469164">
-        <mark key="'" line="76" column="19" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="108" column="48" />
-        <mark key="^" line="108" column="45" />
+      <file name="D:/workspace/python/exam/exam.py" timestamp="1592659216709">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="76" column="20" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="D:/workspace/stockdatamanage/datatrans.py" timestamp="1587613432218">
         <mark key="[" line="239" column="0" />
@@ -328,44 +326,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>f'{user}.xlsx'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHdiID0gb3BlbnB5eGwubG9hZF93b3JrYm9vaygntPC+7S54bHN4JykKICAgIHNoZWV0ID0gd2JbJ7TwsLgnXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>f'{user}.xlsx'</text>
+        <text>wsin.cell(row=row, column=col).value</text>
       </register>
       <register name="/" type="4">
         <text>SR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQppbXBvcnQgcmUKaW1wb3J0IGRhdGV0aW1lIGFzIGR0CgppbXBvcnQgcGFuZGFzIGFzIHBkCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgb3BlbnB5eGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZS5yZXBsYWNlKCdWJywgJ1QnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICBmb3IgY2VsbCBpbiBjZWxsX3JhbmdlOgo=</text>
+        <text encoding="base64">ICAgIHdiID0gb3BlbnB5eGwubG9hZF93b3JrYm9vaygntPC+7S54bHN4JykKICAgIHNoZWV0ID0gd2JbJ7TwsLgnXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNlbGxfcmFuZ2UgPSBzaGVldFsnQjInOidEMzEnXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZS5zdWIoJ1t2VnRdJywgJ1QnLCB2YWx1ZSkKICAgICAgICAgICAgICAgICAgICByZS5zdWIoJ1t4WGZdJywgJ0YnLCB2YWx1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd0aTonKQogICAgcHJpbnQodGlfbGlzdCkKICAgIHByaW50KCdhbnM6JykKICAgIHByaW50KGFuc19saXN0KQogICAgcHJpbnQoJ3NlbGVjdDonKQogICAgcHJpbnQoc2VsZWN0X2xpc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlLnN1YignW3ZWdF0nLCAnVCcsIHZhbHVlWzBdKQogICAgICAgICAgICAgICAgcmUuc3ViKCdbeFhmXScsICdGJywgdmFsdWVbMF0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlLnJlcGxhY2UoJ3YnLCAnVCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4oc2VsZWN0W2ldKSk6CiAgICAgICAgICAgIGp1YW4gKz0gRkxBR1Nbal0gKyAnLicgKyBzdHIoc2VsZWN0W2ldW2pdKSArICdcbicK</text>
+        <text encoding="base64">ICAgIHdiID0gb3BlbnB5eGwubG9hZF93b3JrYm9vaygntPC+7S54bHN4JykKICAgIHNoZWV0ID0gd2JbJ7TwsLgnXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGR1b3h1YW4gPSBnZW5feHVhbihzaGVldHNbMV0pCg==</text>
+        <text encoding="base64">ICAgICMgZGFueHVhbiA9IGdlbl94dWFuKHNoZWV0c1swXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGR1b3h1YW4gPSBnZW5feHVhbihzaGVldHNbMV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICBmb3IgY2VsbCBpbiBjZWxsX3JhbmdlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
