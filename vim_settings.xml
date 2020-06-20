@@ -127,7 +127,9 @@
       <file name="D:/workspace/python/stockdatamanage/plot.py" timestamp="1588303779190">
         <mark key="'" line="21" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1592612156499" />
+      <file name="/Python Console" timestamp="1592620702660">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1587612520330">
         <mark key="[" line="0" column="0" />
       </file>
@@ -174,11 +176,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="47" column="51" />
       </file>
-      <file name="D:/workspace/python/exam/exam.py" timestamp="1592613073972">
-        <mark key="[" line="7" column="54" />
-        <mark key="]" line="7" column="54" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="7" column="54" />
+      <file name="D:/workspace/python/exam/exam.py" timestamp="1592622945915">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="41" column="30" />
+        <mark key="]" line="41" column="31" />
+        <mark key="^" line="41" column="31" />
+        <mark key="." line="41" column="30" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/test/mytest.py" timestamp="1587478333540">
         <mark key="[" line="486" column="8" />
@@ -217,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="12" filename="D:/workspace/stockdatamanage/backtest.py" />
       <jump line="30" column="16" filename="D:/workspace/stockdatamanage/backtest.py" />
       <jump line="252" column="12" filename="D:/workspace/stockdatamanage/backtest.py" />
       <jump line="286" column="36" filename="D:/workspace/stockdatamanage/backtest.py" />
@@ -317,48 +319,50 @@
       <jump line="199" column="0" filename="D:/workspace/python/shipingzhengli/fanhao.txt" />
       <jump line="168" column="2" filename="D:/workspace/python/shipingzhengli/fanhao.txt" />
       <jump line="203" column="1" filename="D:/workspace/python/shipingzhengli/fanhao.txt" />
+      <jump line="14" column="0" filename="D:/workspace/python/exam/exam.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, skiprows=1</text>
+        <text encoding="base64">ID0gc2VsZWN0X2xpc3Q=</text>
       </register>
       <register name="-" type="4">
-        <text>, skiprows=1</text>
+        <text encoding="base64">ID0gc2VsZWN0X2xpc3Q=</text>
       </register>
       <register name="/" type="4">
         <text>SR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3QgPSBwZC5yZWFkX2V4Y2VsKCfK1MziLnhsc3gnLCBzaGVldG5hbWVzPSe24NGhJywgc2tpcHJvd3M9MSkK</text>
+        <text encoding="base64">ICAgIHNlbGVjdCA9IFtpIGZvciBpIGluIF9yb3dbMjpdIGlmIGlzaW5zdGFuY2UoaSwgc3RyKV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBzdCA9IHBkLnJlYWRfZXhjZWwoJ8rUzOIueGxzeCcsIHNoZWV0bmFtZXM9J7bg0aEnLCBza2lwcm93cz0xKQpzdCA9IHBkLnJlYWRfZXhjZWwoJ8rUzOIueGxzeCcsIHNoZWV0bmFtZXM9MSwgc2tpcHJvd3M9MSkKZm9yIGl0ZW0gaW4gc3QuaXRlcnJvd3MoKToKICAgIHByaW50KGl0ZW0pCg==</text>
+        <text encoding="base64">RkxBR1MgPSAnQUJDREVGR0hJSktMTU5PUCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGxvZ2Z1bgpkZWYgdXBkYXRlSFlEYXRhKGRhdGUpOgoKCg==</text>
+        <text encoding="base64">ICAgICMgc2VsZWN0ID0gW2kgZm9yIGkgaW4gX3Jvd1syOl0gaWYgaXNpbnN0YW5jZShpLCBzdHIpXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQocm93LnRvX2xpc3QoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgX3JvdyA9IG5wLnJhbmRvbS5jaG9pY2UoX3JvdywgVElDT1VOVCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzaWZ5YW5hbHlzZS5jYWxBbGxIWVRUTVByb2ZpdHMoZGF0ZSkK</text>
+        <text encoding="base64">IyBmb3IgdGkgaW4gZGFueHVhbi5pdGVycm93cygpOgojICAgICBwcmludCh0aSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbWl0OiDIodfuvfzG2sr9tcTK/b7dCg==</text>
+        <text encoding="base64">IyBkYW54dWFuX2xpc3QgPSBucC5yYW5kICMgcHJpbnQoZGFueHVhbl9saXN0KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0b2NrTGlzdDogCg==</text>
+      <register name="7" type="4">
+        <text>m.choice(danxuan.values.tolist(), TICOUNT)
+# danxuan_list = danxuan.iterrows()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBkZWYgdXBkYXRlTGlydW4oKToKIyAgICAgc3RhcnRRdWFydGVyID0gZ2V0TGlydW5VcGRhdGVTdGFydFF1YXJ0ZXIoKQojICAgICBlbmRRdWFydGVyID0gZ2V0TGlydW5VcGRhdGVFbmRRdWFydGVyKCkKIwojICAgICBkYXRlcyA9IGRhdGF0cmFucy5RdWFydGVyTGlzdChzdGFydFF1YXJ0ZXIsIGVuZFF1YXJ0ZXIpCiMgICAgIGZvciBkYXRlIGluIGRhdGVzOgojICAgICAgICAgIyAgICAgICAgIHByaW50IGRhdGUKIyAgICAgICAgIGxvZ2dpbmcuZGVidWcoJ3VwZGF0ZUxpcnVuOiAlcycsIGRhdGUpCiMgICAgICAgICB0cnk6CiMgICAgICAgICAgICAgZGYgPSBkb3dubG9hZExpcnVuKGRhdGUpCiMgICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoKIyAgICAgICAgICAgICBjb250aW51ZQojICAgICAgICAgaWYgZGYgaXMgTm9uZToKIyAgICAgICAgICAgICBjb250aW51ZQojICMgICAgICAgICBwcmludCBsZW4oZGYpCiMgICAgICAgICAjILbByKHS0bTmtKK1xMD7yPPK/b7do6y008/C1NjK/b7d1tDJvrP9uMOyv7fWo6y21M60tOa0orXEwPvI89C0yOvK/b7dv+IKIyAgICAgICAgIGxpcnVuQ3VyID0gcmVhZExpcnVuRm9yRGF0ZShkYXRlKQojICAgICAgICAgZGYgPSBkZlt+ZGYudHNfY29kZS5pc2luKGxpcnVuQ3VyLnRzX2NvZGUpXQojICAgICAgICAgZGYgPSBkZltkZi5wcm9maXRzLm5vdG51bGwoKV0KIyAjICAgICAgICAgcHJpbnQgZGYKIwojICAgICAgICAgIyC21M60tOa0orXEwPvI89C0yOvK/b7dv+KjrLKi1tjQwrzGy+NUVE3A+8jzCiMgICAgICAgICBpZiBub3QgZGYuZW1wdHk6CiMgICAgICAgICAgICAgd3JpdGVMaXJ1bihkZikKIyAgICAgICAgICAgICBjYWxBbGxUVE1MaXJ1bihkYXRlKQoKCiMg0snLxs7e08O6r8r9o6y0/cm+s/0KIyBkZWYgcmVhZEd1YmVuRnJvbURmKGRmLCBkYXRlKToKIyAgICAgIiIitNO5ybG+wdCx7dbQtsHIoda4tqjI1cbatcS5ybG+yv3WtQojICAgICAjINa4tqjI1cbazt65ybG+yv2+3cqxo6zRocih1q7HsNfuvfy1xLnJsb7K/b7dCiMgICAgICIiIgojICAgICBkID0gZGZbZGYuZGF0ZSA8PSBkYXRlXQojICAgICBpZiBkLmVtcHR5OgojICAgICAgICAgcmV0dXJuIE5vbmUKIyAgICAgZ3ViZW4gPSBkW2QuZGF0ZSA9PSBkWydkYXRlJ10ubWF4KCksICd0b3RhbHNoYXJlcyddCiMgIyAgICAgZ3ViZW4gPSBkLmlhdFswLCAzXQojICAgICByZXR1cm4gZ3ViZW4KCgo=</text>
+        <text encoding="base64">ICAgICMgZm9yIGkgaW4gcm93LnRvX2xpc3QoKToKICAgICMgICAgIGlmIGlzaW5zdGFuY2UoaSwgc3RyKToKICAgICMgICAgICAgICBwcmludChpKQoKIyBmb3Igc2hlZXQgaW4gc2hlZXRzOgojICAgICBmb3IgaXRlbSBpbiBzaGVldC5pdGVycm93cygpOgojICAgICAgICAgcHJpbnQoaXRlbSkKIwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGRlbF9yZWFkVFRNTGlydW5Gcm9tRGYoZGYsIGRhdGUpOgogICAgIiIitNNUVE3A+8jzwdCx7dbQtsHIoda4tqjI1cbatcRUVE3A+8jzyv3WtQogICAgIyDWuLaoyNXG2s7eVFRNwPvI88r9vt3KsaOs0aHIodaux7DX7r38tcRUVE3A+8jzyv2+3QogICAgIiIiCiAgICBkID0gZGZbZGYucmVwb3J0ZGF0ZSA8PSBkYXRlXQogICAgaWYgZC5lbXB0eToKICAgICAgICByZXR1cm4gTm9uZQogICAgZCA9IGRbZC5yZXBvcnRkYXRlID09IGRbJ3JlcG9ydGRhdGUnXS5tYXgoKV0KICAgIHR0bUxpcnVuID0gZFtkLmRhdGUgPT0gZFsnZGF0ZSddLm1heCgpLCAndHRtcHJvZml0cyddCiAgICAjICAgICB0dG1MaXJ1biA9IGQuaWF0WzAsIDNdCiAgICByZXR1cm4gdHRtTGlydW4KCgo=</text>
+        <text encoding="base64">ICAgIF9yb3cgPSByb3cudG9fbGlzdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
