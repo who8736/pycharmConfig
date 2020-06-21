@@ -180,12 +180,6 @@
         <mark key="." line="37" column="27" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="D:/workspace/stockdatamanage/check.py" timestamp="1587522319535">
-        <mark key="[" line="38" column="30" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="47" column="51" />
-      </file>
       <file name="D:/workspace/python/exam/exam.py" timestamp="1592659216709">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="76" column="20" />
@@ -218,6 +212,12 @@
         <mark key="]" line="138" column="25" />
         <mark key="." line="138" column="24" />
         <mark key="^" line="138" column="25" />
+      </file>
+      <file name="D:/workspace/python/flask_jianli/app/config.py" timestamp="1592706134245">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="5" column="40" />
+        <mark key="^" line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -326,16 +326,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>傻逼你妈死了</text>
+        <text>123456</text>
       </register>
       <register name="-" type="4">
-        <text>傻逼你妈死了</text>
+        <text>123456</text>
       </register>
       <register name="/" type="4">
         <text>SR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZS5yZXBsYWNlKCdWJywgJ1QnKQo=</text>
+        <text encoding="base64">U1FMQUxDSEVNWV9EQVRBQkFTRV9VUkkgPSAibXlzcWwrcHlteXNxbDovL3Jvb3Q6MTIzNDU2QDEyNy4wLjAuMTozMzA2L2V4YW0/Y2hhcnNldD11dGY4bWI0Igo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHdiID0gb3BlbnB5eGwubG9hZF93b3JrYm9vaygntPC+7S54bHN4JykKICAgIHNoZWV0ID0gd2JbJ7TwsLgnXQo=</text>
