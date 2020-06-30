@@ -119,12 +119,12 @@
       <file name="vim_settings.xml" timestamp="1587655104144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/python/myexam/myexam.py" timestamp="1593526056576">
-        <mark key="'" line="22" column="25" />
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="20" column="31" />
-        <mark key="^" line="20" column="31" />
-        <mark key="." line="20" column="30" />
+      <file name="D:/workspace/python/myexam/myexam.py" timestamp="1593527808547">
+        <mark key="'" line="25" column="25" />
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="27" />
+        <mark key="^" line="22" column="54" />
+        <mark key="." line="22" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1592611955984">
         <mark key="[" line="0" column="0" />
@@ -172,11 +172,11 @@
         <mark key="^" line="497" column="11" />
         <mark key="." line="497" column="10" />
       </file>
-      <file name="D:/workspace/python/myexam/templates/index.html" timestamp="1593525597792">
-        <mark key="[" line="14" column="70" />
-        <mark key="]" line="14" column="73" />
-        <mark key="." line="14" column="72" />
-        <mark key="^" line="14" column="73" />
+      <file name="D:/workspace/python/myexam/templates/index.html" timestamp="1593527545978">
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="12" column="49" />
+        <mark key="." line="12" column="49" />
+        <mark key="^" line="16" column="45" />
       </file>
       <file name="D:/workspace/python/exam/result.py" timestamp="1592659136743">
         <mark key="'" line="35" column="33" />
@@ -322,10 +322,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>request.form.get()</text>
+        <text encoding="base64">IGFuZCAobm90IHNlbGVjdGVkLmVtcHR5KCkp</text>
       </register>
       <register name="-" type="4">
-        <text>request.form.get()</text>
+        <text encoding="base64">IGFuZCAobm90IHNlbGVjdGVkLmVtcHR5KCkp</text>
       </register>
       <register name="/" type="4">
         <text>SR</text>
