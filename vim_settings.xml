@@ -119,12 +119,12 @@
       <file name="vim_settings.xml" timestamp="1587655104144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/python/myexam/myexam.py" timestamp="1593356739115">
-        <mark key="'" line="15" column="25" />
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="59" />
-        <mark key="^" line="4" column="59" />
-        <mark key="." line="4" column="58" />
+      <file name="D:/workspace/python/myexam/myexam.py" timestamp="1593526056576">
+        <mark key="'" line="22" column="25" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1592611955984">
         <mark key="[" line="0" column="0" />
@@ -172,13 +172,12 @@
         <mark key="^" line="497" column="11" />
         <mark key="." line="497" column="10" />
       </file>
-      <file name="D:/workspace/python/myexam/templates/index.html" timestamp="1593356650240">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="8" column="26" />
+      <file name="D:/workspace/python/myexam/templates/index.html" timestamp="1593525597792">
+        <mark key="[" line="14" column="70" />
+        <mark key="]" line="14" column="73" />
+        <mark key="." line="14" column="72" />
+        <mark key="^" line="14" column="73" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/web/__init__.py" timestamp="1593356667210" />
       <file name="D:/workspace/python/exam/result.py" timestamp="1592659136743">
         <mark key="'" line="35" column="33" />
         <mark key="[" line="37" column="20" />
@@ -322,17 +321,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQk8aDI+PGEgaHJlZj0iL3ZhbHVhdGlvbnR5cGUveW91emhpIj7TxdbKucnGscbAt9Y8L2E+PC9oMj4KCQk8aDI+PGEgaHJlZj0iL3ZhbHVhdGlvbnR5cGUvYWxsIj7Iq7K/ucnGscbAt9Y8L2E+PC9oMj4KCQk8aDI+PGEgaHJlZj0iL2luZGV4a2xpbmVpbWduZXcvMDAwMDEwLlNIIj7Jz9akMTgwwPrKt1BFPC9hPjxicj48L2gyPgoJCTxoMj48YSBocmVmPSIvc3RvY2tsaXN0Ij7J6NbDs9a5ybnJxrE8L2E+PGJyPjwvaDI+CgkJPGgyPjxhIGhyZWY9Ii90ZXN0Ij6y4srU0rM8L2E+PGJyPjwvaDI+CgkJPGgyPjxhIGhyZWY9Ii90ZXN0MSI+suLK1NKzMTwvYT48YnI+PC9oMj4KCQk8aDI+PGEgaHJlZj0iL3Rlc3QyIj6y4srU0rMyPC9hPjxicj48L2gyPgo=</text>
+      <register name="&quot;" type="4">
+        <text>request.form.get()</text>
       </register>
       <register name="-" type="4">
-        <text>持股股票评分</text>
+        <text>request.form.get()</text>
       </register>
       <register name="/" type="4">
         <text>SR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U1FMQUxDSEVNWV9EQVRBQkFTRV9VUkkgPSAibXlzcWwrcHlteXNxbDovL3Jvb3Q6MTIzNDU2QDEyNy4wLjAuMTozMzA2L2V4YW0/Y2hhcnNldD11dGY4bWI0Igo=</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9InZlaGljbGVbXSIgdmFsdWU9IkJpa2UiPiBJIGhhdmUgYSBiaWtlPGJyPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQk8aDI+PGEgaHJlZj0iL3ZhbHVhdGlvbnR5cGUveW91emhpIj7TxdbKucnGscbAt9Y8L2E+PC9oMj4KCQk8aDI+PGEgaHJlZj0iL3ZhbHVhdGlvbnR5cGUvYWxsIj7Iq7K/ucnGscbAt9Y8L2E+PC9oMj4KCQk8aDI+PGEgaHJlZj0iL2luZGV4a2xpbmVpbWduZXcvMDAwMDEwLlNIIj7Jz9akMTgwwPrKt1BFPC9hPjxicj48L2gyPgoJCTxoMj48YSBocmVmPSIvc3RvY2tsaXN0Ij7J6NbDs9a5ybnJxrE8L2E+PGJyPjwvaDI+CgkJPGgyPjxhIGhyZWY9Ii90ZXN0Ij6y4srU0rM8L2E+PGJyPjwvaDI+CgkJPGgyPjxhIGhyZWY9Ii90ZXN0MSI+suLK1NKzMTwvYT48YnI+PC9oMj4KCQk8aDI+PGEgaHJlZj0iL3Rlc3QyIj6y4srU0rMyPC9hPjxicj48L2gyPgo=</text>
