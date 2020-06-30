@@ -116,9 +116,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1587655104144">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/workspace/python/myexam/myexam.py" timestamp="1593527808547">
         <mark key="'" line="25" column="25" />
         <mark key="[" line="22" column="27" />
@@ -126,13 +123,11 @@
         <mark key="^" line="22" column="54" />
         <mark key="." line="22" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592611955984">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/plot.py" timestamp="1588303779190">
-        <mark key="'" line="21" column="33" />
+      <file name="D:/workspace/python/myexam/sqlrw.py" timestamp="1593529701385">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="/Python Console" timestamp="1593355332852">
         <mark key="[" line="0" column="0" />
@@ -143,40 +138,13 @@
       <file name="/fragment.py" timestamp="1592633897338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/workspace/python/shipingzhengli/shipingzhengli.py" timestamp="1591457852473">
-        <mark key="[" line="80" column="4" />
-        <mark key="]" line="80" column="4" />
-        <mark key="^" line="80" column="4" />
-        <mark key="." line="80" column="3" />
-      </file>
-      <file name="/a.dummy" timestamp="1588642378091">
-        <mark key="[" line="0" column="14" />
-      </file>
       <file name="D:/workspace/python/exam/.git/info/exclude" timestamp="1592578768716">
         <mark key="[" line="6" column="0" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/stockdata.conf" timestamp="1587639725871">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="16" />
       </file>
       <file name="D:/workspace/python/myexam/templates/base.html" timestamp="1593356578213">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
-      </file>
-      <file name="D:/workspace/stockdatamanage/sqlrw.py" timestamp="1587627852219">
-        <mark key="[" line="497" column="4" />
-        <mark key="]" line="497" column="11" />
-        <mark key="^" line="497" column="11" />
-        <mark key="." line="497" column="10" />
-      </file>
-      <file name="D:/workspace/python/myexam/templates/index.html" timestamp="1593527545978">
-        <mark key="[" line="12" column="49" />
-        <mark key="]" line="12" column="49" />
-        <mark key="." line="12" column="49" />
-        <mark key="^" line="16" column="45" />
       </file>
       <file name="D:/workspace/python/exam/result.py" timestamp="1592659136743">
         <mark key="'" line="35" column="33" />
@@ -185,15 +153,62 @@
         <mark key="." line="37" column="27" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="D:/workspace/python/exam/exam.py" timestamp="1592659216709">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="76" column="20" />
-        <mark key="." line="75" column="0" />
+      <file name="D:/workspace/python/exam/exam.py" timestamp="1593529137939">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="28" />
+        <mark key="]" line="67" column="29" />
+        <mark key="." line="67" column="29" />
+      </file>
+      <file name="D:/workspace/python/flask_jianli/app/config.py" timestamp="1592706134245">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="5" column="40" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592611955984">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/workspace/python/myexam/import_questions.py" timestamp="1593529232756">
+        <mark key="'" line="113" column="21" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="113" column="22" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/workspace/python/shipingzhengli/shipingzhengli.py" timestamp="1591457852473">
+        <mark key="[" line="80" column="4" />
+        <mark key="]" line="80" column="4" />
+        <mark key="^" line="80" column="4" />
+        <mark key="." line="80" column="3" />
+      </file>
+      <file name="D:/workspace/python/myexam/templates/index.html" timestamp="1593527545978">
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="12" column="49" />
+        <mark key="." line="12" column="49" />
+        <mark key="^" line="16" column="45" />
+      </file>
+      <file name="D:/workspace/python/myexam/config.py" timestamp="1593529552612">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="D:/workspace/python/myexam/sqlconn.py" timestamp="1593529644186">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="21" column="31" />
       </file>
       <file name="D:/workspace/python/flask_jianli/app/app.py" timestamp="1592705090472">
         <mark key="[" line="58" column="16" />
         <mark key="]" line="58" column="16" />
         <mark key="." line="58" column="16" />
+      </file>
+      <file name="D:/workspace/python/myexam/myexam.conf" timestamp="1593529387759">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/workspace/python/shipingzhengli/fanhao.txt" timestamp="1591458049885">
         <mark key="'" line="203" column="1" />
@@ -209,17 +224,8 @@
         <mark key="." line="138" column="24" />
         <mark key="^" line="138" column="25" />
       </file>
-      <file name="D:/workspace/python/flask_jianli/app/config.py" timestamp="1592706134245">
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="5" column="40" />
-        <mark key="." line="5" column="40" />
-        <mark key="^" line="4" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="17" filename="D:/workspace/stockdatamanage/web/views.py" />
-      <jump line="0" column="15" filename="D:/workspace/stockdatamanage/web/templates/base.html" />
-      <jump line="20" column="12" filename="D:/workspace/stockdatamanage/web/templates/base.html" />
       <jump line="67" column="12" filename="D:/workspace/stockdatamanage/web/templates/base.html" />
       <jump line="71" column="8" filename="D:/workspace/stockdatamanage/web/templates/base.html" />
       <jump line="50" column="0" filename="D:/workspace/stockdatamanage/web/templates/base.html" />
@@ -317,15 +323,18 @@
       <jump line="76" column="19" filename="D:/workspace/python/exam/exam.py" />
       <jump line="30" column="33" filename="D:/workspace/python/exam/result.py" />
       <jump line="15" column="25" filename="D:/workspace/python/myexam/myexam.py" />
+      <jump line="82" column="25" filename="D:/workspace/python/exam/exam.py" />
+      <jump line="0" column="0" filename="D:/workspace/python/exam/exam.py" />
+      <jump line="114" column="21" filename="D:/workspace/python/myexam/import_questions.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGFuZCAobm90IHNlbGVjdGVkLmVtcHR5KCkp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBpbXBvcnQgdXJsbGliMgojIGltcG9ydCBzb2NrZXQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCAobm90IHNlbGVjdGVkLmVtcHR5KCkp</text>
+        <text>SQLConn</text>
       </register>
       <register name="/" type="4">
         <text>SR</text>
@@ -334,31 +343,31 @@
         <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iY2hlY2tib3giIG5hbWU9InZlaGljbGVbXSIgdmFsdWU9IkJpa2UiPiBJIGhhdmUgYSBiaWtlPGJyPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8aDI+PGEgaHJlZj0iL3ZhbHVhdGlvbnR5cGUveW91emhpIj7TxdbKucnGscbAt9Y8L2E+PC9oMj4KCQk8aDI+PGEgaHJlZj0iL3ZhbHVhdGlvbnR5cGUvYWxsIj7Iq7K/ucnGscbAt9Y8L2E+PC9oMj4KCQk8aDI+PGEgaHJlZj0iL2luZGV4a2xpbmVpbWduZXcvMDAwMDEwLlNIIj7Jz9akMTgwwPrKt1BFPC9hPjxicj48L2gyPgoJCTxoMj48YSBocmVmPSIvc3RvY2tsaXN0Ij7J6NbDs9a5ybnJxrE8L2E+PGJyPjwvaDI+CgkJPGgyPjxhIGhyZWY9Ii90ZXN0Ij6y4srU0rM8L2E+PGJyPjwvaDI+CgkJPGgyPjxhIGhyZWY9Ii90ZXN0MSI+suLK1NKzMTwvYT48YnI+PC9oMj4KCQk8aDI+PGEgaHJlZj0iL3Rlc3QyIj6y4srU0rMyPC9hPjxicj48L2gyPgo=</text>
+        <text encoding="base64">IyBpbXBvcnQgdXJsbGliMgojIGltcG9ydCBzb2NrZXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0iY29sLTEgYnRuLXByaW1hcnkiIGhyZWY9Ii92YWx1YXRpb250eXBlL2NoaWd1Ij6z1rnJucnGscbAt9Y8L2E+CiAgICAgICAgPGEgY2xhc3M9ImNvbC0xIGJ0bi1wcmltYXJ5IiBocmVmPSIvdmFsdWF0aW9udHlwZS95b3V6aGkiPtPF1sq5ycaxxsC31jwvYT4KICAgICAgICA8YSBjbGFzcz0iY29sLTEgYnRuLXByaW1hcnkiIGhyZWY9Ii92YWx1YXRpb250eXBlL2FsbCI+yKuyv7nJxrHGwLfWPC9hPgogICAgICAgIDxhIGNsYXNzPSJjb2wtMiBidG4tcHJpbWFyeSIgaHJlZj0iL3JlcG9ydHR5cGUvY2hpZ3UiPrPWucm5ycaxucDWtcr9vt08L2E+CiAgICAgICAgPGEgY2xhc3M9ImNvbC0yIGJ0bi1wcmltYXJ5IiBocmVmPSIvcmVwb3J0dHlwZS95b3V6aGkiPtPF1sq5ycaxucDWtcr9vt08L2E+CiAgICAgICAgPGEgY2xhc3M9ImNvbC0yIGJ0bi1wcmltYXJ5IiBocmVmPSIvcmVwb3J0dHlwZS9hbGwiPsirsr+5ycaxucDWtcr9vt08L2E+CiAgICAgICAgPGEgY2xhc3M9ImNvbC0yIGJ0bi1wcmltYXJ5IgogICAgICAgICAgIGhyZWY9Ii9pbmRleGtsaW5laW1nbmV3LzAwMDAxMC5TSCI+yc/WpDE4MMD6yrdQRTwvYT4K</text>
+        <text encoding="base64">IyBpbXBvcnQgQ29uZmlnUGFyc2VyCiMgaW1wb3J0IHJlCiMgaW1wb3J0IHRpbWUKCiMgaW1wb3J0IHN5cwoKCiMgZnJvbSBseG1sIGltcG9ydCBldHJlZQojIGltcG9ydCBseG1sCiMgaW1wb3J0IHR1c2hhcmUgYXMgdHMgICMgQFVucmVzb2x2ZWRJbXBvcnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwLmRlYnVnID0gVHJ1ZQo=</text>
+        <text encoding="base64">IyBmcm9tIHBhbmRhcy5jb21wYXQgaW1wb3J0IFN0cmluZ0lPCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdiID0gb3BlbnB5eGwubG9hZF93b3JrYm9vaygntPC+7S54bHN4JykKICAgIHNoZWV0ID0gd2JbJ7TwsLgnXQo=</text>
+        <text encoding="base64">IyBmcm9tIHNxbGFsY2hlbXkgaW1wb3J0IGNyZWF0ZV9lbmdpbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZS5zdWIoJ1t2VnRdJywgJ1QnLCB2YWx1ZSkKICAgICAgICAgICAgICAgICAgICByZS5zdWIoJ1t4WGZdJywgJ0YnLCB2YWx1ZSkK</text>
+        <text encoding="base64">IyBmcm9tIHNxbGFsY2hlbXkub3JtIGltcG9ydCBzZXNzaW9ubWFrZXIsIHNjb3BlZF9zZXNzaW9uCiMgaW1wb3J0IHNxbGFsY2hlbXkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBmcm9tIHR1c2hhcmUuc3RvY2sgaW1wb3J0IGNvbnMgYXMgY3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlLnN1YignW3ZWdF0nLCAnVCcsIHZhbHVlWzBdKQogICAgICAgICAgICAgICAgcmUuc3ViKCdbeFhmXScsICdGJywgdmFsdWVbMF0pCg==</text>
+        <text encoding="base64">aW1wb3J0IHhscmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlLnJlcGxhY2UoJ3YnLCAnVCcpCg==</text>
+        <text encoding="base64">aW1wb3J0IHR1c2hhcmUgYXMgdHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdiID0gb3BlbnB5eGwubG9hZF93b3JrYm9vaygntPC+7S54bHN4JykKICAgIHNoZWV0ID0gd2JbJ7TwsLgnXQo=</text>
+        <text encoding="base64">IyBpbXBvcnQgaW5pdHNxbAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
