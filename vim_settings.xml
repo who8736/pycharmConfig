@@ -141,7 +141,7 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="/Python Console" timestamp="1593783589253">
+      <file name="/Python Console" timestamp="1593789681160">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
@@ -158,6 +158,12 @@
       </file>
       <file name="D:/workspace/python/exam/.git/info/exclude" timestamp="1592578768716">
         <mark key="[" line="6" column="0" />
+      </file>
+      <file name="D:/workspace/python/SuperMario/main.py" timestamp="1593789655300">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="9" />
       </file>
       <file name="D:/workspace/python/myexam/templates/base.html" timestamp="1593356578213">
         <mark key="[" line="66" column="0" />
@@ -215,13 +221,6 @@
         <mark key="]" line="203" column="2" />
         <mark key="^" line="203" column="2" />
         <mark key="." line="203" column="1" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/datamanage.py" timestamp="1588642851611">
-        <mark key="'" line="105" column="10" />
-        <mark key="[" line="140" column="8" />
-        <mark key="]" line="138" column="25" />
-        <mark key="." line="138" column="24" />
-        <mark key="^" line="138" column="25" />
       </file>
       <file name="D:/workspace/python/flask_jianli/app/config.py" timestamp="1592706134245">
         <mark key="[" line="5" column="40" />
