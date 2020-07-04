@@ -153,11 +153,11 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="8" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/constants.py" timestamp="1593824274719">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="14" />
+      <file name="D:/workspace/python/SuperMario/source/constants.py" timestamp="1593829309540">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="17" />
       </file>
       <file name="D:/workspace/python/SuperMario/main.py" timestamp="1593823906314">
         <mark key="[" line="11" column="13" />
@@ -221,12 +221,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/states/main_menu.py" timestamp="1593824998734">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="35" column="52" />
-        <mark key="]" line="36" column="44" />
-        <mark key="." line="36" column="43" />
-        <mark key="^" line="36" column="44" />
+      <file name="D:/workspace/python/SuperMario/source/states/main_menu.py" timestamp="1593829352173">
+        <mark key="[" line="32" column="81" />
+        <mark key="]" line="34" column="8" />
+        <mark key="." line="34" column="7" />
+        <mark key="^" line="34" column="8" />
       </file>
       <file name="D:/workspace/python/flask_jianli/app/config.py" timestamp="1592706134245">
         <mark key="[" line="5" column="40" />
@@ -236,8 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="D:/workspace/stockdatamanage/mytest.py" />
-      <jump line="538" column="0" filename="D:/workspace/stockdatamanage/plot.py" />
       <jump line="106" column="67" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="67" column="19" filename="D:/workspace/stockdatamanage/mytest.py" />
       <jump line="767" column="19" filename="D:/workspace/stockdatamanage/mytest.py" />
@@ -336,51 +333,53 @@
       <jump line="26" column="35" filename="D:/workspace/python/SuperMario/source/tools.py" />
       <jump line="22" column="82" filename="D:/workspace/python/SuperMario/source/states/main_menu.py" />
       <jump line="16" column="0" filename="D:/workspace/python/SuperMario/source/states/main_menu.py" />
+      <jump line="44" column="67" filename="D:/workspace/python/SuperMario/source/states/main_menu.py" />
+      <jump line="51" column="0" filename="D:/workspace/python/SuperMario/source/states/main_menu.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIHNlbGYucGxheWVyX3JlY3QgPSBzZWxmLmJhY2tncm91bmQuZ2V0X3JlY3QoKQogICAgICAgICMgYmFja2dyb3VuZF9zY2FsZWQgPSAoaW50KHNlbGYuYmFja2dyb3VuZF9yZWN0LndpZHRoICogQy5CR19NVUxUSSksCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWNrZ3JvdW5kX3JlY3QuaGVpZ2h0ICogQy5CR19NVUxUSSkpCiAgICAgICAgIwogICAgICAgICMgc2VsZi5iYWNrZ3JvdW5kID0gcHlnYW1lLnRyYW5zZm9ybS5zY2FsZShzZWxmLmJhY2tncm91bmQsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmRfc2NhbGVkKQogICAgICAgICMgc2VsZi52aWV3cG9ydCA9IHNldHVwLlNDUkVFTi5nZXRfcmVjdCgpCiAgICAgICAgIyBzZWxmLmNhcHRpb24gPSB0b29scy5nZXRfaW1hZ2Uoc2V0dXAuR1JBUEhISUNTWyd0aXRsZV9zY3JlZW4nXSwgMSwgNjAsIDE3NiwgODgsICgyNTUsIDAsIDIyMCksIEMuQkdfTVVMVEkpCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>BG_MULTI</text>
       </register>
       <register name="/" type="4">
         <text>SR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFuZG9tLnJhbmRpbnQoMCwgMjU1KSwK</text>
+        <text encoding="base64">ICAgICAgICBzdXJmYWNlLmJsaXQoc2VsZi5wbGF5ZXIsICgxMDAsIDQ5MykpCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjIHNlbGYucGxheWVyX3JlY3QgPSBzZWxmLmJhY2tncm91bmQuZ2V0X3JlY3QoKQogICAgICAgICMgYmFja2dyb3VuZF9zY2FsZWQgPSAoaW50KHNlbGYuYmFja2dyb3VuZF9yZWN0LndpZHRoICogQy5CR19NVUxUSSksCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWNrZ3JvdW5kX3JlY3QuaGVpZ2h0ICogQy5CR19NVUxUSSkpCiAgICAgICAgIwogICAgICAgICMgc2VsZi5iYWNrZ3JvdW5kID0gcHlnYW1lLnRyYW5zZm9ybS5zY2FsZShzZWxmLmJhY2tncm91bmQsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmRfc2NhbGVkKQogICAgICAgICMgc2VsZi52aWV3cG9ydCA9IHNldHVwLlNDUkVFTi5nZXRfcmVjdCgpCiAgICAgICAgIyBzZWxmLmNhcHRpb24gPSB0b29scy5nZXRfaW1hZ2Uoc2V0dXAuR1JBUEhISUNTWyd0aXRsZV9zY3JlZW4nXSwgMSwgNjAsIDE3NiwgODgsICgyNTUsIDAsIDIyMCksIEMuQkdfTVVMVEkpCgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBtYXJpb19icm9zID0gc2V0dXAuR1JBUEhISUNTWydtYXJpb19icm9zJ10K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>int(
                                                      self.background_rect.width * C.BG_MULTI),
                                                   int(
                                                       self.background_rect.height * C.BG_MULTI)</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcmFuZG9tCiAgICAgICAgc3VyZmFjZS5maWxsKChyYW5kb20ucmFuZGludCgwLCAyNTUpLCByYW5kb20ucmFuZGludCgwLCAyNTUpLAogICAgICAgICAgICAgICAgICAgICAgcmFuZG9tLnJhbmRpbnQoMCwgMjU1KSkpCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zY3JlZW4uZmlsbCgocmFuZG9tLnJhbmRpbnQoMCwgMjU1KSwgcmFuZG9tLnJhbmRpbnQoMCwgMjU1KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmFuZG9tLnJhbmRpbnQoMCwgMjU1KSkpCiAgICAgICAgICAgIGltYWdlID0gZ2V0X2ltYWdlKEdSQVBISUNTWydtYXJpb19icm9zJ10sIDE0NSwgMzIsIDE2LCAxNiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKDAsIDAsIDApLCByYW5kb20ucmFuZGludCg1LCAxNSkpCiAgICAgICAgICAgIHNlbGYuc2NyZWVuLmJsaXQoaW1hZ2UsICgzMDAsIDMwMCkpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">R1JBUEhISUNTID0gdG9vbHMubG9hZF9ncmFwaGljcygncmVzb3VyY2VzL2dyYXBoaWNzJykK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0b29scyBpbXBvcnQgbG9hZF9ncmFwaGljcwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBHUkFQSEhJQ1MgPSBsb2FkX2dyYXBoaWNzKCdyZXNvdXJjZXMvZ3JhcGhpY3MnKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmtleXMgPSBweWdhbWUua2V5LmdldF9wcmVzc2VkKCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBpbXBvcnQgdXJsbGliMgojIGltcG9ydCBzb2NrZXQK</text>
+        <text encoding="base64">ZnJvbSB0b29scyBpbXBvcnQgbG9hZF9ncmFwaGljcwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/1/2/g</text>
