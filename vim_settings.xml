@@ -192,12 +192,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/components/info.py" timestamp="1593832071646">
+      <file name="D:/workspace/python/SuperMario/source/components/info.py" timestamp="1593841347391">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="26" />
-        <mark key="]" line="48" column="37" />
-        <mark key="^" line="48" column="37" />
-        <mark key="." line="48" column="36" />
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="53" column="64" />
+        <mark key="^" line="53" column="64" />
+        <mark key="." line="53" column="63" />
       </file>
       <file name="D:/workspace/python/exam/exam.py" timestamp="1593529137939">
         <mark key="'" line="0" column="0" />
@@ -211,11 +211,6 @@
         <mark key="." line="21" column="30" />
         <mark key="^" line="21" column="31" />
       </file>
-      <file name="D:/workspace/python/flask_jianli/app/app.py" timestamp="1592705090472">
-        <mark key="[" line="58" column="16" />
-        <mark key="]" line="58" column="16" />
-        <mark key="." line="58" column="16" />
-      </file>
       <file name="D:/workspace/python/myexam/myexam.conf" timestamp="1593529387759">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -226,6 +221,12 @@
         <mark key="]" line="50" column="30" />
         <mark key="." line="50" column="29" />
         <mark key="^" line="50" column="30" />
+      </file>
+      <file name="D:/workspace/python/SuperMario/source/components/coin.py" timestamp="1593841135084">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="21" />
       </file>
       <file name="D:/workspace/python/flask_jianli/app/config.py" timestamp="1592706134245">
         <mark key="[" line="5" column="40" />
@@ -340,16 +341,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>state_labels</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>state_labels</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>SR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbGFiZWwgaW4gc2VsZi5zdGF0ZV9sYWJlbHM6CiAgICAgICAgICAgIHN1cmZhY2UuYmxpdChsYWJlbFswXSwgbGFiZWxbMV0p</text>
+        <text encoding="base64">ICAgICAgICAgICAgKDEsIDE2MCwgNSwgOCksIAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
