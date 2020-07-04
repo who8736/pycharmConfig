@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">YnRuLWxhcmdlIA==</entry>
         <entry encoding="base64">YnRuIA==</entry>
         <entry>cross</entry>
         <entry>1</entry>
@@ -25,10 +24,9 @@
         <entry>small</entry>
         <entry>normal</entry>
         <entry>frame</entry>
+        <entry>aa</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyQvLCQvZw==</entry>
-        <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
         <entry encoding="base64">JzwsJz5zLyA9LycsL2c=</entry>
         <entry encoding="base64">JzwsJz5zLywkL1xdLC9n</entry>
         <entry>s/start/end/g</entry>
@@ -43,6 +41,12 @@
         <entry encoding="base64">JzwsJz5zL3NtYWxsL2JpZy9n</entry>
         <entry encoding="base64">JzwsJz5zL25vcm1hbC9maXJlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ZyYW1lL2ZyYW1lcy9n</entry>
+        <entry>s/aa/max_run_vel/g</entry>
+        <entry>s/aa/max_y_vel/g</entry>
+        <entry>s/aa/jump_vel/g</entry>
+        <entry>s/aa/walk_accel/g</entry>
+        <entry>s/aa/run_accel/g</entry>
+        <entry>s/aa/turn_accel/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -137,41 +141,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1593789681160">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="33" />
-      </file>
-      <file name="D:/workspace/python/SuperMario/source/setup.py" timestamp="1593824502309">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="9" />
-        <mark key="^" line="9" column="9" />
-        <mark key="." line="9" column="8" />
-      </file>
-      <file name="D:/workspace/python/SuperMario/source/tools.py" timestamp="1593847663543">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="15" />
-        <mark key="." line="22" column="14" />
-        <mark key="^" line="20" column="19" />
-      </file>
-      <file name="D:/workspace/python/exam/exam.py" timestamp="1593529137939">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="28" />
-        <mark key="]" line="67" column="29" />
-        <mark key="." line="67" column="29" />
-      </file>
-      <file name="D:/workspace/python/SuperMario/source/states/main_menu.py" timestamp="1593846968505">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="32" />
-      </file>
-      <file name="D:/workspace/python/SuperMario/source/states/level.py" timestamp="1593850030976">
-        <mark key="[" line="41" column="32" />
-        <mark key="]" line="41" column="38" />
-        <mark key="^" line="41" column="38" />
-        <mark key="." line="41" column="37" />
+      <file name="D:/workspace/python/SuperMario/source/states/level.py" timestamp="1593877449745">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="32" />
+        <mark key="^" line="28" column="32" />
+        <mark key="." line="28" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1593701951235">
         <mark key="[" line="0" column="0" />
@@ -185,17 +159,35 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="25" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/constants.py" timestamp="1593831587813">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="19" />
+      <file name="/Python Console" timestamp="1593789681160">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="33" />
+      </file>
+      <file name="D:/workspace/python/SuperMario/source/setup.py" timestamp="1593824502309">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="8" />
+      </file>
+      <file name="D:/workspace/python/SuperMario/source/constants.py" timestamp="1593877059030">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/workspace/python/SuperMario/main.py" timestamp="1593847570303">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="13" />
         <mark key="^" line="14" column="44" />
         <mark key="." line="15" column="13" />
+      </file>
+      <file name="D:/workspace/python/SuperMario/source/tools.py" timestamp="1593847663543">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="D:/workspace/python/stockdatamanage/download.py" timestamp="1593700883495">
         <mark key="[" line="52" column="29" />
@@ -220,6 +212,12 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="11" />
       </file>
+      <file name="D:/workspace/python/exam/exam.py" timestamp="1593529137939">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="28" />
+        <mark key="]" line="67" column="29" />
+        <mark key="." line="67" column="29" />
+      </file>
       <file name="D:/workspace/python/myexam/sqlconn.py" timestamp="1593529644186">
         <mark key="[" line="21" column="25" />
         <mark key="]" line="21" column="31" />
@@ -231,12 +229,18 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/components/player.py" timestamp="1593852786903">
-        <mark key="'" line="66" column="37" />
-        <mark key="[" line="121" column="32" />
-        <mark key="]" line="121" column="32" />
-        <mark key="." line="121" column="32" />
-        <mark key="^" line="121" column="32" />
+      <file name="D:/workspace/python/SuperMario/source/components/player.py" timestamp="1593878455157">
+        <mark key="'" line="125" column="30" />
+        <mark key="[" line="174" column="32" />
+        <mark key="]" line="174" column="32" />
+        <mark key="^" line="174" column="33" />
+        <mark key="." line="174" column="32" />
+      </file>
+      <file name="D:/workspace/python/SuperMario/source/states/main_menu.py" timestamp="1593846968505">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="D:/workspace/python/SuperMario/source/components/coin.py" timestamp="1593849218669">
         <mark key="[" line="28" column="0" />
@@ -246,13 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="800" column="8" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="784" column="8" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="777" column="12" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="776" column="0" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="782" column="12" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="66" column="0" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="107" column="16" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="142" column="0" filename="D:/workspace/python/stockdatamanage/test/scaling_test.py" />
       <jump line="84" column="38" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
       <jump line="209" column="15" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
@@ -346,61 +343,68 @@
       <jump line="88" column="16" filename="D:/workspace/python/SuperMario/source/components/player.py" />
       <jump line="53" column="24" filename="D:/workspace/python/SuperMario/source/components/player.py" />
       <jump line="65" column="37" filename="D:/workspace/python/SuperMario/source/components/player.py" />
+      <jump line="43" column="8" filename="D:/workspace/python/SuperMario/source/components/player.py" />
+      <jump line="44" column="8" filename="D:/workspace/python/SuperMario/source/components/player.py" />
+      <jump line="45" column="8" filename="D:/workspace/python/SuperMario/source/components/player.py" />
+      <jump line="46" column="8" filename="D:/workspace/python/SuperMario/source/components/player.py" />
+      <jump line="47" column="8" filename="D:/workspace/python/SuperMario/source/components/player.py" />
+      <jump line="48" column="8" filename="D:/workspace/python/SuperMario/source/components/player.py" />
+      <jump line="122" column="30" filename="D:/workspace/python/SuperMario/source/components/player.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>frame</text>
+        <text>aa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnN0YXRlID09ICd3YWxrJzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYueF92ZWwgLT0gc2VsZi54X2FjY2VsCiAgICAgICAgICAgICAgICBpZiBzZWxmLnhfdmVsIDwgMDoKICAgICAgICAgICAgICAgICAgICBzZWxmLnhfdmVsID0gMAogICAgICAgICAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnc3RhbmQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi54X3ZlbCA9IDUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvYWRfZGF0YSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBrZXlzW3B5Z2FtZS5LX1VQXToKICAgICAgICAgICAgc2VsZi54X3ZlbCA9IDAKICAgICAgICAgICAgc2VsZi55X3ZlbCA9IC01CiAgICAgICAgICAgIHNlbGYuZnJhbWVzID0gc2VsZi51cF9mcmFtZXMKICAgICAgICBpZiBrZXlzW3B5Z2FtZS5LX0RPV05dOgogICAgICAgICAgICBzZWxmLnhfdmVsID0gMAogICAgICAgICAgICBzZWxmLnlfdmVsID0gNQogICAgICAgICAgICBzZWxmLmZyYW1lcyA9IHNlbGYuZG93bl9mcmFtZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvYWRfZGF0YSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGdyb3VwID09ICdyaWdodF9zbWFsbF9ub3JtYWwnOgogICAgICAgICAgICAgICAgICAgIHNlbGYucmlnaHRfc21hbGxfbm9ybWFsX2ZyYW1lcy5hcHBlbmQocmlnaHRfaW1hZ2UpCiAgICAgICAgICAgICAgICAgICAgc2VsZi5sZWZ0X3NtYWxsX25vcm1hbF9mcmFtZXMuYXBwZW5kKGxlZnRfaW1hZ2UpCiAgICAgICAgICAgICAgICBzZWxmLnVwX2ZyYW1lcy5hcHBlbmQodXBfaW1hZ2UpCiAgICAgICAgICAgICAgICBzZWxmLmRvd25fZnJhbWVzLmFwcGVuZChkb3duX2ltYWdlKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBrZXlzW3B5Z2FtZS5LX1VQXToKICAgICAgICAgICAgc2VsZi54X3ZlbCA9IDAKICAgICAgICAgICAgc2VsZi55X3ZlbCA9IC01CiAgICAgICAgICAgIHNlbGYuZnJhbWVzID0gc2VsZi51cF9mcmFtZXMKICAgICAgICBpZiBrZXlzW3B5Z2FtZS5LX0RPV05dOgogICAgICAgICAgICBzZWxmLnhfdmVsID0gMAogICAgICAgICAgICBzZWxmLnlfdmVsID0gNQogICAgICAgICAgICBzZWxmLmZyYW1lcyA9IHNlbGYuZG93bl9mcmFtZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxlZnRfZnJhbWVzLmFwcGVuZChsZWZ0X2ltYWdlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwX2ltYWdlID0gcHlnYW1lLnRyYW5zZm9ybS5yb3RhdGUocmlnaHRfaW1hZ2UsIDkwKQogICAgICAgICAgICAgICAgZG93bl9pbWFnZSA9IHB5Z2FtZS50cmFuc2Zvcm0ucm90YXRlKHJpZ2h0X2ltYWdlLCAtOTApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGdyb3VwID09ICdyaWdodF9zbWFsbF9ub3JtYWwnOgogICAgICAgICAgICAgICAgICAgIHNlbGYucmlnaHRfc21hbGxfbm9ybWFsX2ZyYW1lcy5hcHBlbmQocmlnaHRfaW1hZ2UpCiAgICAgICAgICAgICAgICAgICAgc2VsZi5sZWZ0X3NtYWxsX25vcm1hbF9mcmFtZXMuYXBwZW5kKGxlZnRfaW1hZ2UpCiAgICAgICAgICAgICAgICBzZWxmLnVwX2ZyYW1lcy5hcHBlbmQodXBfaW1hZ2UpCiAgICAgICAgICAgICAgICBzZWxmLmRvd25fZnJhbWVzLmFwcGVuZChkb3duX2ltYWdlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxlZnRfaW1hZ2UgPSBweWdhbWUudHJhbnNmb3JtLmZsaXAocmlnaHRfKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxlZnRfZnJhbWVzLmFwcGVuZChsZWZ0X2ltYWdlKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2ZyYW1lL2ZyYW1lcy9n</text>
+        <text>s/aa/turn_accel/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>frame</last-search>
+      <last-search>aa</last-search>
       <last-offset />
-      <last-pattern>frame</last-pattern>
-      <last-replace>frames</last-replace>
-      <last-substitute>frame</last-substitute>
+      <last-pattern>aa</last-pattern>
+      <last-replace>turn_accel</last-replace>
+      <last-substitute>aa</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
