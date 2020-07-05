@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">YnRuIA==</entry>
         <entry>cross</entry>
         <entry>1</entry>
         <entry>model_main</entry>
@@ -25,6 +24,7 @@
         <entry>normal</entry>
         <entry>frame</entry>
         <entry>aa</entry>
+        <entry encoding="base64">XDxjdXJyZW50X3RpbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyA9LycsL2c=</entry>
@@ -229,11 +229,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/components/player.py" timestamp="1593916592692">
-        <mark key="'" line="50" column="32" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="0" />
-        <mark key="." line="242" column="0" />
+      <file name="D:/workspace/python/SuperMario/source/components/player.py" timestamp="1593949410473">
+        <mark key="'" line="119" column="13" />
+        <mark key="[" line="207" column="26" />
+        <mark key="]" line="207" column="27" />
+        <mark key="." line="207" column="27" />
         <mark key="^" line="227" column="29" />
       </file>
       <file name="D:/workspace/python/SuperMario/source/states/main_menu.py" timestamp="1593846968505">
@@ -250,8 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="810" column="26" filename="D:/workspace/python/stockdatamanage/test/index_technical_indicators.py" />
-      <jump line="164" column="33" filename="D:/workspace/python/stockdatamanage/web/views.py" />
       <jump line="188" column="0" filename="D:/workspace/python/stockdatamanage/web/views.py" />
       <jump line="167" column="13" filename="D:/workspace/python/stockdatamanage/web/views.py" />
       <jump line="12" column="32" filename="D:/workspace/python/stockdatamanage/web/views.py" />
@@ -350,6 +348,8 @@
       <jump line="168" column="18" filename="D:/workspace/python/SuperMario/source/components/player.py" />
       <jump line="49" column="32" filename="D:/workspace/python/SuperMario/source/components/player.py" />
       <jump line="16" column="13" filename="D:/workspace/python/SuperMario/source/states/level.py" />
+      <jump line="197" column="38" filename="D:/workspace/python/SuperMario/source/components/player.py" />
+      <jump line="119" column="13" filename="D:/workspace/python/SuperMario/source/components/player.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -361,7 +361,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>aa</text>
+        <text encoding="base64">XDxjdXJyZW50X3RpbWVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdXBlcihweWdhbWUuc3ByaXRlLlNwcml0ZSwgc2VsZikuX19pbml0X18oKQo=</text>
@@ -400,9 +400,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>aa</last-search>
+      <last-search encoding="base64">XDxjdXJyZW50X3RpbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>aa</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJyZW50X3RpbWVcPg==</last-pattern>
       <last-replace>turn_accel</last-replace>
       <last-substitute>aa</last-substitute>
       <last-dir>1</last-dir>
