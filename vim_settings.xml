@@ -134,12 +134,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/states/level.py" timestamp="1593955055818">
+      <file name="D:/workspace/python/SuperMario/source/states/level.py" timestamp="1594039837840">
         <mark key="'" line="97" column="12" />
-        <mark key="[" line="138" column="32" />
-        <mark key="]" line="146" column="36" />
-        <mark key="^" line="146" column="36" />
-        <mark key="." line="146" column="35" />
+        <mark key="[" line="105" column="28" />
+        <mark key="]" line="105" column="31" />
+        <mark key="^" line="105" column="31" />
+        <mark key="." line="105" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1593701951235">
         <mark key="[" line="0" column="0" />
@@ -229,12 +229,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/components/player.py" timestamp="1593953974088">
+      <file name="D:/workspace/python/SuperMario/source/components/player.py" timestamp="1594039373615">
         <mark key="'" line="33" column="13" />
-        <mark key="[" line="253" column="8" />
-        <mark key="]" line="258" column="31" />
-        <mark key="." line="258" column="30" />
-        <mark key="^" line="258" column="31" />
+        <mark key="[" line="231" column="23" />
+        <mark key="]" line="231" column="24" />
+        <mark key="." line="231" column="23" />
+        <mark key="^" line="231" column="24" />
       </file>
       <file name="D:/workspace/python/SuperMario/source/states/main_menu.py" timestamp="1593955486906">
         <mark key="'" line="75" column="32" />
@@ -355,44 +355,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>bottom</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>bottom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWNlX3JpZ2h0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zdGF0ZV9sYWJlbHMuYXBwZW5kKChzZWxmLmNyZWF0ZV9sYWJlbCgneCAgIDMnKSwgKDM4MCwgMjgwKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYueV92ZWwgPT0gMDoKICAgICAgICAjICAgICBzZWxmLnN0YXRlID0gJ3dhbGsnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnBsYXllci5yZWN0LmJvdHRvbSA+IHNwcml0ZS5yZWN0LmJvdHRvbToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdhbWVfaW5mbyA9IGdhbWVfaW5mbwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdhbWVfaW5mbyA9IGdhbWVfaW5mbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2FkU2NyZWVuLl9faW5pdF9fKHNlbGYpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
+        <text encoding="base64">ICAgICAgICBMb2FkU2NyZWVuLl9faW5pdF9fKHNlbGYpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYucGxheWVyLnhfdmVsID4gMCBhbmQgc2VsZi5wbGF5ZXIucmVjdC5yaWdodCA+IHRoaXJkIGFuZCBzZWxmLmdhbWVfd2luZG93LnJpZ2h0IDwgc2VsZi5lbmRfeDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN1cmZhY2UuYmxpdChzZWxmLnBsYXllci5pbWFnZSwgc2VsZi5wbGF5ZXIucmVjdCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYucGxheWVyLnhfdmVsID4gMCBhbmQgc2VsZi5wbGF5ZXIucmVjdC5yaWdodCA+IHRoaXJkIGFuZCBzZWxmLmdhbWVfd2luZG93LnJpZ2h0IDwgc2VsZi5lbmRfeDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBsYXllciA9IHBsYXllci5QbGF5ZXIoJ21hcmlvJykK</text>
+        <text encoding="base64">ICAgICAgICAjIHN1cmZhY2UuYmxpdChzZWxmLnBsYXllci5pbWFnZSwgc2VsZi5wbGF5ZXIucmVjdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBUT0RPIHdvcmtyb3VuZCwgd2lsbCBtb3ZlIHRvIGxldmVsLnB5IGZvciBjb2xsaXNpb24gZGV0ZWN0aW9uCiAgICAgICAgaWYgc2VsZi5yZWN0LmJvdHRvbSA+IEMuR1JPVU5EX0hFSUdIVDoKICAgICAgICAgICAgc2VsZi5yZWN0LmJvdHRvbSA9IEMuR1JPVU5EX0hFSUdIVAogICAgICAgICAgICBzZWxmLnlfdmVsID0gMAogICAgICAgICAgICBzZWxmLnN0YXRlID0gJ3dhbGsnCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBsYXllciA9IHBsYXllci5QbGF5ZXIoJ21hcmlvJykK</text>
       </register>
       <register name=":" type="4">
         <text>s/aa/turn_accel/g</text>
