@@ -123,52 +123,24 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/python/SuperMario/source/states/level.py" timestamp="1594128464445">
-        <mark key="'" line="79" column="18" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="12" />
-        <mark key="." line="133" column="12" />
-        <mark key="^" line="131" column="32" />
-      </file>
-      <file name="D:/workspace/python/stockdatamanage/classifyanalyse.py" timestamp="1594134385031">
-        <mark key="[" line="261" column="47" />
-        <mark key="]" line="261" column="47" />
-        <mark key="." line="261" column="47" />
-        <mark key="^" line="261" column="40" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593701951235">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/workspace/python/SuperMario/source/data/maps/level_1.json" timestamp="1594046381438">
         <mark key="[" line="156" column="65" />
         <mark key="]" line="156" column="66" />
         <mark key="." line="156" column="66" />
       </file>
-      <file name="/Python Console" timestamp="1593789681160">
+      <file name="/Python Console" timestamp="1594136274992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="33" />
-      </file>
-      <file name="D:/workspace/python/SuperMario/source/setup.py" timestamp="1593824502309">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="9" />
-        <mark key="^" line="9" column="9" />
-        <mark key="." line="9" column="8" />
-      </file>
-      <file name="D:/workspace/python/SuperMario/source/constants.py" timestamp="1594124403666">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="15" />
-        <mark key="^" line="12" column="15" />
-        <mark key="." line="12" column="15" />
       </file>
       <file name="D:/workspace/python/SuperMario/source/components/stuff.py" timestamp="1594126084919">
         <mark key="[" line="14" column="24" />
@@ -176,18 +148,17 @@
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="42" />
       </file>
+      <file name="/a.dummy" timestamp="1594135612179">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/workspace/python/SuperMario/source/components/brick.py" timestamp="1594045494367">
         <mark key="'" line="15" column="7" />
         <mark key="[" line="16" column="12" />
         <mark key="]" line="15" column="8" />
         <mark key="^" line="15" column="8" />
         <mark key="." line="15" column="7" />
-      </file>
-      <file name="D:/workspace/python/SuperMario/main.py" timestamp="1593954328836">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="13" column="43" />
-        <mark key="^" line="13" column="43" />
-        <mark key="." line="13" column="42" />
       </file>
       <file name="D:/workspace/python/SuperMario/source/components/enemy.py" timestamp="1594129000824">
         <mark key="'" line="60" column="0" />
@@ -202,10 +173,51 @@
         <mark key="." line="24" column="37" />
         <mark key="^" line="24" column="38" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/download.py" timestamp="1593700883495">
-        <mark key="[" line="52" column="29" />
-        <mark key="]" line="52" column="30" />
-        <mark key="." line="52" column="30" />
+      <file name="D:/workspace/python/SuperMario/source/components/box.py" timestamp="1594043793067">
+        <mark key="'" line="17" column="12" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="19" column="16" />
+      </file>
+      <file name="D:/workspace/python/stockdatamanage/sqlrw.py" timestamp="1594136174256">
+        <mark key="[" line="522" column="57" />
+        <mark key="]" line="522" column="57" />
+        <mark key="." line="522" column="57" />
+        <mark key="^" line="522" column="51" />
+      </file>
+      <file name="D:/workspace/python/SuperMario/source/states/main_menu.py" timestamp="1594124939168">
+        <mark key="'" line="75" column="32" />
+        <mark key="[" line="96" column="31" />
+        <mark key="]" line="103" column="34" />
+        <mark key="." line="103" column="33" />
+        <mark key="^" line="103" column="34" />
+      </file>
+      <file name="D:/workspace/python/SuperMario/source/states/level.py" timestamp="1594128464445">
+        <mark key="'" line="79" column="18" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="12" />
+        <mark key="." line="133" column="12" />
+        <mark key="^" line="131" column="32" />
+      </file>
+      <file name="D:/workspace/python/stockdatamanage/classifyanalyse.py" timestamp="1594135828769">
+        <mark key="[" line="211" column="52" />
+        <mark key="]" line="211" column="52" />
+        <mark key="." line="211" column="52" />
+        <mark key="^" line="215" column="33" />
+      </file>
+      <file name="D:/workspace/python/SuperMario/source/constants.py" timestamp="1594124403666">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
+      <file name="D:/workspace/python/SuperMario/main.py" timestamp="1593954328836">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="13" column="42" />
       </file>
       <file name="D:/workspace/python/SuperMario/source/states/load_screen.py" timestamp="1593954871865">
         <mark key="[" line="37" column="41" />
@@ -220,13 +232,6 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="28" column="93" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/components/box.py" timestamp="1594043793067">
-        <mark key="'" line="17" column="12" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="19" column="16" />
-      </file>
       <file name="D:/workspace/python/SuperMario/source/components/player.py" timestamp="1594127091504">
         <mark key="'" line="138" column="23" />
         <mark key="[" line="182" column="0" />
@@ -234,12 +239,11 @@
         <mark key="." line="201" column="25" />
         <mark key="^" line="201" column="26" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/states/main_menu.py" timestamp="1594124939168">
-        <mark key="'" line="75" column="32" />
-        <mark key="[" line="96" column="31" />
-        <mark key="]" line="103" column="34" />
-        <mark key="." line="103" column="33" />
-        <mark key="^" line="103" column="34" />
+      <file name="D:/workspace/python/stockdatamanage/test/mytest.py" timestamp="1594135912123">
+        <mark key="[" line="517" column="25" />
+        <mark key="]" line="517" column="27" />
+        <mark key="." line="517" column="26" />
+        <mark key="^" line="517" column="27" />
       </file>
       <file name="D:/workspace/python/SuperMario/source/components/coin.py" timestamp="1593849218669">
         <mark key="[" line="28" column="0" />
@@ -247,11 +251,11 @@
         <mark key="^" line="11" column="52" />
         <mark key="." line="11" column="51" />
       </file>
-      <file name="D:/workspace/python/stockdatamanage/datamanage.py" timestamp="1594134151871">
-        <mark key="[" line="142" column="36" />
-        <mark key="]" line="143" column="16" />
-        <mark key="^" line="143" column="16" />
-        <mark key="." line="143" column="15" />
+      <file name="D:/workspace/python/stockdatamanage/datamanage.py" timestamp="1594136462464">
+        <mark key="[" line="99" column="23" />
+        <mark key="]" line="102" column="27" />
+        <mark key="^" line="102" column="27" />
+        <mark key="." line="102" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -360,16 +364,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text encoding="base64">ICUgbG9jYWxzKCkp</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text encoding="base64">ICUgbG9jYWxzKCkp</text>
       </register>
       <register name="/" type="4">
         <text>keys</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiB0cmFtcGxlZChzZWxmKToKICAgICAgICBzZWxmLnhfdmVsID0gMAogICAgICAgIHNlbGYuZnJhbWVfaW5kZXggPSAyCiAgICAgICAgaWYgc2VsZi5kZWF0aF90aW1lciA9PSAwOgogICAgICAgICAgICBzZWxmLmRlYXRoX3RpbWVyID0gc2VsZi5jdXJyZW50X3RpbWUKICAgICAgICBpZiBzZWxmLmN1cnJlbnRfdGltZSAtIHNlbGYuZGVhdGhfdGltZXIgPiA1MDA6CiAgICAgICAgICAgIHNlbGYua2lsbCgpCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRhdGUgPSAyMDIwMQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
