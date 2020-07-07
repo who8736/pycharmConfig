@@ -128,18 +128,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="D:/workspace/python/myexam/sqlrw.py" timestamp="1593529701385">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="11" column="0" />
-      </file>
       <file name="D:/workspace/python/SuperMario/source/states/level.py" timestamp="1594128464445">
         <mark key="'" line="79" column="18" />
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="12" />
         <mark key="." line="133" column="12" />
         <mark key="^" line="131" column="32" />
+      </file>
+      <file name="D:/workspace/python/stockdatamanage/classifyanalyse.py" timestamp="1594134385031">
+        <mark key="[" line="261" column="47" />
+        <mark key="]" line="261" column="47" />
+        <mark key="." line="261" column="47" />
+        <mark key="^" line="261" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1593701951235">
         <mark key="[" line="0" column="0" />
@@ -150,13 +150,6 @@
         <mark key="[" line="156" column="65" />
         <mark key="]" line="156" column="66" />
         <mark key="." line="156" column="66" />
-      </file>
-      <file name="D:/workspace/python/myexam/import_questions.py" timestamp="1593529755815">
-        <mark key="'" line="115" column="21" />
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="25" />
       </file>
       <file name="/Python Console" timestamp="1593789681160">
         <mark key="[" line="0" column="0" />
@@ -253,6 +246,12 @@
         <mark key="]" line="11" column="52" />
         <mark key="^" line="11" column="52" />
         <mark key="." line="11" column="51" />
+      </file>
+      <file name="D:/workspace/python/stockdatamanage/datamanage.py" timestamp="1594134151871">
+        <mark key="[" line="142" column="36" />
+        <mark key="]" line="143" column="16" />
+        <mark key="^" line="143" column="16" />
+        <mark key="." line="143" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -361,10 +360,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>keys</text>
