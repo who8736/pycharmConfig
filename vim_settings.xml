@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>inc_adf_linea</entry>
         <entry>inc_adf_linear</entry>
         <entry>reshape</entry>
         <entry>gridspec</entry>
@@ -25,9 +24,9 @@
         <entry encoding="base64">XDx3YWxraW5nX3RpbWVyXD4=</entry>
         <entry>brick</entry>
         <entry>left</entry>
+        <entry>keys</entry>
       </history-search>
       <history-cmd>
-        <entry>s/start/end/g</entry>
         <entry encoding="base64">JzwsJz5zL2J0bi1sYXJnZSAvLw==</entry>
         <entry encoding="base64">JzwsJz5zL2J0biAvLw==</entry>
         <entry>s/1/2/g</entry>
@@ -47,6 +46,7 @@
         <entry>s/aa/turn_accel/g</entry>
         <entry>s/brick/box/g</entry>
         <entry>s/left/right/g</entry>
+        <entry encoding="base64">JzwsJz5zL2tleXMvL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,12 +134,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/states/level.py" timestamp="1594046905281">
-        <mark key="'" line="78" column="18" />
-        <mark key="[" line="102" column="35" />
-        <mark key="]" line="104" column="36" />
-        <mark key="^" line="104" column="36" />
-        <mark key="." line="104" column="35" />
+      <file name="D:/workspace/python/SuperMario/source/states/level.py" timestamp="1594128464445">
+        <mark key="'" line="79" column="18" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="12" />
+        <mark key="." line="133" column="12" />
+        <mark key="^" line="131" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1593701951235">
         <mark key="[" line="0" column="0" />
@@ -170,14 +170,15 @@
         <mark key="^" line="9" column="9" />
         <mark key="." line="9" column="8" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/constants.py" timestamp="1594045385308">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="16" />
+      <file name="D:/workspace/python/SuperMario/source/constants.py" timestamp="1594124403666">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/components/stuff.py" timestamp="1593916745831">
-        <mark key="[" line="8" column="42" />
+      <file name="D:/workspace/python/SuperMario/source/components/stuff.py" timestamp="1594126084919">
+        <mark key="[" line="14" column="24" />
         <mark key="]" line="8" column="42" />
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="42" />
@@ -195,12 +196,12 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/components/enemy.py" timestamp="1594046948592">
-        <mark key="'" line="40" column="12" />
-        <mark key="[" line="39" column="83" />
-        <mark key="]" line="39" column="84" />
-        <mark key="^" line="39" column="84" />
-        <mark key="." line="39" column="83" />
+      <file name="D:/workspace/python/SuperMario/source/components/enemy.py" timestamp="1594129000824">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="122" column="24" />
+        <mark key="]" line="122" column="24" />
+        <mark key="^" line="122" column="35" />
+        <mark key="." line="122" column="24" />
       </file>
       <file name="D:/workspace/python/SuperMario/source/tools.py" timestamp="1593955124962">
         <mark key="[" line="23" column="52" />
@@ -233,14 +234,14 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="19" column="16" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/components/player.py" timestamp="1594041619056">
+      <file name="D:/workspace/python/SuperMario/source/components/player.py" timestamp="1594127091504">
         <mark key="'" line="138" column="23" />
-        <mark key="[" line="201" column="25" />
-        <mark key="]" line="201" column="26" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="228" column="0" />
         <mark key="." line="201" column="25" />
         <mark key="^" line="201" column="26" />
       </file>
-      <file name="D:/workspace/python/SuperMario/source/states/main_menu.py" timestamp="1593955486906">
+      <file name="D:/workspace/python/SuperMario/source/states/main_menu.py" timestamp="1594124939168">
         <mark key="'" line="75" column="32" />
         <mark key="[" line="96" column="31" />
         <mark key="]" line="103" column="34" />
@@ -255,9 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="30" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
-      <jump line="174" column="9" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
-      <jump line="320" column="9" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="434" column="11" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="765" column="6" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
       <jump line="5" column="0" filename="D:/workspace/python/stockdatamanage/test/linear_regression.py" />
@@ -355,61 +353,64 @@
       <jump line="77" column="18" filename="D:/workspace/python/SuperMario/source/states/level.py" />
       <jump line="40" column="12" filename="D:/workspace/python/SuperMario/source/components/enemy.py" />
       <jump line="15" column="7" filename="D:/workspace/python/SuperMario/source/components/brick.py" />
+      <jump line="12" column="10" filename="D:/workspace/python/SuperMario/source/constants.py" />
+      <jump line="17" column="0" filename="D:/workspace/python/SuperMario/source/constants.py" />
+      <jump line="67" column="0" filename="D:/workspace/python/SuperMario/source/components/enemy.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>255</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>255</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>left</text>
+        <text>keys</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBicmlnaHRfZnJhbWVzX3JlY3QgPSBbKDk2LCA5LCAxNiwgMjIpLCAoMTEyLCA5LCAxNiwgMjIpLCAoMTYwLCA5LCAxNiwgMjIpXQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0cmFtcGxlZChzZWxmKToKICAgICAgICBzZWxmLnhfdmVsID0gMAogICAgICAgIHNlbGYuZnJhbWVfaW5kZXggPSAyCiAgICAgICAgaWYgc2VsZi5kZWF0aF90aW1lciA9PSAwOgogICAgICAgICAgICBzZWxmLmRlYXRoX3RpbWVyID0gc2VsZi5jdXJyZW50X3RpbWUKICAgICAgICBpZiBzZWxmLmN1cnJlbnRfdGltZSAtIHNlbGYuZGVhdGhfdGltZXIgPiA1MDA6CiAgICAgICAgICAgIHNlbGYua2lsbCgpCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA9IFsoMCwgNDgsIDE2LCAxNiksICgxNiwgNDgsIDE2LCAxNiksICgzMiwgNDgsIDE2LCAxNildCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBicmlnaHRfZnJhbWVzX3JlY3QgPSBbKDk2LCA5LCAxNiwgMjIpLCAoMTEyLCA5LCAxNiwgMjIpLCAoOTYsIDksIDE2LCAyMildCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXJrX2ZyYW1lc19yZWN0ID0gWygxNiwgMzIsIDE2LCAxNiksICg0OCwgMzIsIDE2LCAxNildCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmRlYWQgPSBUcnVlCiAgICAgICAgc2VsZi55X3ZlbCA9IHNlbGYuanVtcF92ZWwKICAgICAgICBzZWxmLmZyYW1lX2luZGV4ID0gNgogICAgICAgIHNlbGYuc3RhdGUgPSAnZGllJwogICAgICAgIHNlbGYuZGVhdGhfdGltZXIgPSBzZWxmLmN1cnJlbnRfdGltZQogICAgICAgIHNlbGYua2lsbCgpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGVuZW15X2dyb3VwIGluIHNlbGYuZW5lbXlfZ3JvdXBfZGljdC52YWx1ZXMoKToKICAgICAgICAgICAgICAgIGVuZW15X2dyb3VwLnVwZGF0ZShzZWxmKQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgZW5lbXlfZ3JvdXAgaW4gc2VsZi5lbmVteV9ncm91cF9kaWN0LnZhbHVlcygpOgogICAgICAgICAgICBlbmVteV9ncm91cC5kcmF3KHNlbGYuZ2FtZV9ncm91bmQp</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdicmlja19udW0nIGluIGJyaWNrX2RhdGE6CiAgICAgICAgICAgICAgICAgICAgIyBUT0RPIGJhdGNoIGJyaWNrcwogICAgICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmN1cnJlbnRfdGltZSAtIHNlbGYudGltZXIgPiAxMjU6CiAgICAgICAgICAgIGlmIHNlbGYuZnJhbWVfaW5kZXggPCAzOgogICAgICAgICAgICAgICAgc2VsZi5mcmFtZV9pbmRleCArPSAxCiAgICAgICAgICAgICAgICBzZWxmLmZyYW1lX2luZGV4ICU9IDMKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICMgcHJpbnQoJ3h4JykKICAgICAgICAgICAgICAgIHNlbGYuZnJhbWVfaW5kZXggPSAwCiAgICAgICAgICAgIHNlbGYud2Fsa2luZ190aW1lciA9IHNlbGYuY3VycmVudF90aW1lCiAgICAgICAgaWYga2V5c1tweWdhbWUuS19SSUdIVF06CiAgICAgICAgICAgIHNlbGYuZmFjZV9yaWdodCA9IFRydWUKICAgICAgICAgICAgaWYgc2VsZi54X3ZlbCA8IDA6CiAgICAgICAgICAgICAgICBzZWxmLmZyYW1lX2luZGV4ID0gNQogICAgICAgICAgICAgICAgc2VsZi54X2FjY2VsID0gc2VsZi50dXJuX2FjY2VsCiAgICAgICAgICAgIHNlbGYueF92ZWwgPSBzZWxmLmNhbGNfdmVsKHNlbGYueF92ZWwsIHNlbGYueF9hY2NlbCwgc2VsZi5tYXhfeF92ZWwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRydWUpCiAgICAgICAgZWxpZiBrZXlzW3B5Z2FtZS5LX0xFRlRdOgogICAgICAgICAgICBzZWxmLmZhY2VfcmlnaHQgPSBGYWxzZQogICAgICAgICAgICBpZiBzZWxmLnhfdmVsID4gMDoKICAgICAgICAgICAgICAgIHNlbGYuZnJhbWVfaW5kZXggPSA1CiAgICAgICAgICAgICAgICBzZWxmLnhfYWNjZWwgPSBzZWxmLnR1cm5fYWNjZWwKICAgICAgICAgICAgc2VsZi54X3ZlbCA9IHNlbGYuY2FsY192ZWwoc2VsZi54X3ZlbCwgc2VsZi54X2FjY2VsLCBzZWxmLm1heF94X3ZlbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRmFsc2UpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgaWYgc2VsZi5mYWNlX3JpZ2h0OgogICAgICAgICAgICAgICAgc2VsZi54X3ZlbCAtPSBzZWxmLnhfYWNjZWwKICAgICAgICAgICAgICAgIGlmIHNlbGYueF92ZWwgPCAwOgogICAgICAgICAgICAgICAgICAgIHNlbGYueF92ZWwgPSAwCiAgICAgICAgICAgICAgICAgICAgc2VsZi5zdGF0ZSA9ICdzdGFuZCcKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHNlbGYueF92ZWwgKz0gc2VsZi54X2FjY2VsCiAgICAgICAgICAgICAgICBpZiBzZWxmLnhfdmVsID4gMDoKICAgICAgICAgICAgICAgICAgICBzZWxmLnhfdmVsID0gMAogICAgICAgICAgICAgICAgICAgIHNlbGYuc3RhdGUgPSAnc3RhbmQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICdicmlja19udW0nIGluIGJyaWNrX2RhdGE6CiAgICAgICAgICAgICAgICAgICAgIyBUT0RPIGJhdGNoIGJyaWNrcwogICAgICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5icmlja19ncm91cC5hZGQoYnJpY2suQnJpY2soeCwgeSwgYnJpY2tfdHlwZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmN1cnJlbnRfdGltZSAtIHNlbGYudGltZXIgPiAxMjU6CiAgICAgICAgICAgIHNlbGYuZnJhbWVfaW5kZXggPSAoc2VsZi5mcmFtZV9pbmRleCArIDEpICUgMgogICAgICAgICAgICBzZWxmLmltYWdlID0gc2VsZi5mcmFtZXNbc2VsZi5mcmFtZV9pbmRleF0KICAgICAgICAgICAgc2VsZi50aW1lciA9IHNlbGYuY3VycmVudF90aW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldHVwX2JveCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludChzZWxmLmN1cnJlbnRfdGltZSwgc2VsZi53YWxraW5nX3RpbWVyLCBzZWxmLmZyYW1lX2luZGV4KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgY29sb3I6CiAgICAgICAgICAgIHNlbGYuZnJhbWVfcmVjdHMgPSBicmlnaHRfcmVjdF9mcmFtZXMKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLmZyYW1lX3JlY3RzID0gZGFya19yZWN0X2ZyYW1lcwoK</text>
+        <text encoding="base64">ICAgICAgICBpZiBrZXlzW3B5Z2FtZS5LX3NdOgogICAgICAgICAgICBzZWxmLm1heF94X3ZlbCA9IHNlbGYubWF4X3J1bl92ZWwKICAgICAgICAgICAgc2VsZi54X2FjY2VsID0gc2VsZi5ydW5fYWNjZWwKICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLm1heF94X3ZlbCA9IHNlbGYubWF4X3dhbGtfdmVsCiAgICAgICAgICAgIHNlbGYueF9hY2NlbCA9IHNlbGYud2Fsa19hY2NlbAoKICAgICAgICBpZiBrZXlzW3B5Z2FtZS5LX2FdIGFuZCBzZWxmLmNhbl9qdW1wOgogICAgICAgICAgICBzZWxmLnN0YXRlID0gJ2p1bXAnCiAgICAgICAgICAgIHNlbGYueV92ZWwgPSBzZWxmLmp1bXBfdmVsCgo=</text>
       </register>
       <register name=":" type="4">
-        <text>s/left/right/g</text>
+        <text encoding="base64">JzwsJz5zL2tleXMvL2c=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>left</last-search>
+      <last-search>keys</last-search>
       <last-offset />
-      <last-pattern>left</last-pattern>
-      <last-replace>right</last-replace>
-      <last-substitute>left</last-substitute>
+      <last-pattern>keys</last-pattern>
+      <last-replace />
+      <last-substitute>keys</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
