@@ -29,7 +29,7 @@
     </option>
     <option name="myCustomValuesEnabled" value="true" />
   </inspection_tool>
-  <inspection_tool class="HtmlUnknownTarget" enabled="true" level="TYPO" enabled_by_default="true" />
+  <inspection_tool class="HtmlUnknownTarget" enabled="false" level="TYPO" enabled_by_default="false" />
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
@@ -101,4 +101,5 @@
     <option name="processLiterals" value="true" />
     <option name="processComments" value="true" />
   </inspection_tool>
+  <inspection_tool class="SqlResolveInspection" enabled="false" level="ERROR" enabled_by_default="false" />
 </profile>
