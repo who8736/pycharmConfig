@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="项目 'stockdatamanage'" />
-    <option name="defaultScopeName" value="项目 'stockdatamanage'" />
-    <option name="SEARCH_SCOPE" value="项目 'stockdatamanage'" />
+    <option name="customScope" value="目录 '...\stockdatamanage'" />
+    <option name="defaultScopeName" value="目录 '...\stockdatamanage'" />
+    <option name="SEARCH_SCOPE" value="目录 '...\stockdatamanage'" />
   </component>
 </application>
