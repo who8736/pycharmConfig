@@ -1,6 +1,6 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Vcs.Push" is_action="true" action_type="-1" position="4">
+    <group value="ChangesView.ToggleCommitUi" is_action="true" action_type="-1" position="3">
       <path value="root" />
       <path value="主工具栏" />
       <path value="MainToolBarSettings" />
@@ -14,49 +14,11 @@
       <path value="VCS 操作" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Git.Pull" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="主工具栏" />
       <path value="MainToolBarSettings" />
       <path value="VCS 操作" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Git.Pull" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="NavBarVcsGroup" />
-      <path value="VcsNavBarToobarActions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Vcs.Push" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="VCS Local Changes Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Vcs.Push" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="主工具栏" />
-      <path value="MainToolBarSettings" />
-      <path value="VCS 操作" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="工具栏运行操作" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ChooseRunConfiguration" is_action="true" action_type="1" position="5">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="工具栏运行操作" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
