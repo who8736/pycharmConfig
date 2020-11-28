@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" />
-    <option name="defaultScopeName" />
-    <option name="SEARCH_SCOPE" />
+    <option name="customScope" value="文件 '...\stockdatamanage\check.py'" />
+    <option name="defaultScopeName" value="文件 '...\stockdatamanage\check.py'" />
+    <option name="SEARCH_SCOPE" value="文件 '...\stockdatamanage\check.py'" />
   </component>
 </application>
