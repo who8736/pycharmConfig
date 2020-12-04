@@ -1,9 +1,11 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="80" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
   <option name="SOFT_MARGINS" value="80" />
   <option name="DO_NOT_FORMAT">
     <list>
-      <fileSet type="namedScope" name="jinja" pattern="{{ .* }}" />
+      <fileSet type="namedScope" name="jinja" />
     </list>
   </option>
   <JSCodeStyleSettings version="0">
