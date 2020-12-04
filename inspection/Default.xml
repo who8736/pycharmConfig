@@ -39,7 +39,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="29">
+        <list size="32">
           <item index="0" class="java.lang.String" itemvalue="mpl_finance" />
           <item index="1" class="java.lang.String" itemvalue="tushare" />
           <item index="2" class="java.lang.String" itemvalue="Flask_WTF" />
@@ -69,6 +69,9 @@
           <item index="26" class="java.lang.String" itemvalue="supervisor" />
           <item index="27" class="java.lang.String" itemvalue="redis" />
           <item index="28" class="java.lang.String" itemvalue="attrs" />
+          <item index="29" class="java.lang.String" itemvalue="WTForms" />
+          <item index="30" class="java.lang.String" itemvalue="scipy" />
+          <item index="31" class="java.lang.String" itemvalue="scikit-learn" />
         </list>
       </value>
     </option>
