@@ -281,6 +281,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.fnc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.fxml">
           <value>
             <plugin>
@@ -784,6 +792,38 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pkb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pkg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pks">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.plsql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.png">
           <value>
             <plugin>
@@ -856,6 +896,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.prc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.properties">
           <value>
             <plugin>
@@ -871,6 +919,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.psql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -1135,6 +1191,38 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tpb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tpe">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tps">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.trg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ts">
           <value>
             <plugin>
@@ -1194,6 +1282,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vw">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="DBN" />
+              <option name="myPluginName" value="Database Navigator" />
             </plugin>
           </value>
         </entry>
@@ -1667,6 +1763,16 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="DBNMethodRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DB Method" pluginName="Database Navigator" pluginId="DBN" />
+                    </value>
+                  </entry>
+                  <entry key="DBNStatementRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DB Statement" pluginName="Database Navigator" pluginId="DBN" />
+                    </value>
+                  </entry>
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="数据库脚本" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
@@ -1705,6 +1811,16 @@
                   <entry key="NodeWebKit">
                     <value>
                       <FeaturePluginData displayName="NW.js" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                    </value>
+                  </entry>
+                  <entry key="OdpsPythonConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="MaxCompute Python" pluginName="OdpsStudio" pluginId="OdpsStudio" />
+                    </value>
+                  </entry>
+                  <entry key="OdpsQLRunnerConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="MaxCompute SQL" pluginName="MaxCompute Studio" pluginId="OdpsStudio" />
                     </value>
                   </entry>
                   <entry key="PyBehaveRunConfigurationType">
