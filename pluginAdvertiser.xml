@@ -2040,7 +2040,7 @@
                   </entry>
                   <entry key="PyBehaveRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="行为" pluginName="Pythonid" pluginId="Pythonid" />
+                      <FeaturePluginData displayName="Behave" pluginName="Pythonid" pluginId="Pythonid" />
                     </value>
                   </entry>
                   <entry key="PyRemoteDebugConfigurationType">
