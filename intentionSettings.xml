@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Python/Add type hint for variable" />
+    <ignoreAction name="XML/重新排列标记属性" />
   </component>
 </application>

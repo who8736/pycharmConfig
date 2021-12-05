@@ -2,6 +2,8 @@
   <option name="myName" value="Default" />
   <inspection_tool class="CheckEmptyScriptTag" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="CheckValidXmlInScriptTagBody" enabled="true" level="TYPO" enabled_by_default="true" />
+  <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="HtmlExtraClosingTag" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="HtmlMissingClosingTag" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="HtmlUnknownAnchorTarget" enabled="true" level="TYPO" enabled_by_default="true" />
@@ -17,23 +19,26 @@
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="TYPO" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="6">
+        <list size="7">
           <item index="0" class="java.lang.String" itemvalue="nobr" />
           <item index="1" class="java.lang.String" itemvalue="noembed" />
           <item index="2" class="java.lang.String" itemvalue="comment" />
           <item index="3" class="java.lang.String" itemvalue="noscript" />
           <item index="4" class="java.lang.String" itemvalue="embed" />
           <item index="5" class="java.lang.String" itemvalue="script" />
+          <item index="6" class="java.lang.String" itemvalue="style" />
         </list>
       </value>
     </option>
     <option name="myCustomValuesEnabled" value="true" />
   </inspection_tool>
-  <inspection_tool class="HtmlUnknownTarget" enabled="true" level="TYPO" enabled_by_default="true" />
+  <inspection_tool class="HtmlUnknownTarget" enabled="false" level="TYPO" enabled_by_default="false" />
+  <inspection_tool class="JSUndeclaredVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnusedGlobalSymbols" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="29">
+        <list size="33">
           <item index="0" class="java.lang.String" itemvalue="mpl_finance" />
           <item index="1" class="java.lang.String" itemvalue="tushare" />
           <item index="2" class="java.lang.String" itemvalue="Flask_WTF" />
@@ -63,6 +68,10 @@
           <item index="26" class="java.lang.String" itemvalue="supervisor" />
           <item index="27" class="java.lang.String" itemvalue="redis" />
           <item index="28" class="java.lang.String" itemvalue="attrs" />
+          <item index="29" class="java.lang.String" itemvalue="WTForms" />
+          <item index="30" class="java.lang.String" itemvalue="scipy" />
+          <item index="31" class="java.lang.String" itemvalue="scikit-learn" />
+          <item index="32" class="java.lang.String" itemvalue="xlrd" />
         </list>
       </value>
     </option>
@@ -72,6 +81,8 @@
       <list>
         <option value="E501" />
         <option value="W605" />
+        <option value="E127" />
+        <option value="E402" />
       </list>
     </option>
   </inspection_tool>
@@ -100,4 +111,7 @@
     <option name="processLiterals" value="true" />
     <option name="processComments" value="true" />
   </inspection_tool>
+  <inspection_tool class="SqlResolveInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="SyntaxError" enabled="false" level="ERROR" enabled_by_default="false" />
 </profile>
